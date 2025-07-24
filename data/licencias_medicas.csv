@@ -1,0 +1,1988 @@
+licencia_id,beneficiario_id,ccaf,fecha_emision,dias_licencia,causa,emisor_rut,region,monto_subsidio_clp,estado_pago,fecha_pago
+1,1,Los Héroes,2025-01-12,14,COVID-19,10433218-1,Los Lagos,528724,Pagado,2025-02-05
+2,2,Gabriela Mistral,2025-05-04,1,Enfermedad común,01338908-3,Los Lagos,38165,Pagado,2025-05-30
+3,2,Gabriela Mistral,2025-04-15,4,Accidente,79402654-2,Metropolitana,218240,Pagado,2025-04-26
+4,6,La Araucana,2024-08-29,6,Salud Mental,51161559-4,Tarapacá,91722,Pagado,2024-10-24
+5,6,La Araucana,2023-05-18,1,COVID-19,78161849-5,Metropolitana,47528,Pagado,2023-06-07
+6,8,18 de Septiembre,2023-01-04,1,COVID-19,10341316-4,Aysén,39881,Pagado,2023-01-25
+7,8,18 de Septiembre,2023-08-13,1,COVID-19,52553419-K,Valparaíso,52422,Pagado,2023-09-28
+8,8,18 de Septiembre,2024-12-11,9,Cuidados paliativos,32764835-0,O'Higgins,332001,Pagado,2024-12-19
+9,11,Los Héroes,2024-05-04,20,Salud Mental,05641395-3,Magallanes,975660,Pagado,2024-06-19
+10,11,Los Héroes,2023-10-30,9,Enfermedad grave hijo <1,72423884-9,Los Lagos,396828,Pagado,2023-12-18
+11,11,Los Héroes,2024-06-17,15,Cuidados paliativos,65328710-1,Coquimbo,674670,Pagado,2024-07-25
+12,13,Gabriela Mistral,2023-03-14,1,COVID-19,26916697-8,Maule,36067,Pagado,2023-03-28
+13,17,Los Héroes,2024-09-27,9,Cuidados paliativos,01845146-2,Aysén,295137,Pagado,2024-10-15
+14,18,Gabriela Mistral,2024-09-04,36,Enfermedad común,48281489-3,Coquimbo,1688364,Pagado,2024-10-17
+15,19,Los Andes,2025-04-25,15,Maternidad,28809570-1,La Araucanía,672675,Pagado,2025-06-04
+16,20,Los Héroes,2023-04-06,14,Salud Mental,43039117-1,Coquimbo,595896,Pagado,2023-04-28
+17,20,Los Héroes,2023-10-21,1,Accidente,78248963-8,Metropolitana,25900,Pagado,2023-11-08
+18,20,Los Héroes,2025-01-12,1,COVID-19,46578713-3,Antofagasta,49782,Pagado,2025-01-28
+19,20,Los Héroes,2023-12-03,19,Maternidad,09839301-K,Tarapacá,551418,Pagado,2023-12-22
+20,22,Gabriela Mistral,2024-01-07,39,Accidente,10518347-3,Coquimbo,1496898,Pagado,2024-01-25
+21,22,Gabriela Mistral,2025-04-26,18,COVID-19,99737631-1,Los Lagos,953946,Pagado,2025-05-23
+22,22,Gabriela Mistral,2025-03-10,1,Maternidad,66701065-1,O'Higgins,15935,Pendiente,
+23,23,Los Héroes,2024-08-29,31,Accidente,38726247-3,Antofagasta,1623501,Pagado,2024-09-10
+24,23,Los Héroes,2023-09-04,1,Enfermedad grave hijo <1,81080132-6,Magallanes,40216,Pagado,2023-10-01
+25,23,Los Héroes,2024-08-30,31,Enfermedad grave hijo <1,36026064-7,Ñuble,1408175,Pagado,2024-09-23
+26,24,Los Andes,2023-04-21,1,Enfermedad grave hijo <1,87234309-8,Tarapacá,39704,Pagado,2023-05-24
+27,24,Los Andes,2025-05-01,1,COVID-19,50097882-0,Antofagasta,17994,Pagado,2025-06-09
+28,25,Los Andes,2023-07-31,27,Salud Mental,21913619-3,Tarapacá,891756,Pagado,2023-09-12
+29,26,18 de Septiembre,2024-11-15,20,Cuidados paliativos,16998543-K,Biobío,657660,Pagado,2025-01-11
+30,26,18 de Septiembre,2025-05-26,26,Accidente,46247510-7,Atacama,661700,Pagado,2025-06-07
+31,27,18 de Septiembre,2023-01-26,1,Enfermedad común,83842513-5,Ñuble,28331,Pagado,2023-03-19
+32,29,Los Héroes,2025-02-17,1,Accidente,78498084-K,Atacama,25905,Pagado,2025-03-04
+33,31,18 de Septiembre,2025-06-02,23,Accidente,41182449-3,Biobío,476008,Rechazado,
+34,32,Los Héroes,2024-01-11,1,Accidente,48740164-0,Arica y Parinacota,48030,Pagado,2024-01-19
+35,34,Los Andes,2024-09-20,35,Maternidad,24278680-1,Antofagasta,1266965,Pagado,2024-10-19
+36,34,Los Andes,2024-01-16,13,COVID-19,28059826-2,Tarapacá,462761,Pagado,2024-03-12
+37,35,18 de Septiembre,2023-11-01,1,Maternidad,50533158-6,Coquimbo,45133,Pagado,2023-12-20
+38,37,18 de Septiembre,2023-02-23,26,Accidente,22602563-4,Valparaíso,1229384,Pagado,2023-04-04
+39,37,18 de Septiembre,2025-02-20,16,Salud Mental,16073375-4,O'Higgins,768640,Pagado,2025-04-11
+40,39,Los Andes,2023-08-05,1,Accidente,03654145-K,Los Ríos,15946,Pagado,2023-09-25
+41,40,La Araucana,2024-05-20,12,COVID-19,85014294-0,Atacama,520428,Pagado,2024-06-03
+42,41,Los Héroes,2024-01-16,17,Cuidados paliativos,65569816-9,Metropolitana,451673,Pagado,2024-03-12
+43,44,La Araucana,2024-10-05,42,Maternidad,06088356-1,Biobío,1928136,Pagado,2024-11-02
+44,45,La Araucana,2023-10-10,27,Cuidados paliativos,51484656-4,Coquimbo,418689,Pendiente,
+45,45,La Araucana,2023-12-21,6,Accidente,66299468-0,Ñuble,275874,Pagado,2024-02-02
+46,46,Los Andes,2024-10-31,1,Maternidad,36995777-K,Metropolitana,49069,Pagado,2024-12-18
+47,46,Los Andes,2023-09-25,17,Cuidados paliativos,72148951-3,Ñuble,266764,Pagado,2023-09-30
+48,46,Los Andes,2024-01-18,18,Accidente,32003791-7,Los Lagos,451314,Rechazado,
+49,48,Gabriela Mistral,2024-08-20,1,COVID-19,93676320-1,Los Lagos,22933,Pendiente,
+50,49,La Araucana,2023-08-17,1,Accidente,28708317-2,Aysén,41123,Rechazado,
+51,51,Los Héroes,2025-01-28,15,COVID-19,88957986-8,Aysén,597690,Pagado,2025-03-12
+52,52,Los Héroes,2023-09-16,1,Accidente,77434873-4,Aysén,41347,Pagado,2023-10-23
+53,53,Los Héroes,2024-06-06,14,Enfermedad común,43455812-2,O'Higgins,627102,Pagado,2024-07-02
+54,55,18 de Septiembre,2023-03-26,28,Enfermedad grave hijo <1,23166587-6,Tarapacá,693896,Pagado,2023-04-30
+55,55,18 de Septiembre,2025-06-28,5,Accidente,66909670-5,Ñuble,137330,Pagado,2025-07-11
+56,57,Los Héroes,2024-03-18,1,Salud Mental,66889373-4,Los Lagos,27070,Pagado,2024-03-29
+57,57,Los Héroes,2023-05-03,4,Enfermedad grave hijo <1,06562729-8,Arica y Parinacota,200652,Pagado,2023-06-11
+58,57,Los Héroes,2024-06-01,3,Enfermedad grave hijo <1,99016272-0,Maule,61545,Pagado,2024-06-18
+59,58,La Araucana,2023-05-02,10,Enfermedad grave hijo <1,53755646-4,Antofagasta,441220,Pagado,2023-05-29
+60,58,La Araucana,2023-01-16,1,Enfermedad grave hijo <1,08053100-3,Metropolitana,53220,Rechazado,
+61,62,Los Héroes,2024-03-03,2,Salud Mental,09232719-3,Aysén,103648,Pendiente,
+62,62,Los Héroes,2023-12-11,22,COVID-19,45299124-1,Arica y Parinacota,948464,Pagado,2024-01-30
+63,62,Los Héroes,2024-01-03,1,Maternidad,96631931-4,Atacama,51630,Rechazado,
+64,62,Los Héroes,2024-03-02,17,Salud Mental,90586518-K,Biobío,725424,Pagado,2024-03-19
+65,65,La Araucana,2023-04-02,1,Enfermedad común,67165726-2,Maule,35590,Pagado,2023-05-08
+66,70,Los Héroes,2024-08-28,36,Cuidados paliativos,87769453-1,Maule,1513872,Pagado,2024-09-26
+67,70,Los Héroes,2023-05-28,17,Enfermedad grave hijo <1,37996507-5,Valparaíso,602225,Pagado,2023-07-21
+68,70,Los Héroes,2023-06-24,1,Enfermedad grave hijo <1,35454948-0,Metropolitana,19683,Pagado,2023-08-17
+69,71,Los Andes,2023-11-05,11,Enfermedad común,36783777-0,Antofagasta,328812,Pagado,2023-12-20
+70,71,Los Andes,2024-12-05,10,Maternidad,36349578-8,La Araucanía,360420,Pagado,2024-12-31
+71,73,Gabriela Mistral,2024-03-14,24,Enfermedad grave hijo <1,85574443-1,Metropolitana,784704,Pendiente,
+72,74,La Araucana,2024-02-14,1,Maternidad,18233749-8,Ñuble,20730,Pagado,2024-03-24
+73,74,La Araucana,2023-06-17,1,Enfermedad común,34352408-2,Maule,32750,Pagado,2023-07-13
+74,76,La Araucana,2024-07-11,26,Enfermedad común,08427109-4,Magallanes,465062,Pagado,2024-09-08
+75,77,Los Andes,2023-03-26,30,Enfermedad grave hijo <1,75204711-6,Magallanes,1399740,Pagado,2023-05-01
+76,79,Los Héroes,2023-08-13,1,Enfermedad común,90229413-1,Los Lagos,33324,Pagado,2023-09-09
+77,83,Gabriela Mistral,2023-05-15,14,Cuidados paliativos,99386774-9,Los Lagos,706454,Pagado,2023-07-11
+78,84,Gabriela Mistral,2023-04-22,31,Maternidad,99091334-K,Antofagasta,895900,Pagado,2023-05-16
+79,84,Gabriela Mistral,2023-04-11,1,Accidente,32812067-9,Magallanes,23488,Pagado,2023-05-23
+80,89,Los Héroes,2024-06-14,18,Maternidad,03447134-K,Metropolitana,396648,Pagado,2024-07-23
+81,90,18 de Septiembre,2024-03-04,1,Enfermedad grave hijo <1,18324210-2,Ñuble,34937,Pendiente,
+82,91,18 de Septiembre,2024-06-11,9,Cuidados paliativos,94717464-8,Magallanes,201141,Pendiente,
+83,91,18 de Septiembre,2024-10-02,1,Enfermedad grave hijo <1,19065940-1,O'Higgins,33255,Pagado,2024-11-30
+84,92,Los Andes,2023-02-14,2,COVID-19,99049027-8,Aysén,99672,Pagado,2023-03-22
+85,93,18 de Septiembre,2023-10-14,11,Maternidad,29671756-5,Biobío,421113,Pagado,2023-11-11
+86,94,18 de Septiembre,2023-01-15,1,COVID-19,12567468-0,Aysén,15515,Pagado,2023-01-28
+87,99,La Araucana,2023-03-20,28,Enfermedad común,54516808-7,Los Lagos,1409520,Pagado,2023-05-08
+88,99,La Araucana,2023-11-26,27,Enfermedad común,38597703-4,Coquimbo,988146,Pagado,2023-12-03
+89,102,Los Andes,2024-09-02,4,Maternidad,77109324-8,Arica y Parinacota,127728,Pagado,2024-09-15
+90,103,Los Héroes,2025-04-03,1,Cuidados paliativos,61317127-4,Maule,32174,Pagado,2025-05-16
+91,105,Los Andes,2023-07-16,21,Enfermedad grave hijo <1,77378263-9,Coquimbo,474621,Pagado,2023-09-13
+92,107,18 de Septiembre,2023-04-16,25,Salud Mental,14658404-4,Magallanes,1075550,Pagado,2023-05-25
+93,107,18 de Septiembre,2024-08-16,1,Salud Mental,27875588-6,Aysén,39900,Pagado,2024-09-08
+94,108,Los Héroes,2023-01-15,1,Maternidad,33963605-7,Los Ríos,16515,Pendiente,
+95,108,Los Héroes,2023-07-02,16,Enfermedad grave hijo <1,27028951-7,Atacama,738976,Pagado,2023-07-22
+96,108,Los Héroes,2023-04-21,1,Cuidados paliativos,70262174-5,Los Ríos,36493,Pagado,2023-05-03
+97,110,18 de Septiembre,2023-09-30,21,COVID-19,15865780-9,Antofagasta,984858,Pagado,2023-11-09
+98,112,18 de Septiembre,2025-04-28,3,Accidente,43161172-4,Arica y Parinacota,91533,Pagado,2025-06-22
+99,112,18 de Septiembre,2025-06-12,24,Enfermedad común,50455623-8,Los Lagos,509304,Pagado,2025-08-03
+100,112,18 de Septiembre,2023-01-21,1,Cuidados paliativos,22219693-7,Coquimbo,36045,Pagado,2023-02-24
+101,113,Gabriela Mistral,2024-12-26,25,Accidente,74740748-2,Antofagasta,817975,Pagado,2025-02-03
+102,113,Gabriela Mistral,2024-01-14,23,Enfermedad grave hijo <1,59464743-6,Magallanes,809899,Pagado,2024-01-25
+103,114,18 de Septiembre,2023-08-18,18,Enfermedad común,36959440-K,Los Ríos,429858,Pagado,2023-09-28
+104,115,Los Andes,2025-01-08,24,Maternidad,09097439-5,O'Higgins,640680,Pendiente,
+105,116,Gabriela Mistral,2023-04-26,37,COVID-19,39421047-0,La Araucanía,1631182,Pagado,2023-05-24
+106,116,Gabriela Mistral,2024-09-19,5,COVID-19,21456232-8,La Araucanía,268685,Pagado,2024-10-07
+107,120,La Araucana,2024-08-13,24,Cuidados paliativos,84247451-7,Antofagasta,597984,Pagado,2024-09-16
+108,121,La Araucana,2024-06-29,1,Accidente,36851604-8,Atacama,51942,Pagado,2024-08-01
+109,122,Los Héroes,2024-04-21,1,Enfermedad grave hijo <1,54965137-0,Biobío,29645,Pagado,2024-06-01
+110,123,Gabriela Mistral,2024-08-19,8,Cuidados paliativos,31746120-0,Ñuble,246432,Pagado,2024-09-27
+111,123,Gabriela Mistral,2024-04-29,17,Enfermedad grave hijo <1,11382675-K,Los Lagos,927112,Pagado,2024-05-19
+112,125,Los Andes,2024-01-25,26,Cuidados paliativos,26179640-5,Metropolitana,671632,Rechazado,
+113,125,Los Andes,2023-11-21,26,Enfermedad grave hijo <1,73515850-6,Maule,1074112,Pagado,2023-11-27
+114,127,Gabriela Mistral,2024-02-26,1,Accidente,17139005-3,Coquimbo,50693,Pendiente,
+115,127,Gabriela Mistral,2023-11-23,8,Salud Mental,93183933-5,Coquimbo,121720,Pagado,2023-12-15
+116,127,Gabriela Mistral,2023-10-10,21,Salud Mental,90422842-1,Arica y Parinacota,1038954,Pagado,2023-11-16
+117,128,Los Héroes,2023-08-16,21,Accidente,05395024-0,Coquimbo,410907,Pagado,2023-09-02
+118,130,Gabriela Mistral,2023-06-20,1,COVID-19,68117758-9,Atacama,31678,Pendiente,
+119,131,18 de Septiembre,2025-05-15,14,Enfermedad grave hijo <1,83908470-0,Magallanes,299474,Pagado,2025-05-26
+120,131,18 de Septiembre,2023-10-23,9,Salud Mental,66177115-9,Coquimbo,470997,Pagado,2023-10-31
+121,131,18 de Septiembre,2024-05-08,25,Enfermedad común,24998569-8,Ñuble,420500,Pagado,2024-05-26
+122,132,Gabriela Mistral,2023-10-25,5,Enfermedad grave hijo <1,89611836-7,O'Higgins,237195,Pendiente,
+123,134,Gabriela Mistral,2023-03-06,1,Enfermedad grave hijo <1,57661565-K,Maule,52845,Pagado,2023-05-04
+124,137,Los Héroes,2024-05-13,12,Maternidad,27111161-5,Coquimbo,258816,Pagado,2024-05-18
+125,137,Los Héroes,2024-06-26,29,Cuidados paliativos,09885165-K,Los Lagos,561672,Pagado,2024-07-23
+126,139,La Araucana,2024-07-21,1,Salud Mental,04945198-3,Coquimbo,49678,Pagado,2024-09-07
+127,141,Los Andes,2025-05-02,1,COVID-19,73158514-9,O'Higgins,31562,Pagado,2025-05-27
+128,142,Gabriela Mistral,2023-03-02,11,Salud Mental,68998094-0,Valparaíso,266959,Pagado,2023-03-22
+129,144,Los Héroes,2024-11-29,7,Maternidad,45502296-1,Coquimbo,243474,Pagado,2025-01-06
+130,144,Los Héroes,2025-03-24,13,COVID-19,01836675-2,La Araucanía,314548,Pagado,2025-04-11
+131,145,Los Héroes,2023-01-02,2,Maternidad,59910229-0,Antofagasta,59640,Pendiente,
+132,146,Los Héroes,2023-05-09,1,Maternidad,76797643-8,Atacama,25740,Pagado,2023-06-01
+133,147,Los Héroes,2023-10-06,23,Maternidad,61497840-3,Los Ríos,923266,Pagado,2023-10-15
+134,149,La Araucana,2024-08-21,25,Cuidados paliativos,00343244-5,Atacama,599925,Pagado,2024-09-08
+135,150,Los Héroes,2024-08-01,4,Enfermedad común,76226838-8,La Araucanía,152440,Pendiente,
+136,151,Los Andes,2023-01-01,5,Enfermedad común,60607159-6,Los Ríos,175140,Pagado,2023-02-06
+137,151,Los Andes,2024-06-01,1,COVID-19,64160529-7,La Araucanía,19321,Pagado,2024-06-26
+138,152,Los Andes,2023-03-15,4,Enfermedad común,61369681-6,Ñuble,141848,Pagado,2023-03-31
+139,153,Los Andes,2024-10-28,1,COVID-19,53521818-8,Metropolitana,35977,Pagado,2024-12-07
+140,153,Los Andes,2023-04-24,19,Salud Mental,55231243-2,Coquimbo,424954,Pagado,2023-05-23
+141,154,Los Andes,2024-03-22,26,Salud Mental,12779979-K,Biobío,1096160,Pagado,2024-05-08
+142,157,Los Héroes,2024-08-31,13,Salud Mental,52717744-9,Tarapacá,602888,Pagado,2024-09-06
+143,158,Gabriela Mistral,2024-10-10,1,Maternidad,81477005-4,Antofagasta,38345,Rechazado,
+144,160,18 de Septiembre,2023-06-01,5,COVID-19,19986798-0,Aysén,200805,Pagado,2023-06-23
+145,160,18 de Septiembre,2024-07-07,1,Salud Mental,93597820-7,Atacama,47924,Pagado,2024-07-29
+146,161,18 de Septiembre,2024-07-12,1,Salud Mental,51820377-8,Valparaíso,37634,Pagado,2024-07-29
+147,163,Gabriela Mistral,2024-06-14,9,Maternidad,54665905-1,Biobío,136377,Pagado,2024-08-06
+148,164,Los Andes,2024-03-25,1,Enfermedad común,86449251-9,Coquimbo,26049,Pagado,2024-05-12
+149,165,18 de Septiembre,2025-05-24,17,Maternidad,46291486-K,Biobío,597839,Pagado,2025-07-20
+150,165,18 de Septiembre,2024-09-21,16,Salud Mental,28168505-4,Valparaíso,388176,Pagado,2024-10-11
+151,167,Los Héroes,2024-06-20,35,Accidente,57332214-1,Tarapacá,898835,Pagado,2024-08-02
+152,169,Los Andes,2023-08-21,1,COVID-19,59296222-9,Valparaíso,34097,Pagado,2023-09-01
+153,170,Los Héroes,2024-12-24,1,COVID-19,70653794-7,O'Higgins,40739,Rechazado,
+154,171,Los Andes,2025-06-12,1,Cuidados paliativos,34735977-4,Los Ríos,41905,Pagado,2025-08-03
+155,174,Los Héroes,2025-03-01,1,Cuidados paliativos,86239240-K,Magallanes,54041,Pagado,2025-04-20
+156,175,Los Héroes,2024-09-03,5,Salud Mental,58181412-4,Aysén,116345,Pagado,2024-10-11
+157,175,Los Héroes,2024-07-09,1,Cuidados paliativos,26137506-0,Los Ríos,18089,Pagado,2024-09-05
+158,176,La Araucana,2023-03-12,12,Cuidados paliativos,53615305-1,Biobío,234900,Pendiente,
+159,178,Los Andes,2025-03-26,30,Salud Mental,22047277-9,Arica y Parinacota,824370,Pendiente,
+160,179,Gabriela Mistral,2024-01-22,1,Enfermedad común,04328986-1,Ñuble,37469,Pagado,2024-02-16
+161,179,Gabriela Mistral,2025-04-19,19,Accidente,41036971-1,Magallanes,938771,Pagado,2025-05-28
+162,182,18 de Septiembre,2023-04-29,1,Cuidados paliativos,80893246-0,La Araucanía,51077,Pagado,2023-05-13
+163,183,Los Andes,2025-01-04,47,Accidente,96218518-8,Arica y Parinacota,2153775,Pagado,2025-01-12
+164,184,La Araucana,2023-01-12,28,Enfermedad grave hijo <1,70654051-5,O'Higgins,1024352,Pagado,2023-01-22
+165,186,Los Héroes,2025-04-20,1,COVID-19,19520585-K,Valparaíso,25875,Pagado,2025-05-04
+166,186,Los Héroes,2024-04-13,1,Salud Mental,77221704-3,Tarapacá,24327,Pagado,2024-05-16
+167,187,Gabriela Mistral,2025-01-21,1,Salud Mental,30548687-4,Tarapacá,35116,Pagado,2025-02-24
+168,188,Los Andes,2024-02-26,2,Salud Mental,34505415-6,Los Ríos,73594,Pagado,2024-04-14
+169,188,Los Andes,2023-03-27,18,COVID-19,76527758-4,Antofagasta,595152,Pagado,2023-05-08
+170,188,Los Andes,2024-07-16,6,COVID-19,61692845-1,Antofagasta,180282,Pagado,2024-07-26
+171,189,Los Andes,2025-03-11,1,Maternidad,44796275-7,Tarapacá,36304,Pagado,2025-03-27
+172,192,Gabriela Mistral,2025-03-04,8,COVID-19,59640165-8,Valparaíso,316800,Pagado,2025-04-11
+173,192,Gabriela Mistral,2023-02-26,27,Enfermedad común,29702135-5,Los Ríos,751059,Pagado,2023-04-08
+174,194,La Araucana,2025-01-27,6,Cuidados paliativos,09275571-9,Coquimbo,313590,Pagado,2025-02-24
+175,195,Los Héroes,2023-12-09,33,Cuidados paliativos,56543102-7,Los Ríos,1029435,Pendiente,
+176,195,Los Héroes,2023-07-29,22,Cuidados paliativos,14473947-3,Atacama,977064,Pagado,2023-08-25
+177,199,Gabriela Mistral,2024-06-13,13,Accidente,17271551-8,Ñuble,479921,Pagado,2024-07-06
+178,201,La Araucana,2024-08-10,21,Maternidad,22583132-3,Magallanes,894474,Pagado,2024-09-01
+179,201,La Araucana,2024-08-11,16,Enfermedad común,58957829-1,Antofagasta,741728,Pagado,2024-09-10
+180,202,18 de Septiembre,2023-05-31,21,Maternidad,67866912-5,Antofagasta,770511,Pendiente,
+181,204,Los Andes,2025-03-30,1,Enfermedad grave hijo <1,78528922-6,Tarapacá,15654,Pagado,2025-04-10
+182,205,Los Héroes,2025-01-21,14,Salud Mental,18242253-5,Ñuble,590800,Pagado,2025-03-10
+183,205,Los Héroes,2023-01-26,1,Salud Mental,14384249-8,Antofagasta,32392,Rechazado,
+184,209,Los Héroes,2023-12-02,5,Cuidados paliativos,29922995-9,Tarapacá,231950,Pagado,2023-12-31
+185,211,18 de Septiembre,2023-12-19,11,Salud Mental,01094396-9,Arica y Parinacota,468303,Pagado,2024-01-20
+186,212,Los Héroes,2025-05-27,1,Enfermedad grave hijo <1,84473647-1,Tarapacá,33252,Pagado,2025-07-15
+187,213,18 de Septiembre,2023-02-11,39,Accidente,76773592-5,Biobío,1705938,Pagado,2023-02-23
+188,214,La Araucana,2024-10-16,1,COVID-19,56258815-3,Aysén,38205,Pagado,2024-11-18
+189,214,La Araucana,2024-08-17,1,Enfermedad común,47321046-9,Los Lagos,41627,Pendiente,
+190,217,Los Héroes,2023-04-11,1,Accidente,25953278-7,Magallanes,42586,Pagado,2023-06-07
+191,219,Los Andes,2023-08-14,1,Maternidad,70168733-9,La Araucanía,52292,Pagado,2023-09-15
+192,223,18 de Septiembre,2024-12-30,31,Enfermedad común,04797480-1,Los Lagos,1047769,Rechazado,
+193,224,Los Héroes,2023-03-31,35,Accidente,45650609-8,Metropolitana,1712935,Pagado,2023-04-13
+194,224,Los Héroes,2025-04-15,25,Maternidad,84168784-9,Atacama,841150,Pagado,2025-05-13
+195,226,Los Andes,2024-07-13,10,Accidente,16558523-9,Los Ríos,269910,Pagado,2024-08-12
+196,226,Los Andes,2023-03-21,1,Cuidados paliativos,00025787-2,Coquimbo,46416,Pagado,2023-04-09
+197,227,La Araucana,2024-02-24,21,Maternidad,95269495-8,Magallanes,1113021,Pendiente,
+198,227,La Araucana,2024-05-17,26,COVID-19,94705516-9,Ñuble,1391598,Pagado,2024-07-15
+199,229,18 de Septiembre,2023-09-03,1,Salud Mental,09749930-9,Magallanes,54828,Pagado,2023-10-27
+200,229,18 de Septiembre,2023-02-06,11,Accidente,89623091-3,Arica y Parinacota,574156,Pagado,2023-03-27
+201,233,Los Héroes,2024-03-03,7,Enfermedad grave hijo <1,56263689-7,Tarapacá,203119,Pagado,2024-03-17
+202,233,Los Héroes,2023-02-11,1,COVID-19,28385786-5,Valparaíso,44992,Pagado,2023-02-20
+203,234,Los Héroes,2024-03-19,12,Enfermedad grave hijo <1,85854973-3,Maule,387168,Pagado,2024-04-13
+204,235,Los Andes,2023-05-25,38,Cuidados paliativos,43443757-5,Maule,1934086,Pagado,2023-06-29
+205,236,La Araucana,2023-05-27,15,Maternidad,19866524-0,Ñuble,811980,Pagado,2023-07-06
+206,236,La Araucana,2024-01-13,13,COVID-19,15747338-4,Maule,402727,Pagado,2024-01-23
+207,237,Los Andes,2023-04-02,1,Accidente,19933083-K,O'Higgins,48461,Pendiente,
+208,237,Los Andes,2024-05-31,18,Enfermedad común,16571208-2,Los Lagos,834318,Pagado,2024-07-21
+209,240,Gabriela Mistral,2023-10-04,1,COVID-19,77345401-K,O'Higgins,40752,Pagado,2023-11-15
+210,240,Gabriela Mistral,2023-02-24,1,Cuidados paliativos,02620672-4,Tarapacá,53867,Pagado,2023-04-14
+211,241,18 de Septiembre,2023-07-17,21,Enfermedad común,49915478-8,Magallanes,650118,Pagado,2023-07-23
+212,241,18 de Septiembre,2023-10-02,1,Accidente,87431527-K,Maule,37738,Pagado,2023-11-29
+213,243,Los Andes,2023-09-15,37,COVID-19,20549329-K,Los Ríos,1521736,Pagado,2023-10-07
+214,243,Los Andes,2024-01-08,2,Salud Mental,68516122-7,Biobío,47898,Pagado,2024-01-29
+215,244,18 de Septiembre,2024-01-23,47,Accidente,04637454-9,Arica y Parinacota,2438219,Pagado,2024-03-09
+216,245,18 de Septiembre,2023-12-10,9,Maternidad,53017426-K,Ñuble,390258,Pagado,2023-12-31
+217,245,18 de Septiembre,2024-10-02,1,COVID-19,14593327-2,Aysén,49812,Pagado,2024-11-02
+218,247,Los Héroes,2024-03-08,1,COVID-19,95687833-K,Antofagasta,29444,Pagado,2024-04-28
+219,251,Los Andes,2025-01-01,25,Cuidados paliativos,78519108-8,Metropolitana,1061125,Pendiente,
+220,251,Los Andes,2023-06-11,12,Cuidados paliativos,82258713-9,Magallanes,374376,Pagado,2023-07-23
+221,253,Los Héroes,2023-06-28,21,Enfermedad común,87072867-9,Tarapacá,1077447,Pagado,2023-07-30
+222,253,Los Héroes,2023-07-23,5,Cuidados paliativos,74064039-1,Tarapacá,168125,Pagado,2023-08-18
+223,258,Gabriela Mistral,2023-05-15,8,Enfermedad grave hijo <1,51801704-6,Valparaíso,432352,Pagado,2023-06-30
+224,260,La Araucana,2023-04-18,1,Salud Mental,26567661-K,Coquimbo,29457,Pagado,2023-04-29
+225,260,La Araucana,2023-11-14,8,COVID-19,51286823-0,Arica y Parinacota,387816,Pagado,2024-01-02
+226,261,La Araucana,2024-07-09,1,Maternidad,78686337-5,Coquimbo,32485,Pendiente,
+227,262,18 de Septiembre,2024-05-29,28,Maternidad,31069033-1,Atacama,573860,Pendiente,
+228,264,Los Andes,2024-12-23,1,Cuidados paliativos,07903067-3,Metropolitana,41569,Pagado,2025-01-09
+229,266,Los Andes,2023-09-16,1,Salud Mental,02843959-9,Biobío,48455,Pagado,2023-10-21
+230,266,Los Andes,2023-02-25,2,Accidente,42836440-8,Valparaíso,76294,Pagado,2023-03-14
+231,267,Los Héroes,2025-02-23,1,COVID-19,68705685-6,Los Lagos,50585,Pagado,2025-04-20
+232,267,Los Héroes,2023-03-07,1,Accidente,46287334-2,Aysén,28107,Pagado,2023-04-06
+233,268,Los Andes,2025-04-14,3,Enfermedad común,86688263-4,Metropolitana,88257,Pendiente,
+234,271,18 de Septiembre,2023-12-19,1,Maternidad,17518304-6,Tarapacá,18407,Pagado,2024-01-27
+235,272,Los Andes,2024-06-06,1,Salud Mental,13983735-4,Arica y Parinacota,41505,Pagado,2024-07-14
+236,273,Los Andes,2023-08-25,18,Accidente,31739363-8,Biobío,953154,Pendiente,
+237,275,18 de Septiembre,2024-04-08,1,Salud Mental,46785445-8,Magallanes,18990,Pagado,2024-04-18
+238,277,Gabriela Mistral,2024-01-04,8,Enfermedad grave hijo <1,17535560-9,O'Higgins,282528,Pagado,2024-02-26
+239,277,Gabriela Mistral,2023-02-21,22,COVID-19,20489964-2,Metropolitana,918632,Pagado,2023-04-04
+240,279,18 de Septiembre,2024-08-13,1,Maternidad,36937854-7,Magallanes,52545,Pagado,2024-09-30
+241,279,18 de Septiembre,2023-03-23,5,Enfermedad grave hijo <1,25228728-K,Tarapacá,239650,Pagado,2023-03-29
+242,280,18 de Septiembre,2025-04-06,7,Cuidados paliativos,01006231-2,Arica y Parinacota,261380,Pagado,2025-06-02
+243,282,Gabriela Mistral,2024-05-07,3,Accidente,87509977-0,Arica y Parinacota,77367,Pagado,2024-06-08
+244,282,Gabriela Mistral,2025-01-07,1,Cuidados paliativos,86008484-0,Los Lagos,51404,Pendiente,
+245,283,Los Andes,2025-06-23,6,Salud Mental,21182339-8,Maule,133020,Pagado,2025-07-26
+246,284,Los Héroes,2024-03-17,1,Salud Mental,54615679-3,O'Higgins,53090,Pagado,2024-04-11
+247,285,Los Andes,2023-03-07,29,Maternidad,10166687-0,Arica y Parinacota,1462354,Pagado,2023-04-08
+248,286,Gabriela Mistral,2023-02-20,29,COVID-19,21765918-0,O'Higgins,787669,Pendiente,
+249,286,Gabriela Mistral,2024-05-06,28,Accidente,97401489-K,Tarapacá,1416576,Pagado,2024-06-17
+250,286,Gabriela Mistral,2023-07-08,15,Accidente,50392614-2,O'Higgins,440175,Pagado,2023-08-17
+251,287,Los Héroes,2025-04-17,25,Cuidados paliativos,68562185-0,Atacama,732300,Pagado,2025-05-29
+252,291,18 de Septiembre,2024-10-17,17,Enfermedad grave hijo <1,31599965-0,Maule,688891,Pagado,2024-11-03
+253,292,Los Andes,2023-05-29,15,Salud Mental,77358662-K,Los Ríos,395295,Pagado,2023-07-10
+254,293,Los Andes,2024-09-20,19,Enfermedad común,94311426-K,Coquimbo,573173,Pagado,2024-10-02
+255,293,Los Andes,2024-01-06,6,COVID-19,65511047-5,Maule,263514,Pagado,2024-02-25
+256,294,Los Héroes,2025-02-15,10,Enfermedad común,21267888-6,Atacama,535530,Pagado,2025-04-14
+257,299,Los Héroes,2024-02-16,7,Enfermedad común,15819956-0,Ñuble,178248,Pagado,2024-03-18
+258,299,Los Héroes,2023-08-04,6,Enfermedad grave hijo <1,61839826-2,Coquimbo,249432,Pagado,2023-09-28
+259,301,Gabriela Mistral,2025-05-22,22,Maternidad,44721264-6,Ñuble,681076,Pagado,2025-07-17
+260,301,Gabriela Mistral,2024-10-26,16,Enfermedad grave hijo <1,15437993-7,Atacama,454976,Pendiente,
+261,301,Gabriela Mistral,2024-09-28,26,Accidente,40659657-5,Los Lagos,1050426,Pagado,2024-10-25
+262,301,Gabriela Mistral,2023-01-02,1,Salud Mental,92459375-2,Los Ríos,17251,Pagado,2023-01-26
+263,302,Gabriela Mistral,2024-07-30,9,Maternidad,47935646-5,Atacama,412524,Pagado,2024-09-02
+264,304,Gabriela Mistral,2024-05-06,4,Cuidados paliativos,39828073-7,Ñuble,202640,Pagado,2024-05-20
+265,304,Gabriela Mistral,2024-06-30,19,Salud Mental,16724342-6,Los Ríos,873278,Pagado,2024-07-20
+266,305,18 de Septiembre,2024-12-05,1,Enfermedad común,79796886-8,Tarapacá,39398,Pagado,2024-12-13
+267,306,Los Héroes,2024-01-29,7,Salud Mental,58911352-K,Tarapacá,246197,Pagado,2024-02-28
+268,308,Los Héroes,2025-06-13,28,Cuidados paliativos,65610143-8,O'Higgins,719432,Pagado,2025-07-07
+269,309,Gabriela Mistral,2023-01-01,1,Enfermedad grave hijo <1,56798250-7,Atacama,33467,Pagado,2023-01-30
+270,309,Gabriela Mistral,2024-08-14,9,Maternidad,61125457-3,Magallanes,151641,Pagado,2024-08-23
+271,312,18 de Septiembre,2023-06-30,1,Maternidad,71775140-1,Arica y Parinacota,25931,Pendiente,
+272,314,Los Andes,2023-01-21,11,Salud Mental,51238282-5,Los Lagos,552189,Pagado,2023-03-13
+273,317,18 de Septiembre,2023-03-14,1,Enfermedad grave hijo <1,36226609-3,Aysén,37259,Pagado,2023-04-01
+274,317,18 de Septiembre,2023-02-28,1,Cuidados paliativos,66033419-1,Valparaíso,36602,Pagado,2023-04-20
+275,318,La Araucana,2023-10-24,11,Maternidad,53714785-9,Los Ríos,431277,Pagado,2023-11-26
+276,319,La Araucana,2025-05-16,11,Cuidados paliativos,69155792-K,Ñuble,473396,Pagado,2025-07-01
+277,320,18 de Septiembre,2024-03-08,8,Cuidados paliativos,91251341-2,La Araucanía,365824,Pagado,2024-04-10
+278,320,18 de Septiembre,2025-06-11,9,COVID-19,28669296-6,Valparaíso,157581,Pagado,2025-06-21
+279,320,18 de Septiembre,2024-09-23,19,Enfermedad grave hijo <1,82827422-5,Aysén,1013232,Pagado,2024-11-05
+280,322,La Araucana,2023-03-03,25,Cuidados paliativos,05072368-8,Magallanes,1247925,Pagado,2023-03-25
+281,323,La Araucana,2023-04-22,22,Enfermedad grave hijo <1,76772190-3,Ñuble,1152426,Pagado,2023-06-09
+282,324,Los Andes,2023-08-22,1,Enfermedad común,43842797-8,Atacama,24247,Pagado,2023-08-29
+283,324,Los Andes,2024-06-25,19,Cuidados paliativos,14858078-3,Los Lagos,683107,Pagado,2024-07-29
+284,326,Los Andes,2024-08-02,1,Enfermedad común,34074517-1,O'Higgins,49328,Pagado,2024-09-14
+285,327,18 de Septiembre,2024-03-20,16,Accidente,95962923-3,Tarapacá,501808,Pagado,2024-04-25
+286,327,18 de Septiembre,2025-04-24,1,Cuidados paliativos,58498254-4,Maule,33029,Pagado,2025-06-09
+287,328,Gabriela Mistral,2023-06-11,1,Salud Mental,81260422-3,Coquimbo,48653,Pagado,2023-06-28
+288,328,Gabriela Mistral,2024-05-29,12,COVID-19,53672946-6,Aysén,204876,Pagado,2024-06-26
+289,329,La Araucana,2024-11-28,1,Enfermedad común,16845775-9,Arica y Parinacota,54897,Pagado,2025-01-07
+290,332,La Araucana,2024-09-17,22,Salud Mental,17518636-3,Magallanes,701228,Pagado,2024-10-21
+291,333,Los Andes,2023-11-25,19,Maternidad,54589297-5,Tarapacá,465310,Pagado,2023-12-14
+292,335,Los Héroes,2023-03-24,1,Enfermedad común,17012770-6,Metropolitana,21825,Pagado,2023-05-08
+293,335,Los Héroes,2025-03-11,35,COVID-19,24241541-5,Valparaíso,824530,Rechazado,
+294,335,Los Héroes,2024-10-08,3,Enfermedad común,64361103-7,Antofagasta,129555,Pagado,2024-10-20
+295,337,Los Andes,2024-06-17,1,Accidente,93870051-6,Coquimbo,27305,Pagado,2024-07-21
+296,337,Los Andes,2025-03-04,10,Enfermedad grave hijo <1,13611155-4,Coquimbo,509830,Pagado,2025-04-10
+297,338,Los Héroes,2024-02-26,20,Enfermedad grave hijo <1,22189092-7,La Araucanía,587700,Pagado,2024-03-25
+298,339,Gabriela Mistral,2025-02-23,3,COVID-19,32697311-2,Atacama,148650,Pagado,2025-03-05
+299,339,Gabriela Mistral,2023-05-30,1,Cuidados paliativos,65652341-3,Ñuble,24867,Pagado,2023-06-25
+300,340,Los Héroes,2024-08-23,1,Salud Mental,04389836-4,Tarapacá,37760,Pagado,2024-10-21
+301,340,Los Héroes,2023-09-08,9,Salud Mental,37613791-8,Arica y Parinacota,493488,Pendiente,
+302,341,Los Andes,2025-01-11,1,Maternidad,52696582-7,Antofagasta,33562,Pagado,2025-01-21
+303,343,18 de Septiembre,2023-11-25,17,Enfermedad común,91043006-8,Ñuble,370498,Pagado,2023-12-03
+304,343,18 de Septiembre,2023-05-09,1,COVID-19,86661889-2,Maule,30450,Pagado,2023-06-11
+305,344,Los Héroes,2023-05-10,8,Enfermedad común,41832856-9,Antofagasta,145360,Pagado,2023-05-25
+306,345,La Araucana,2024-05-10,4,Maternidad,63031617-9,Tarapacá,129588,Pagado,2024-06-14
+307,348,Los Andes,2025-02-08,5,Maternidad,21020275-8,Maule,205700,Pagado,2025-02-26
+308,348,Los Andes,2025-02-06,25,Accidente,52410564-8,Antofagasta,753200,Pagado,2025-04-04
+309,349,La Araucana,2024-01-28,1,Maternidad,91778507-9,Valparaíso,44504,Pagado,2024-03-14
+310,351,La Araucana,2024-06-23,14,Maternidad,24191380-0,Arica y Parinacota,224560,Pendiente,
+311,353,Los Andes,2024-12-26,1,Accidente,07562208-K,Los Lagos,51766,Pagado,2025-01-29
+312,353,Los Andes,2023-06-23,26,Accidente,53654195-1,Tarapacá,540696,Rechazado,
+313,353,Los Andes,2023-01-31,1,Accidente,38061744-5,Antofagasta,51839,Pagado,2023-03-11
+314,355,La Araucana,2024-11-22,10,Cuidados paliativos,70534949-3,Aysén,487080,Pendiente,
+315,356,18 de Septiembre,2024-09-24,8,Maternidad,97383206-0,O'Higgins,294608,Pagado,2024-11-18
+316,356,18 de Septiembre,2025-02-11,33,Cuidados paliativos,50506413-8,O'Higgins,1036068,Pagado,2025-04-04
+317,356,18 de Septiembre,2025-04-04,10,Enfermedad grave hijo <1,70241038-6,La Araucanía,459800,Pagado,2025-05-17
+318,358,Gabriela Mistral,2024-04-16,18,Enfermedad grave hijo <1,19182619-9,Tarapacá,973998,Pagado,2024-05-10
+319,358,Gabriela Mistral,2024-05-22,1,Enfermedad grave hijo <1,23445655-7,Maule,38244,Pendiente,
+320,358,Gabriela Mistral,2024-07-04,21,Accidente,13291212-7,Aysén,779184,Pagado,2024-08-09
+321,359,Los Andes,2023-06-21,15,Maternidad,61853747-4,Atacama,388935,Pagado,2023-07-27
+322,360,Gabriela Mistral,2025-04-10,1,Enfermedad común,24903521-3,La Araucanía,30567,Pagado,2025-05-08
+323,361,Los Héroes,2024-05-30,1,Enfermedad grave hijo <1,80442067-8,O'Higgins,40103,Pagado,2024-06-29
+324,362,Los Héroes,2024-03-08,13,Enfermedad común,71210032-3,Los Ríos,423280,Pagado,2024-04-04
+325,362,Los Héroes,2023-02-26,1,Maternidad,19941013-K,Aysén,19700,Pagado,2023-03-21
+326,363,Los Héroes,2024-04-10,1,Salud Mental,21510702-9,Los Lagos,22830,Pagado,2024-05-17
+327,364,Gabriela Mistral,2024-12-01,15,Salud Mental,67066253-2,Maule,659955,Pagado,2025-01-11
+328,365,Los Héroes,2025-04-21,13,Maternidad,72099934-7,Los Lagos,465699,Pendiente,
+329,368,18 de Septiembre,2024-08-14,21,Cuidados paliativos,70146263-K,O'Higgins,530355,Pagado,2024-08-30
+330,370,Gabriela Mistral,2025-02-23,15,COVID-19,80657875-9,Biobío,367545,Pagado,2025-03-23
+331,372,Los Héroes,2024-03-12,9,Enfermedad grave hijo <1,42059304-0,Magallanes,189765,Pagado,2024-05-10
+332,373,La Araucana,2023-08-14,4,Cuidados paliativos,59321334-8,Tarapacá,170264,Pagado,2023-09-13
+333,374,18 de Septiembre,2025-02-05,1,Salud Mental,39652239-5,La Araucanía,34049,Pagado,2025-02-23
+334,374,18 de Septiembre,2023-08-20,27,Cuidados paliativos,05992937-8,Ñuble,499851,Pagado,2023-10-08
+335,375,Los Andes,2024-09-19,1,Accidente,70103930-8,Magallanes,41393,Pagado,2024-10-28
+336,375,Los Andes,2023-11-16,14,Enfermedad común,59325250-0,Coquimbo,752178,Pagado,2024-01-01
+337,376,18 de Septiembre,2025-05-09,18,Cuidados paliativos,21851569-1,Biobío,751014,Pagado,2025-06-01
+338,379,La Araucana,2024-09-17,19,Maternidad,52267528-9,La Araucanía,666406,Pagado,2024-09-23
+339,380,Gabriela Mistral,2023-06-15,27,Accidente,92644220-9,Los Ríos,980694,Pagado,2023-06-21
+340,380,Gabriela Mistral,2023-05-03,17,Salud Mental,90295939-1,Magallanes,736015,Pendiente,
+341,381,La Araucana,2024-07-15,8,Accidente,51355215-7,Arica y Parinacota,192768,Pendiente,
+342,382,Gabriela Mistral,2024-11-23,4,Maternidad,33154100-6,Aysén,61176,Pagado,2024-12-07
+343,383,Los Andes,2023-03-27,22,COVID-19,62676586-1,Magallanes,716276,Pagado,2023-04-04
+344,385,Gabriela Mistral,2024-02-23,9,Salud Mental,93271040-5,Maule,246492,Pagado,2024-03-16
+345,387,La Araucana,2024-07-08,1,Enfermedad común,15262181-5,Magallanes,32806,Pagado,2024-07-29
+346,388,La Araucana,2024-10-15,21,COVID-19,06296201-5,Metropolitana,1141119,Pagado,2024-11-20
+347,389,Los Andes,2023-09-19,4,Accidente,68844431-0,Los Ríos,141372,Pagado,2023-10-27
+348,390,La Araucana,2023-08-02,6,Cuidados paliativos,87205061-4,Magallanes,305178,Pagado,2023-09-19
+349,392,Gabriela Mistral,2024-11-04,1,Accidente,10324171-4,Los Ríos,41739,Pendiente,
+350,392,Gabriela Mistral,2025-03-06,12,Enfermedad grave hijo <1,74186256-5,Valparaíso,307416,Pagado,2025-03-28
+351,393,Gabriela Mistral,2025-06-18,28,Enfermedad grave hijo <1,04774349-0,Coquimbo,1489376,Pagado,2025-06-30
+352,393,Gabriela Mistral,2023-04-13,1,Salud Mental,11586938-0,Los Ríos,45782,Pagado,2023-05-24
+353,393,Gabriela Mistral,2025-01-07,1,Salud Mental,86879374-1,Los Ríos,46933,Pagado,2025-01-25
+354,395,Gabriela Mistral,2023-12-30,1,Salud Mental,08989921-7,Valparaíso,37936,Pagado,2024-01-31
+355,397,Gabriela Mistral,2023-09-07,16,Accidente,33206163-K,Coquimbo,385008,Pendiente,
+356,398,18 de Septiembre,2025-05-23,25,Salud Mental,94511686-8,Biobío,1306650,Pagado,2025-07-14
+357,398,18 de Septiembre,2023-04-25,1,Salud Mental,48709986-1,Los Lagos,48560,Pagado,2023-06-12
+358,399,Los Héroes,2024-06-22,15,Accidente,29991191-4,La Araucanía,548655,Pagado,2024-08-16
+359,399,Los Héroes,2023-05-27,33,Enfermedad grave hijo <1,46799702-4,Los Ríos,899910,Rechazado,
+360,400,La Araucana,2025-05-18,26,Accidente,99606530-7,Maule,748202,Pendiente,
+361,400,La Araucana,2025-02-08,20,Maternidad,05444713-2,Ñuble,962920,Pagado,2025-02-21
+362,401,18 de Septiembre,2024-12-14,5,COVID-19,75469137-3,Los Lagos,78685,Rechazado,
+363,402,Gabriela Mistral,2023-01-06,17,COVID-19,78508214-8,Los Ríos,462026,Pagado,2023-01-11
+364,402,Gabriela Mistral,2023-08-23,3,Accidente,89023303-0,Aysén,114081,Pagado,2023-10-06
+365,405,Los Héroes,2023-05-17,5,Enfermedad común,53457861-K,Arica y Parinacota,195070,Pagado,2023-06-10
+366,406,Gabriela Mistral,2024-12-02,1,Accidente,57972798-5,La Araucanía,39502,Pagado,2025-01-09
+367,408,Los Héroes,2023-08-23,1,Accidente,41406029-3,O'Higgins,40735,Pagado,2023-09-23
+368,411,La Araucana,2024-01-09,16,COVID-19,33468007-2,Valparaíso,415552,Pagado,2024-03-02
+369,411,La Araucana,2023-07-24,37,Cuidados paliativos,03494466-5,Aysén,962629,Pagado,2023-09-17
+370,411,La Araucana,2023-05-01,24,Maternidad,37489691-0,La Araucanía,1088352,Pagado,2023-06-21
+371,414,Los Héroes,2024-11-19,20,Cuidados paliativos,99441715-4,Biobío,836820,Pagado,2025-01-02
+372,414,Los Héroes,2024-01-20,56,Salud Mental,44432830-9,Los Ríos,2907464,Pagado,2024-02-23
+373,415,Los Andes,2023-06-29,25,COVID-19,52074466-6,Tarapacá,1189075,Pagado,2023-07-25
+374,416,Gabriela Mistral,2024-07-23,17,Cuidados paliativos,93538758-4,Valparaíso,622132,Rechazado,
+375,420,Los Héroes,2023-03-31,1,Salud Mental,82417248-2,Biobío,45028,Pagado,2023-05-10
+376,421,La Araucana,2024-09-17,40,COVID-19,13534655-4,Ñuble,1758200,Pendiente,
+377,421,La Araucana,2024-10-16,10,Enfermedad grave hijo <1,17099917-3,Atacama,265390,Pendiente,
+378,421,La Araucana,2023-12-23,1,Salud Mental,68460223-5,Los Lagos,33120,Pagado,2024-01-28
+379,422,Los Héroes,2023-11-29,19,Cuidados paliativos,72521752-5,Tarapacá,318516,Rechazado,
+380,423,La Araucana,2025-05-06,34,Enfermedad común,74329271-2,Los Lagos,1205436,Pagado,2025-06-11
+381,423,La Araucana,2024-08-01,6,COVID-19,66676008-3,La Araucanía,288954,Pagado,2024-09-01
+382,424,La Araucana,2023-07-23,28,Enfermedad común,58300335-4,Coquimbo,1200780,Pagado,2023-09-13
+383,425,18 de Septiembre,2024-07-29,6,Enfermedad común,68942104-4,Aysén,323586,Rechazado,
+384,425,18 de Septiembre,2023-07-27,14,COVID-19,89856257-5,Metropolitana,432460,Pagado,2023-08-08
+385,427,Los Andes,2025-03-22,1,Accidente,60332309-8,Valparaíso,37606,Pagado,2025-05-07
+386,427,Los Andes,2024-11-18,1,Enfermedad común,50648909-0,Atacama,52259,Pagado,2024-12-31
+387,428,Gabriela Mistral,2023-06-12,24,COVID-19,00167618-4,Magallanes,1235880,Pagado,2023-07-18
+388,428,Gabriela Mistral,2025-06-12,1,COVID-19,23046184-9,Coquimbo,37942,Pendiente,
+389,428,Gabriela Mistral,2024-11-26,1,Enfermedad grave hijo <1,18914117-3,Metropolitana,48349,Pagado,2024-12-05
+390,429,Gabriela Mistral,2023-08-09,9,Salud Mental,48356420-8,Magallanes,438687,Pagado,2023-09-04
+391,431,La Araucana,2023-02-08,1,Accidente,75300119-K,Magallanes,24850,Pagado,2023-03-18
+392,435,Los Héroes,2023-04-28,39,Accidente,18114374-4,Aysén,1011660,Pagado,2023-06-09
+393,436,Los Héroes,2024-05-26,10,Enfermedad común,12045561-1,Tarapacá,523060,Pagado,2024-07-18
+394,436,Los Héroes,2023-08-16,1,Enfermedad común,22557941-5,Biobío,16726,Pagado,2023-08-30
+395,436,Los Héroes,2023-09-24,13,Accidente,16674676-K,Valparaíso,416910,Pendiente,
+396,436,Los Héroes,2023-12-23,11,Enfermedad común,20216979-K,Aysén,576565,Pagado,2024-01-14
+397,436,Los Héroes,2023-06-30,9,Accidente,96590277-1,Los Lagos,253809,Pagado,2023-08-16
+398,437,La Araucana,2024-01-31,1,Enfermedad grave hijo <1,01450899-3,Biobío,24964,Pagado,2024-03-21
+399,439,Los Héroes,2024-09-19,6,Cuidados paliativos,89163756-2,Tarapacá,302724,Pagado,2024-10-22
+400,442,Gabriela Mistral,2023-01-12,8,Enfermedad común,28772175-3,Biobío,418480,Pagado,2023-02-13
+401,443,18 de Septiembre,2023-03-21,30,Maternidad,08386631-7,Aysén,1228740,Rechazado,
+402,443,18 de Septiembre,2023-03-16,20,Salud Mental,97177517-K,Arica y Parinacota,822900,Pagado,2023-03-31
+403,443,18 de Septiembre,2023-01-29,1,Enfermedad común,66088019-9,Ñuble,38332,Rechazado,
+404,445,Gabriela Mistral,2023-03-18,18,Cuidados paliativos,83755037-5,Magallanes,384696,Pagado,2023-04-02
+405,446,Los Héroes,2024-08-05,1,COVID-19,57113055-K,Ñuble,51545,Pagado,2024-08-15
+406,447,18 de Septiembre,2024-03-30,9,Cuidados paliativos,85102726-1,Maule,477126,Pagado,2024-04-09
+407,447,18 de Septiembre,2024-06-13,22,Cuidados paliativos,33163735-1,Los Lagos,968242,Pagado,2024-06-20
+408,448,Los Andes,2024-03-14,22,Enfermedad común,91779827-0,Tarapacá,703736,Pagado,2024-04-13
+409,448,Los Andes,2025-03-31,35,Cuidados paliativos,69782922-1,Los Ríos,721770,Pagado,2025-04-08
+410,450,La Araucana,2024-08-23,32,COVID-19,99586693-4,Los Ríos,501280,Pagado,2024-09-16
+411,450,La Araucana,2023-06-10,13,Maternidad,47226984-8,Biobío,638703,Pagado,2023-06-22
+412,451,18 de Septiembre,2024-09-27,3,COVID-19,83339452-K,Valparaíso,103971,Pagado,2024-11-16
+413,451,18 de Septiembre,2023-04-23,1,Cuidados paliativos,85158799-K,Los Lagos,44401,Pagado,2023-05-11
+414,451,18 de Septiembre,2023-06-01,9,COVID-19,84608106-2,Tarapacá,354474,Pagado,2023-07-24
+415,452,Los Héroes,2024-04-06,8,COVID-19,03424420-4,Metropolitana,147296,Pagado,2024-04-30
+416,454,Gabriela Mistral,2023-11-26,23,Salud Mental,80571983-K,Los Ríos,965678,Pendiente,
+417,455,Los Héroes,2023-06-04,1,Accidente,84066658-0,Arica y Parinacota,35800,Pagado,2023-06-30
+418,455,Los Héroes,2025-05-22,22,COVID-19,43973598-9,Metropolitana,1131658,Pagado,2025-06-10
+419,456,La Araucana,2023-06-25,42,Salud Mental,34721228-1,Los Ríos,1177092,Pagado,2023-08-14
+420,458,18 de Septiembre,2024-07-04,15,Enfermedad común,64842294-0,Biobío,308610,Pagado,2024-08-29
+421,458,18 de Septiembre,2025-03-09,14,Enfermedad grave hijo <1,20259094-7,La Araucanía,271726,Pagado,2025-03-22
+422,459,La Araucana,2024-11-30,41,Enfermedad común,58328182-6,Los Ríos,2058241,Pagado,2024-12-07
+423,459,La Araucana,2025-03-21,24,Enfermedad común,53355543-9,Magallanes,487728,Pagado,2025-05-16
+424,460,18 de Septiembre,2023-02-26,9,Cuidados paliativos,01573993-0,Biobío,222993,Pagado,2023-03-17
+425,461,Los Andes,2024-08-22,38,Enfermedad grave hijo <1,16484085-8,Aysén,867654,Pagado,2024-09-25
+426,464,La Araucana,2025-06-16,1,Enfermedad grave hijo <1,04358112-8,Arica y Parinacota,46891,Pagado,2025-07-11
+427,465,La Araucana,2025-02-28,29,COVID-19,13361386-K,Antofagasta,460056,Pagado,2025-04-09
+428,469,Los Andes,2024-06-21,2,COVID-19,20750110-2,Maule,88754,Pagado,2024-08-10
+429,469,Los Andes,2023-11-17,17,Cuidados paliativos,19346676-6,Biobío,838644,Pagado,2024-01-14
+430,470,Los Héroes,2024-01-22,4,Enfermedad común,61809190-1,La Araucanía,73032,Pendiente,
+431,471,La Araucana,2024-02-20,34,Cuidados paliativos,14491476-6,Arica y Parinacota,511870,Pagado,2024-04-06
+432,473,La Araucana,2024-01-28,16,Enfermedad grave hijo <1,28326842-4,La Araucanía,494288,Pagado,2024-03-21
+433,473,La Araucana,2024-10-02,11,Enfermedad común,88210099-6,Antofagasta,351340,Pagado,2024-11-16
+434,474,Gabriela Mistral,2025-05-23,21,Maternidad,35368222-3,Maule,665322,Pagado,2025-06-02
+435,476,Gabriela Mistral,2024-03-28,23,Accidente,12908781-4,Antofagasta,356178,Pendiente,
+436,477,Los Héroes,2024-12-30,13,Maternidad,13975523-1,Ñuble,650377,Pagado,2025-02-05
+437,478,Los Andes,2023-12-29,7,Cuidados paliativos,13577594-9,Coquimbo,231357,Pagado,2024-01-15
+438,478,Los Andes,2024-08-23,18,Cuidados paliativos,95562053-3,Los Lagos,895752,Pagado,2024-09-20
+439,479,Gabriela Mistral,2024-04-11,18,Maternidad,52577754-7,Atacama,830034,Rechazado,
+440,480,Gabriela Mistral,2025-02-21,27,Accidente,91428341-1,Arica y Parinacota,565812,Pagado,2025-03-19
+441,481,Los Andes,2024-07-21,13,Salud Mental,80996930-8,Maule,237406,Pagado,2024-09-12
+442,482,Los Héroes,2025-03-15,27,Cuidados paliativos,87256394-2,Aysén,818883,Pagado,2025-04-17
+443,483,La Araucana,2025-01-26,4,Cuidados paliativos,81658039-K,Valparaíso,90908,Pagado,2025-02-03
+444,484,Gabriela Mistral,2025-03-29,21,Salud Mental,82722992-7,La Araucanía,1098069,Pagado,2025-04-20
+445,485,Los Andes,2025-02-07,19,Enfermedad común,37314530-K,Metropolitana,496641,Pagado,2025-03-03
+446,486,18 de Septiembre,2023-11-13,1,Cuidados paliativos,56770051-8,Maule,43341,Pagado,2023-11-30
+447,486,18 de Septiembre,2024-05-27,1,Salud Mental,49892665-9,Antofagasta,48307,Rechazado,
+448,486,18 de Septiembre,2024-05-10,23,Cuidados paliativos,46386557-7,Arica y Parinacota,1018670,Pagado,2024-06-17
+449,486,18 de Septiembre,2025-06-27,37,Cuidados paliativos,27231843-2,Valparaíso,1955635,Pagado,2025-08-01
+450,487,Los Andes,2024-12-09,27,Accidente,59136517-K,Magallanes,590031,Pagado,2024-12-30
+451,487,Los Andes,2023-01-20,10,Enfermedad grave hijo <1,39260302-9,Valparaíso,182030,Pagado,2023-02-18
+452,487,Los Andes,2024-01-22,30,Accidente,80920242-8,Los Ríos,1379520,Pendiente,
+453,488,18 de Septiembre,2023-12-16,1,Cuidados paliativos,90413797-7,Valparaíso,43363,Rechazado,
+454,488,18 de Septiembre,2024-08-06,1,Accidente,69292984-2,Biobío,51145,Pagado,2024-10-02
+455,488,18 de Septiembre,2024-06-03,7,Enfermedad grave hijo <1,99136621-0,Metropolitana,285166,Pagado,2024-06-27
+456,488,18 de Septiembre,2025-02-27,18,Cuidados paliativos,86291279-9,Tarapacá,561312,Pagado,2025-04-06
+457,490,La Araucana,2024-07-07,11,Salud Mental,88117298-0,Los Lagos,517759,Pagado,2024-08-06
+458,491,Los Andes,2023-10-02,1,Cuidados paliativos,65086376-5,Atacama,53066,Pagado,2023-11-04
+459,492,Gabriela Mistral,2023-04-14,1,Enfermedad grave hijo <1,24731498-6,Maule,19663,Pendiente,
+460,493,Los Héroes,2024-11-11,31,Accidente,00981806-K,Metropolitana,1037074,Pagado,2024-12-10
+461,495,Gabriela Mistral,2025-03-09,1,COVID-19,56512694-4,Los Lagos,19922,Pagado,2025-03-15
+462,495,Gabriela Mistral,2023-08-18,27,Cuidados paliativos,59463688-7,Valparaíso,932877,Pagado,2023-09-19
+463,499,Los Andes,2023-09-27,1,Maternidad,88744956-2,Atacama,17511,Pagado,2023-10-12
+464,499,Los Andes,2023-09-10,1,COVID-19,37213865-8,Tarapacá,22848,Pendiente,
+465,500,Los Andes,2024-02-22,1,Accidente,60127961-1,Maule,18175,Pagado,2024-03-15
+466,501,Los Héroes,2023-01-19,9,Accidente,51906698-4,Tarapacá,159831,Pagado,2023-02-23
+467,502,Los Andes,2023-08-16,16,Salud Mental,27703843-0,O'Higgins,480592,Pendiente,
+468,502,Los Andes,2024-11-07,15,Cuidados paliativos,20530214-6,La Araucanía,562425,Pagado,2024-12-16
+469,503,Gabriela Mistral,2024-10-09,15,COVID-19,66938011-8,Ñuble,548250,Pendiente,
+470,504,18 de Septiembre,2024-03-11,40,COVID-19,89554393-7,Los Ríos,797880,Pendiente,
+471,505,18 de Septiembre,2024-05-30,30,Cuidados paliativos,04268181-8,Ñuble,718770,Pendiente,
+472,506,Los Andes,2025-04-05,25,Maternidad,18489476-9,Magallanes,458650,Pagado,2025-05-28
+473,507,Los Héroes,2023-09-02,30,Salud Mental,35779071-4,Antofagasta,682110,Pagado,2023-09-20
+474,508,Los Héroes,2023-12-18,1,Enfermedad grave hijo <1,33565880-4,O'Higgins,52408,Pagado,2024-01-21
+475,510,Los Andes,2023-02-12,7,Maternidad,16518275-5,Metropolitana,142709,Pendiente,
+476,510,Los Andes,2023-11-30,9,Cuidados paliativos,42373334-3,O'Higgins,494946,Pagado,2024-01-16
+477,510,Los Andes,2024-07-14,1,Accidente,39521117-9,Arica y Parinacota,26595,Pagado,2024-08-15
+478,512,Los Héroes,2025-04-09,21,Salud Mental,80759579-4,Magallanes,776286,Pagado,2025-06-04
+479,514,Los Héroes,2024-08-09,3,Accidente,84639208-6,Magallanes,81639,Pagado,2024-09-01
+480,514,Los Héroes,2023-03-07,1,Cuidados paliativos,08562718-7,Biobío,22187,Pagado,2023-04-05
+481,515,Los Héroes,2023-02-24,24,COVID-19,00369155-9,Maule,637920,Pagado,2023-03-22
+482,515,Los Héroes,2023-05-11,4,Accidente,84347955-2,Magallanes,146420,Pagado,2023-06-20
+483,516,18 de Septiembre,2023-02-18,1,Enfermedad grave hijo <1,36556472-9,Coquimbo,30928,Pagado,2023-04-12
+484,516,18 de Septiembre,2023-05-13,19,Cuidados paliativos,31438663-2,Coquimbo,948062,Pagado,2023-06-15
+485,518,Gabriela Mistral,2023-06-07,1,Enfermedad grave hijo <1,02672885-7,Ñuble,19136,Pagado,2023-06-13
+486,519,Gabriela Mistral,2024-02-04,1,Maternidad,89061203-4,Magallanes,21152,Pendiente,
+487,521,Los Héroes,2024-09-03,16,Salud Mental,17545588-4,La Araucanía,824928,Pagado,2024-10-23
+488,522,Los Andes,2025-01-24,29,Enfermedad común,61593998-2,Ñuble,1255323,Pendiente,
+489,524,18 de Septiembre,2024-10-13,19,Maternidad,58771694-7,Coquimbo,693766,Pagado,2024-12-06
+490,525,Gabriela Mistral,2024-09-19,1,Salud Mental,25699611-2,Biobío,28663,Pagado,2024-09-24
+491,527,Gabriela Mistral,2023-05-27,1,Accidente,55449647-5,Aysén,37671,Pendiente,
+492,527,Gabriela Mistral,2023-01-14,1,Enfermedad grave hijo <1,22023413-2,Los Ríos,31365,Pendiente,
+493,528,Los Andes,2023-09-27,1,Enfermedad común,11780068-1,Atacama,26662,Pagado,2023-11-04
+494,528,Los Andes,2025-06-16,41,Maternidad,92164334-7,Coquimbo,713482,Pagado,2025-06-28
+495,528,Los Andes,2024-06-18,1,Accidente,82005577-8,Maule,37620,Pagado,2024-07-24
+496,529,Gabriela Mistral,2023-07-11,12,Cuidados paliativos,72829979-6,Ñuble,200340,Pagado,2023-07-28
+497,529,Gabriela Mistral,2023-07-13,27,Maternidad,78317456-4,Coquimbo,654210,Pagado,2023-08-13
+498,531,La Araucana,2024-03-03,33,Maternidad,00825478-0,Magallanes,554037,Pendiente,
+499,531,La Araucana,2024-03-06,16,Salud Mental,74064930-8,La Araucanía,833072,Pagado,2024-04-23
+500,532,La Araucana,2023-12-01,5,Accidente,68663266-3,Maule,182670,Pagado,2024-01-15
+501,534,Gabriela Mistral,2023-06-07,6,Enfermedad común,63894484-6,Metropolitana,116364,Pagado,2023-08-02
+502,535,18 de Septiembre,2025-01-20,7,Salud Mental,12241797-4,Magallanes,208096,Pagado,2025-02-21
+503,537,18 de Septiembre,2024-03-10,2,Accidente,50208021-4,Maule,79706,Pagado,2024-05-03
+504,537,18 de Septiembre,2025-05-24,1,Accidente,70312073-5,Los Lagos,17513,Pagado,2025-06-23
+505,538,18 de Septiembre,2023-10-15,22,Maternidad,75705120-4,Los Ríos,869968,Pagado,2023-11-19
+506,540,Los Héroes,2023-12-31,21,Enfermedad común,87234601-3,Los Ríos,322392,Pagado,2024-01-23
+507,540,Los Héroes,2023-08-13,1,Salud Mental,73037183-7,Los Ríos,31865,Pagado,2023-08-31
+508,540,Los Héroes,2024-10-20,1,COVID-19,45208814-7,Ñuble,19477,Pagado,2024-12-15
+509,542,La Araucana,2023-07-29,31,Accidente,50313650-2,Maule,625952,Pagado,2023-09-24
+510,543,La Araucana,2025-05-05,24,Cuidados paliativos,16300979-2,La Araucanía,1275360,Pagado,2025-05-21
+511,543,La Araucana,2023-02-20,30,Salud Mental,13271950-0,La Araucanía,671340,Pagado,2023-04-10
+512,544,Los Héroes,2023-09-30,1,COVID-19,28127358-K,La Araucanía,24795,Pagado,2023-11-02
+513,544,Los Héroes,2024-12-08,1,Salud Mental,73065240-7,Aysén,44381,Pagado,2025-01-16
+514,546,Gabriela Mistral,2024-11-07,30,Cuidados paliativos,48739285-5,Aysén,1195380,Pendiente,
+515,546,Gabriela Mistral,2023-04-24,21,Maternidad,98218274-4,La Araucanía,580566,Pagado,2023-05-12
+516,546,Gabriela Mistral,2024-11-19,30,Enfermedad grave hijo <1,08620959-3,Biobío,596790,Pagado,2024-12-24
+517,546,Gabriela Mistral,2023-07-18,3,COVID-19,18638782-9,Ñuble,80205,Pendiente,
+518,547,Gabriela Mistral,2023-01-06,32,Maternidad,65118102-2,Tarapacá,1611680,Pagado,2023-02-06
+519,548,La Araucana,2025-01-30,9,Accidente,17310967-8,Maule,184491,Pagado,2025-02-25
+520,548,La Araucana,2025-05-09,16,Enfermedad común,53910371-7,Tarapacá,760560,Pendiente,
+521,548,La Araucana,2025-01-15,7,Maternidad,86509480-1,Ñuble,191877,Pagado,2025-02-19
+522,551,18 de Septiembre,2023-08-05,9,Enfermedad común,38113863-3,O'Higgins,254817,Pendiente,
+523,552,La Araucana,2024-09-17,23,Cuidados paliativos,28861957-K,Los Lagos,597379,Pagado,2024-10-06
+524,554,Gabriela Mistral,2024-01-30,18,Enfermedad común,22868528-9,Aysén,420804,Pagado,2024-03-10
+525,554,Gabriela Mistral,2024-07-21,1,Maternidad,58556659-3,Metropolitana,19725,Pagado,2024-08-16
+526,554,Gabriela Mistral,2024-07-21,4,Enfermedad grave hijo <1,84577600-4,Arica y Parinacota,190168,Pagado,2024-09-10
+527,556,Gabriela Mistral,2025-06-08,12,Cuidados paliativos,24043350-4,Coquimbo,625068,Pagado,2025-07-24
+528,557,18 de Septiembre,2023-03-01,9,Enfermedad común,07522459-3,O'Higgins,424260,Pagado,2023-04-21
+529,557,18 de Septiembre,2025-03-11,1,Maternidad,41969315-7,Valparaíso,46707,Pagado,2025-04-25
+530,558,Gabriela Mistral,2023-11-24,11,Enfermedad grave hijo <1,91940961-0,Biobío,169752,Pendiente,
+531,559,Los Andes,2024-08-23,12,Maternidad,66139060-4,Tarapacá,579084,Rechazado,
+532,559,Los Andes,2023-02-18,1,Maternidad,89258320-K,Los Ríos,33066,Pagado,2023-03-23
+533,560,Los Héroes,2024-07-26,24,Enfermedad grave hijo <1,99813646-2,Coquimbo,1147512,Pagado,2024-09-01
+534,560,Los Héroes,2025-04-27,1,Maternidad,17908641-6,Los Lagos,37666,Pagado,2025-06-08
+535,560,Los Héroes,2025-03-02,1,Salud Mental,22783769-3,O'Higgins,26351,Pendiente,
+536,562,Los Andes,2025-02-21,39,Accidente,14659116-6,La Araucanía,888147,Pendiente,
+537,563,Gabriela Mistral,2023-01-12,1,Maternidad,35590425-9,Aysén,44672,Pagado,2023-02-20
+538,563,Gabriela Mistral,2023-06-30,15,Cuidados paliativos,27033521-1,Tarapacá,529260,Pagado,2023-07-14
+539,564,Los Héroes,2024-04-17,20,Accidente,92405147-7,Arica y Parinacota,858780,Pendiente,
+540,564,Los Héroes,2024-09-22,10,Maternidad,38338848-7,Coquimbo,317660,Pagado,2024-10-07
+541,566,Los Héroes,2024-07-08,14,COVID-19,06980420-4,Metropolitana,651462,Pagado,2024-07-16
+542,568,Gabriela Mistral,2023-05-27,32,Salud Mental,94070164-K,La Araucanía,1139232,Pagado,2023-06-26
+543,570,18 de Septiembre,2025-05-17,1,Salud Mental,10463681-5,Magallanes,38207,Pagado,2025-05-30
+544,570,18 de Septiembre,2024-04-05,3,Salud Mental,98123878-0,Tarapacá,120102,Pagado,2024-04-25
+545,571,La Araucana,2023-03-13,13,Accidente,84576205-K,La Araucanía,432016,Pagado,2023-04-10
+546,572,La Araucana,2023-10-02,1,Maternidad,43840460-8,Maule,51870,Pagado,2023-11-20
+547,573,18 de Septiembre,2025-02-08,1,Accidente,25621689-K,O'Higgins,24677,Rechazado,
+548,573,18 de Septiembre,2024-02-21,27,Enfermedad grave hijo <1,39264957-8,Coquimbo,425655,Pagado,2024-03-27
+549,575,Gabriela Mistral,2024-09-10,6,Accidente,29832482-6,Coquimbo,201390,Pagado,2024-09-23
+550,575,Gabriela Mistral,2024-07-15,13,COVID-19,92518812-5,Coquimbo,605384,Pagado,2024-08-11
+551,576,Gabriela Mistral,2023-08-23,19,COVID-19,05664742-3,Atacama,366909,Pagado,2023-09-13
+552,578,Los Héroes,2023-09-14,1,Accidente,20994999-3,O'Higgins,17580,Pagado,2023-11-09
+553,579,La Araucana,2024-09-16,13,Accidente,05172897-K,La Araucanía,544115,Pagado,2024-09-24
+554,580,Los Héroes,2023-02-20,2,Accidente,67722330-6,Arica y Parinacota,48950,Pagado,2023-04-09
+555,582,Gabriela Mistral,2023-10-18,5,Maternidad,63331279-7,Biobío,210575,Pendiente,
+556,582,Gabriela Mistral,2023-03-08,1,Salud Mental,73660965-6,Tarapacá,21610,Pagado,2023-04-14
+557,584,Los Andes,2024-12-31,17,Cuidados paliativos,17703886-0,Los Ríos,380732,Pagado,2025-01-25
+558,584,Los Andes,2023-10-09,19,Cuidados paliativos,03476447-2,Los Lagos,384579,Pagado,2023-11-06
+559,585,18 de Septiembre,2025-01-28,1,Maternidad,90827718-1,Valparaíso,26324,Pagado,2025-03-19
+560,586,Gabriela Mistral,2025-06-09,35,Salud Mental,98266570-2,Aysén,1028265,Pagado,2025-06-26
+561,587,Los Héroes,2023-11-21,1,Cuidados paliativos,37145211-1,Aysén,38244,Pendiente,
+562,587,Los Héroes,2024-04-16,14,COVID-19,51868926-8,Los Ríos,755790,Pagado,2024-05-03
+563,587,Los Héroes,2024-01-22,4,Enfermedad común,25922220-6,Ñuble,181264,Pagado,2024-02-28
+564,587,Los Héroes,2023-09-05,13,Maternidad,74212309-4,Arica y Parinacota,588588,Rechazado,
+565,588,Los Andes,2024-08-30,4,Enfermedad grave hijo <1,77809733-9,Magallanes,168316,Pagado,2024-09-07
+566,588,Los Andes,2023-05-01,17,Enfermedad grave hijo <1,67199038-4,Metropolitana,763164,Pagado,2023-05-31
+567,588,Los Andes,2025-06-15,1,Enfermedad común,22050209-9,Ñuble,16184,Pendiente,
+568,588,Los Andes,2025-02-26,1,Maternidad,10162249-K,Valparaíso,31911,Rechazado,
+569,591,Los Andes,2023-01-12,21,Enfermedad grave hijo <1,95014556-1,Los Lagos,1089039,Pagado,2023-01-25
+570,591,Los Andes,2023-04-16,20,Salud Mental,81472145-8,Los Lagos,313800,Rechazado,
+571,592,Los Andes,2024-04-01,1,Cuidados paliativos,33901981-7,Ñuble,50454,Pagado,2024-04-30
+572,592,Los Andes,2025-03-25,21,Enfermedad grave hijo <1,95489952-9,Magallanes,667779,Pagado,2025-04-19
+573,592,Los Andes,2023-06-16,17,Cuidados paliativos,77293430-1,Arica y Parinacota,446012,Pagado,2023-07-15
+574,593,Gabriela Mistral,2025-01-14,3,Enfermedad grave hijo <1,13966055-8,Metropolitana,114051,Rechazado,
+575,593,Gabriela Mistral,2024-06-12,1,Enfermedad común,34414488-5,Arica y Parinacota,50165,Pagado,2024-07-09
+576,594,La Araucana,2023-09-21,22,Enfermedad común,55699023-5,Biobío,706596,Pagado,2023-10-28
+577,594,La Araucana,2024-02-15,58,COVID-19,77027278-5,Aysén,1462006,Pagado,2024-03-25
+578,595,Los Héroes,2023-01-31,23,Salud Mental,60849588-0,Metropolitana,570032,Pendiente,
+579,598,Gabriela Mistral,2023-01-10,1,Cuidados paliativos,55124056-K,Valparaíso,50395,Pagado,2023-02-26
+580,599,Gabriela Mistral,2023-09-22,1,Cuidados paliativos,96291450-4,Los Lagos,20914,Pagado,2023-11-10
+581,599,Gabriela Mistral,2023-01-08,19,Enfermedad común,73574384-2,Atacama,547656,Pagado,2023-02-22
+582,599,Gabriela Mistral,2024-05-31,2,Maternidad,03178078-2,Metropolitana,45906,Rechazado,
+583,600,Gabriela Mistral,2023-01-25,1,Maternidad,78452182-3,Tarapacá,18409,Pagado,2023-03-01
+584,600,Gabriela Mistral,2024-06-28,26,Enfermedad grave hijo <1,68104091-5,Aysén,1059370,Pendiente,
+585,601,18 de Septiembre,2024-03-12,1,Enfermedad común,18409435-3,Metropolitana,54452,Pagado,2024-04-02
+586,601,18 de Septiembre,2025-01-10,1,Maternidad,48571422-4,Atacama,45554,Pagado,2025-01-22
+587,601,18 de Septiembre,2024-11-26,1,Enfermedad común,98813858-5,Maule,44048,Pagado,2025-01-13
+588,601,18 de Septiembre,2024-01-28,13,Accidente,49321495-8,Aysén,467584,Pagado,2024-03-01
+589,602,Los Héroes,2023-01-17,25,Enfermedad común,20701601-6,Los Ríos,1236125,Pendiente,
+590,603,Gabriela Mistral,2024-07-19,11,Accidente,99795453-K,Antofagasta,448107,Pagado,2024-08-08
+591,607,Los Héroes,2024-07-14,22,Salud Mental,79217174-K,Aysén,581702,Pagado,2024-08-09
+592,607,Los Héroes,2023-06-20,1,Enfermedad grave hijo <1,33294562-K,Biobío,16868,Pendiente,
+593,608,Los Andes,2024-01-08,5,Salud Mental,57701715-7,Aysén,186970,Pendiente,
+594,609,La Araucana,2024-06-25,40,Salud Mental,24599281-6,Atacama,1061000,Pagado,2024-07-15
+595,609,La Araucana,2023-08-01,21,Maternidad,81487696-3,O'Higgins,598878,Pagado,2023-09-06
+596,610,Los Andes,2025-06-06,15,Cuidados paliativos,27615396-6,Biobío,308085,Pagado,2025-07-11
+597,610,Los Andes,2023-12-19,44,Cuidados paliativos,32197199-7,Biobío,985556,Pagado,2024-01-22
+598,611,Los Andes,2024-04-30,19,Cuidados paliativos,17246191-K,Los Ríos,467932,Pagado,2024-06-04
+599,611,Los Andes,2023-05-27,13,Maternidad,70132902-K,Coquimbo,566592,Pagado,2023-07-15
+600,612,Los Andes,2023-03-25,24,Enfermedad grave hijo <1,84699733-K,Biobío,1172832,Rechazado,
+601,613,Gabriela Mistral,2024-03-27,1,Maternidad,94651909-8,Los Ríos,52763,Pagado,2024-05-01
+602,613,Gabriela Mistral,2023-08-11,26,Salud Mental,24058008-5,Atacama,896064,Pagado,2023-08-29
+603,614,18 de Septiembre,2025-04-21,13,Salud Mental,40369656-6,Los Ríos,369655,Pendiente,
+604,616,18 de Septiembre,2023-02-17,9,Enfermedad grave hijo <1,83272386-5,Los Lagos,159912,Pendiente,
+605,616,18 de Septiembre,2023-04-17,2,Accidente,42201027-K,Los Lagos,32320,Pendiente,
+606,618,La Araucana,2024-06-23,17,Accidente,12679692-7,Los Lagos,273615,Pagado,2024-08-14
+607,618,La Araucana,2025-03-22,17,Cuidados paliativos,76532690-9,Magallanes,805375,Rechazado,
+608,619,Los Héroes,2025-06-02,1,Salud Mental,38468950-0,Magallanes,16212,Pagado,2025-06-07
+609,621,Gabriela Mistral,2023-09-12,1,COVID-19,51971284-7,Antofagasta,49108,Pagado,2023-10-11
+610,622,La Araucana,2024-06-10,3,Cuidados paliativos,91371894-9,Tarapacá,68565,Pagado,2024-08-08
+611,622,La Araucana,2025-03-21,24,Maternidad,80778795-6,La Araucanía,962496,Pagado,2025-04-16
+612,623,Los Héroes,2023-10-30,29,Salud Mental,44209494-0,Magallanes,1031414,Pagado,2023-12-02
+613,624,Los Héroes,2024-05-31,26,Cuidados paliativos,29049047-1,Coquimbo,993252,Pagado,2024-06-14
+614,625,La Araucana,2023-10-08,1,Cuidados paliativos,14429444-0,Atacama,24255,Pagado,2023-11-04
+615,627,Los Héroes,2025-02-07,1,Cuidados paliativos,29275243-7,Valparaíso,34488,Pagado,2025-02-14
+616,628,La Araucana,2025-03-06,1,Salud Mental,80512927-6,Los Ríos,28765,Pagado,2025-04-23
+617,631,Gabriela Mistral,2025-01-15,1,Accidente,72395041-0,Valparaíso,37174,Pagado,2025-02-18
+618,632,Los Andes,2025-01-12,4,Enfermedad grave hijo <1,67478366-7,Maule,83788,Pagado,2025-02-10
+619,632,Los Andes,2024-07-21,26,Accidente,86047658-K,Tarapacá,479024,Pagado,2024-09-06
+620,633,Los Héroes,2025-01-07,1,Enfermedad común,85694544-1,Maule,24894,Pagado,2025-03-06
+621,634,18 de Septiembre,2023-11-13,1,COVID-19,96739385-K,Valparaíso,26695,Pagado,2024-01-06
+622,634,18 de Septiembre,2025-01-04,1,Maternidad,80010618-1,Aysén,32573,Pagado,2025-02-24
+623,635,Los Andes,2024-07-27,8,Maternidad,34430091-0,Metropolitana,149504,Pagado,2024-08-13
+624,637,Los Andes,2023-11-03,28,Cuidados paliativos,11192692-1,Valparaíso,761964,Pagado,2023-11-14
+625,637,Los Andes,2025-03-23,24,Maternidad,47174654-2,Antofagasta,1079784,Pagado,2025-05-03
+626,638,Gabriela Mistral,2025-04-24,20,Maternidad,06650442-7,Antofagasta,583680,Pendiente,
+627,639,Los Héroes,2025-01-15,1,Enfermedad grave hijo <1,39627128-6,Metropolitana,46358,Pagado,2025-03-10
+628,640,Gabriela Mistral,2023-02-10,1,Cuidados paliativos,17410119-4,Aysén,51135,Pendiente,
+629,641,Los Héroes,2024-01-05,1,Enfermedad común,72006425-6,Arica y Parinacota,41616,Pagado,2024-02-16
+630,642,Gabriela Mistral,2024-12-28,4,Cuidados paliativos,77661830-6,Magallanes,64460,Pagado,2025-01-14
+631,643,Gabriela Mistral,2024-09-10,9,Enfermedad común,98554601-5,Biobío,179325,Pagado,2024-10-25
+632,646,La Araucana,2023-12-25,20,Enfermedad común,74328063-4,Los Ríos,594320,Rechazado,
+633,647,18 de Septiembre,2023-06-12,1,Enfermedad común,57173203-0,O'Higgins,17102,Pagado,2023-07-30
+634,651,La Araucana,2024-04-08,15,Enfermedad grave hijo <1,61847870-0,Biobío,535710,Pagado,2024-04-23
+635,652,La Araucana,2023-01-01,30,Enfermedad común,50613878-2,O'Higgins,1449150,Pagado,2023-02-17
+636,653,18 de Septiembre,2025-04-18,18,Enfermedad común,02707903-K,Coquimbo,682614,Rechazado,
+637,657,Los Andes,2025-01-26,1,Enfermedad común,20417929-1,Atacama,53029,Pagado,2025-02-22
+638,658,La Araucana,2025-06-20,17,Enfermedad común,79931365-K,Los Ríos,823480,Pagado,2025-07-07
+639,659,Los Andes,2024-04-08,11,Maternidad,19825309-2,Biobío,209088,Pagado,2024-05-31
+640,660,18 de Septiembre,2024-10-20,1,Enfermedad común,14262582-7,O'Higgins,19761,Pagado,2024-12-01
+641,660,18 de Septiembre,2024-10-04,21,Cuidados paliativos,02196207-1,Arica y Parinacota,604695,Pagado,2024-11-29
+642,660,18 de Septiembre,2024-02-27,1,Enfermedad común,21946723-2,Maule,19931,Pendiente,
+643,660,18 de Septiembre,2025-03-22,8,Cuidados paliativos,76329092-7,Antofagasta,264584,Pagado,2025-04-25
+644,660,18 de Septiembre,2023-04-25,3,COVID-19,45608331-8,Atacama,62367,Pagado,2023-06-11
+645,661,Gabriela Mistral,2025-04-20,22,Cuidados paliativos,58837340-3,Atacama,1083038,Pagado,2025-05-23
+646,662,La Araucana,2024-06-27,23,Salud Mental,27722005-4,Metropolitana,1011793,Pagado,2024-07-30
+647,663,Los Andes,2025-03-07,16,Enfermedad grave hijo <1,45970108-2,Valparaíso,250560,Pagado,2025-03-13
+648,664,18 de Septiembre,2024-03-10,1,Salud Mental,07811379-9,Biobío,42843,Pagado,2024-05-03
+649,664,18 de Septiembre,2023-07-31,1,Enfermedad grave hijo <1,35315313-6,Metropolitana,45346,Pagado,2023-08-30
+650,666,Los Andes,2023-10-03,26,Enfermedad grave hijo <1,31797062-3,Aysén,1265940,Pagado,2023-10-21
+651,667,Gabriela Mistral,2024-11-05,1,Accidente,65273543-5,Coquimbo,47705,Pendiente,
+652,669,La Araucana,2025-03-01,18,Enfermedad común,90421776-2,Biobío,646110,Pendiente,
+653,670,Los Andes,2023-06-11,2,Accidente,49292983-1,Los Lagos,90302,Pendiente,
+654,672,Los Andes,2025-01-30,19,Salud Mental,87397740-6,O'Higgins,762052,Pagado,2025-02-21
+655,674,Los Héroes,2024-03-24,3,Accidente,56939290-6,Tarapacá,131700,Pagado,2024-05-02
+656,674,Los Héroes,2024-12-05,37,Enfermedad común,78068671-7,Magallanes,1064379,Pagado,2025-02-01
+657,677,Gabriela Mistral,2025-04-17,17,Accidente,18063254-3,Antofagasta,869771,Pagado,2025-06-07
+658,677,Gabriela Mistral,2025-02-01,1,Enfermedad común,74279907-7,Coquimbo,34476,Rechazado,
+659,677,Gabriela Mistral,2023-04-15,2,Salud Mental,62570165-8,Tarapacá,54236,Pagado,2023-05-23
+660,678,18 de Septiembre,2023-11-15,18,Maternidad,64989319-5,Tarapacá,584892,Pagado,2023-12-23
+661,679,Gabriela Mistral,2024-11-27,1,Cuidados paliativos,50165790-5,La Araucanía,20745,Pagado,2024-12-17
+662,679,Gabriela Mistral,2025-03-14,3,Accidente,81832538-1,Magallanes,129621,Pagado,2025-05-12
+663,680,Gabriela Mistral,2023-03-09,1,COVID-19,93355486-4,Tarapacá,22933,Pagado,2023-04-08
+664,681,Gabriela Mistral,2024-09-28,1,Enfermedad común,55778817-8,Ñuble,31059,Pagado,2024-10-03
+665,681,Gabriela Mistral,2025-03-30,2,Enfermedad grave hijo <1,95137116-2,Ñuble,105398,Pendiente,
+666,682,Gabriela Mistral,2025-05-07,8,Enfermedad común,12412723-8,Arica y Parinacota,273992,Pagado,2025-05-27
+667,682,Gabriela Mistral,2024-03-02,9,Maternidad,68275670-4,Metropolitana,418995,Pagado,2024-04-14
+668,684,La Araucana,2023-02-08,4,Enfermedad común,03856955-7,Aysén,117760,Pagado,2023-03-16
+669,684,La Araucana,2024-02-18,4,Enfermedad grave hijo <1,49242437-5,Ñuble,159872,Pagado,2024-03-31
+670,684,La Araucana,2024-05-31,17,Salud Mental,02547292-8,Ñuble,332197,Pagado,2024-06-26
+671,684,La Araucana,2023-05-13,24,Accidente,22231059-2,Aysén,657120,Pagado,2023-05-27
+672,685,18 de Septiembre,2024-07-26,1,Maternidad,52380552-5,Aysén,33738,Pagado,2024-09-17
+673,686,Los Andes,2025-06-09,6,Cuidados paliativos,28410672-7,Biobío,224694,Pendiente,
+674,688,Los Andes,2025-04-21,18,Accidente,08854749-K,Coquimbo,649098,Pagado,2025-05-11
+675,688,Los Andes,2023-02-28,1,Salud Mental,97517028-1,Ñuble,32629,Pagado,2023-04-28
+676,689,Los Andes,2023-12-15,1,Enfermedad común,69375150-9,Metropolitana,15442,Pagado,2024-01-16
+677,690,18 de Septiembre,2025-06-10,4,Cuidados paliativos,83430187-K,Antofagasta,143804,Pagado,2025-08-08
+678,690,18 de Septiembre,2024-12-04,5,Cuidados paliativos,63759980-K,La Araucanía,168400,Pagado,2025-01-06
+679,691,Gabriela Mistral,2024-02-21,1,Enfermedad grave hijo <1,26565045-5,Ñuble,29457,Pagado,2024-03-27
+680,692,Gabriela Mistral,2025-03-15,11,Enfermedad grave hijo <1,81376742-6,Los Lagos,502183,Pagado,2025-05-12
+681,694,Los Andes,2023-08-04,37,Accidente,99123478-5,Antofagasta,1194138,Pagado,2023-08-26
+682,696,La Araucana,2024-03-23,19,Cuidados paliativos,61064628-7,Coquimbo,625480,Pagado,2024-04-30
+683,697,Los Héroes,2023-10-09,1,Accidente,26487049-4,Magallanes,31651,Pagado,2023-12-06
+684,697,Los Héroes,2024-06-29,19,Cuidados paliativos,73002447-1,Ñuble,961210,Pagado,2024-07-18
+685,697,Los Héroes,2024-04-18,1,Enfermedad grave hijo <1,27301471-9,La Araucanía,53138,Pagado,2024-04-28
+686,697,Los Héroes,2023-06-29,21,Cuidados paliativos,79647158-9,Arica y Parinacota,846174,Pagado,2023-07-10
+687,697,Los Héroes,2023-05-01,1,Salud Mental,42902572-5,Valparaíso,17911,Pagado,2023-05-10
+688,697,Los Héroes,2024-03-21,5,Enfermedad común,45650448-K,Antofagasta,162465,Pagado,2024-04-11
+689,699,La Araucana,2024-02-03,1,Cuidados paliativos,32192855-K,Ñuble,40060,Pagado,2024-03-13
+690,699,La Araucana,2024-11-22,19,Maternidad,51895202-8,Ñuble,439850,Pendiente,
+691,700,La Araucana,2023-09-01,4,Maternidad,76521328-3,Metropolitana,81968,Pagado,2023-10-06
+692,701,18 de Septiembre,2023-07-30,1,Salud Mental,89888167-1,Atacama,25686,Pagado,2023-08-15
+693,701,18 de Septiembre,2023-12-23,33,Salud Mental,20754527-9,Biobío,1480941,Pendiente,
+694,702,18 de Septiembre,2023-04-03,23,Accidente,40132234-2,Metropolitana,540983,Pagado,2023-05-08
+695,704,Los Héroes,2023-09-22,18,Accidente,16110760-3,Atacama,631656,Pagado,2023-11-07
+696,706,Los Héroes,2023-04-02,18,Enfermedad común,89071401-4,Arica y Parinacota,704718,Pagado,2023-04-18
+697,706,Los Héroes,2025-05-16,10,Salud Mental,11939325-0,Antofagasta,448730,Pendiente,
+698,707,Gabriela Mistral,2024-10-01,12,Accidente,49552893-8,Antofagasta,315216,Pagado,2024-11-18
+699,708,18 de Septiembre,2024-01-14,1,Enfermedad común,90833428-0,Atacama,43546,Pendiente,
+700,708,18 de Septiembre,2024-04-19,33,Accidente,87592712-5,Los Ríos,1626339,Pagado,2024-06-14
+701,708,18 de Septiembre,2024-05-01,2,Enfermedad grave hijo <1,38361517-1,Coquimbo,84288,Pagado,2024-06-04
+702,708,18 de Septiembre,2024-01-08,1,Enfermedad grave hijo <1,54801571-6,Ñuble,41962,Pagado,2024-02-05
+703,709,Los Andes,2024-07-27,5,Enfermedad grave hijo <1,94738646-3,Antofagasta,155580,Pagado,2024-09-19
+704,709,Los Andes,2024-12-01,1,Salud Mental,75207167-8,Antofagasta,52374,Pagado,2024-12-29
+705,710,Los Andes,2023-02-26,1,Enfermedad común,26691215-3,Biobío,30066,Pagado,2023-03-28
+706,711,Gabriela Mistral,2025-04-18,14,Accidente,96136749-9,Maule,502558,Pagado,2025-05-06
+707,711,Gabriela Mistral,2023-09-29,1,Salud Mental,65796784-2,Aysén,34346,Pagado,2023-11-25
+708,711,Gabriela Mistral,2023-06-06,13,Enfermedad común,14773201-0,Antofagasta,427193,Pagado,2023-07-04
+709,714,18 de Septiembre,2024-04-26,13,Enfermedad grave hijo <1,02695249-9,Atacama,284297,Pagado,2024-05-29
+710,715,18 de Septiembre,2024-12-19,11,Salud Mental,18773477-8,Maule,417923,Pagado,2025-01-22
+711,718,La Araucana,2023-08-31,1,Cuidados paliativos,58800616-7,Biobío,29706,Pagado,2023-10-23
+712,720,La Araucana,2023-10-08,10,Salud Mental,67700284-2,Magallanes,327710,Pagado,2023-10-19
+713,720,La Araucana,2025-05-26,23,Enfermedad grave hijo <1,24671978-K,Magallanes,621598,Pagado,2025-07-09
+714,721,18 de Septiembre,2023-06-19,20,Enfermedad grave hijo <1,82806479-6,La Araucanía,700240,Pendiente,
+715,721,18 de Septiembre,2023-01-14,1,Salud Mental,45009025-5,Arica y Parinacota,38092,Pagado,2023-03-03
+716,721,18 de Septiembre,2024-07-03,6,Salud Mental,56165565-0,O'Higgins,284652,Pagado,2024-08-27
+717,722,18 de Septiembre,2025-05-24,1,Accidente,34911415-2,Arica y Parinacota,39260,Pagado,2025-06-29
+718,722,18 de Septiembre,2023-01-26,16,Cuidados paliativos,50769864-0,Magallanes,626784,Pagado,2023-03-07
+719,722,18 de Septiembre,2024-11-10,1,Cuidados paliativos,05696591-7,Atacama,18838,Pagado,2025-01-06
+720,722,18 de Septiembre,2023-01-08,4,COVID-19,35785294-5,Los Lagos,186620,Pagado,2023-02-09
+721,722,18 de Septiembre,2024-12-18,1,Accidente,71834404-9,Los Ríos,53362,Pagado,2025-01-06
+722,725,Los Andes,2024-12-01,1,Salud Mental,39191954-1,Magallanes,44677,Pagado,2024-12-19
+723,726,Los Andes,2024-08-14,18,Enfermedad grave hijo <1,35148468-5,Metropolitana,549648,Pagado,2024-10-12
+724,727,Los Héroes,2023-03-29,5,Enfermedad grave hijo <1,64987820-K,Valparaíso,151835,Pagado,2023-05-17
+725,727,Los Héroes,2025-01-04,13,Cuidados paliativos,73748969-K,Tarapacá,671073,Rechazado,
+726,727,Los Héroes,2024-04-22,34,Cuidados paliativos,35723246-6,Biobío,1768612,Pagado,2024-06-16
+727,731,Gabriela Mistral,2023-08-20,24,Salud Mental,13644249-3,Los Ríos,882744,Pagado,2023-10-16
+728,733,Los Héroes,2024-06-04,27,Accidente,12303477-8,Los Lagos,847989,Pendiente,
+729,734,La Araucana,2024-04-29,3,Enfermedad grave hijo <1,03242044-K,Valparaíso,83883,Rechazado,
+730,734,La Araucana,2023-10-04,20,COVID-19,07001594-1,Los Lagos,922200,Pagado,2023-10-11
+731,735,Los Andes,2024-04-08,21,Maternidad,16231981-8,Maule,382116,Pendiente,
+732,736,La Araucana,2023-02-08,12,Enfermedad grave hijo <1,13915596-3,Los Lagos,367140,Pagado,2023-03-05
+733,736,La Araucana,2025-04-29,1,Accidente,21234764-9,Tarapacá,45898,Pagado,2025-06-27
+734,738,Los Héroes,2023-01-08,1,Enfermedad grave hijo <1,85158673-4,Coquimbo,40544,Pagado,2023-02-02
+735,739,Los Héroes,2024-07-08,13,Maternidad,75409003-4,Los Ríos,602199,Pagado,2024-07-16
+736,739,Los Héroes,2024-07-18,31,Maternidad,51837606-4,Ñuble,1561191,Pendiente,
+737,739,Los Héroes,2024-12-09,1,Enfermedad común,34327560-4,Antofagasta,40651,Pendiente,
+738,740,Gabriela Mistral,2025-01-21,24,Salud Mental,77656124-8,Antofagasta,682896,Rechazado,
+739,744,Gabriela Mistral,2024-12-08,19,Maternidad,69857002-K,Aysén,285969,Pendiente,
+740,744,Gabriela Mistral,2023-06-30,17,Salud Mental,20634591-1,Valparaíso,630224,Pendiente,
+741,745,18 de Septiembre,2023-09-17,8,Accidente,82965772-4,Valparaíso,306072,Pagado,2023-11-14
+742,749,Los Andes,2025-01-26,23,COVID-19,95431652-6,Los Ríos,1156164,Pagado,2025-02-27
+743,751,Los Héroes,2024-07-14,4,Salud Mental,93008931-7,Metropolitana,169700,Pagado,2024-07-23
+744,751,Los Héroes,2023-01-15,14,Maternidad,20696942-1,La Araucanía,291284,Pagado,2023-02-16
+745,753,Los Andes,2025-03-23,35,Accidente,91086771-3,Metropolitana,1582560,Pagado,2025-03-28
+746,754,18 de Septiembre,2024-02-19,47,Accidente,44762639-3,Ñuble,982911,Pendiente,
+747,756,18 de Septiembre,2024-02-03,9,COVID-19,36262044-3,Aysén,137961,Pendiente,
+748,757,Gabriela Mistral,2024-04-06,1,Accidente,59710725-6,Metropolitana,20703,Rechazado,
+749,757,Gabriela Mistral,2024-02-14,10,COVID-19,66941180-0,Biobío,176110,Pendiente,
+750,757,Gabriela Mistral,2023-04-06,1,Accidente,75990048-9,Los Ríos,24180,Pagado,2023-05-06
+751,759,Gabriela Mistral,2024-02-21,15,Maternidad,65280924-2,Magallanes,544230,Pendiente,
+752,759,Gabriela Mistral,2024-12-07,10,Maternidad,72158624-1,Biobío,301860,Pagado,2024-12-26
+753,760,La Araucana,2023-10-07,1,Enfermedad común,27456449-4,Biobío,36516,Pagado,2023-11-29
+754,761,18 de Septiembre,2024-12-11,1,Enfermedad grave hijo <1,25728703-2,Tarapacá,52888,Pagado,2024-12-27
+755,762,18 de Septiembre,2023-08-14,1,Accidente,20742761-7,Tarapacá,41483,Pagado,2023-09-03
+756,762,18 de Septiembre,2025-02-16,1,Enfermedad grave hijo <1,58777121-5,Antofagasta,36612,Pagado,2025-03-11
+757,762,18 de Septiembre,2025-06-20,8,Accidente,42284993-9,Arica y Parinacota,376072,Pagado,2025-08-18
+758,767,La Araucana,2023-01-20,10,Cuidados paliativos,92613715-0,Ñuble,399080,Rechazado,
+759,767,La Araucana,2025-06-29,34,COVID-19,16591520-1,Aysén,1070456,Pagado,2025-08-05
+760,768,Gabriela Mistral,2025-06-26,1,Salud Mental,77490509-7,Biobío,16018,Pagado,2025-07-22
+761,769,Gabriela Mistral,2023-11-28,21,COVID-19,92304501-8,Los Ríos,1126965,Pagado,2024-01-09
+762,769,Gabriela Mistral,2024-04-25,11,Enfermedad común,64236103-2,Los Ríos,526625,Pagado,2024-05-26
+763,770,Los Andes,2024-09-04,1,Salud Mental,64214764-K,Coquimbo,24465,Pendiente,
+764,770,Los Andes,2025-01-08,23,Maternidad,15837767-4,Los Lagos,836119,Pendiente,
+765,774,La Araucana,2025-05-25,24,Enfermedad común,65926610-8,Biobío,1166064,Pagado,2025-07-20
+766,774,La Araucana,2024-10-25,5,Enfermedad grave hijo <1,32788147-6,Antofagasta,90325,Pagado,2024-11-11
+767,774,La Araucana,2024-08-25,1,Salud Mental,74224386-4,Tarapacá,35927,Rechazado,
+768,776,Los Andes,2023-02-12,22,Cuidados paliativos,10818661-7,Maule,478852,Pagado,2023-03-11
+769,779,18 de Septiembre,2024-05-19,1,Maternidad,49180172-2,Los Ríos,29669,Pendiente,
+770,782,Los Andes,2023-10-31,16,Enfermedad común,16459779-4,Biobío,467936,Pagado,2023-11-25
+771,783,Los Andes,2025-06-02,16,Salud Mental,23219416-8,Arica y Parinacota,709568,Pagado,2025-07-22
+772,784,18 de Septiembre,2023-12-08,3,Enfermedad común,61027769-7,Ñuble,89577,Pagado,2023-12-18
+773,784,18 de Septiembre,2025-03-31,1,Cuidados paliativos,95641220-3,Atacama,30021,Pagado,2025-05-18
+774,784,18 de Septiembre,2024-03-22,5,Salud Mental,03037236-K,Metropolitana,81225,Pendiente,
+775,786,Los Andes,2024-09-20,8,Enfermedad común,47276012-2,Aysén,150480,Pagado,2024-09-29
+776,786,Los Andes,2024-06-11,7,Enfermedad grave hijo <1,70793349-6,Tarapacá,200088,Pagado,2024-07-17
+777,790,Los Andes,2023-02-27,33,Maternidad,01667998-4,Tarapacá,1162557,Pagado,2023-04-22
+778,791,18 de Septiembre,2023-01-14,7,Enfermedad grave hijo <1,67899730-8,Arica y Parinacota,349636,Pagado,2023-02-21
+779,791,18 de Septiembre,2025-06-10,25,Enfermedad grave hijo <1,95814671-7,La Araucanía,389550,Pendiente,
+780,793,Los Héroes,2024-02-24,34,Enfermedad grave hijo <1,60243757-3,O'Higgins,927996,Pagado,2024-03-02
+781,793,Los Héroes,2024-02-27,4,Cuidados paliativos,59724665-7,Valparaíso,169808,Pagado,2024-04-04
+782,794,La Araucana,2024-11-26,20,Cuidados paliativos,34172232-9,Magallanes,546280,Pagado,2024-12-18
+783,795,Los Héroes,2024-05-17,23,Enfermedad común,67433800-5,Maule,1078976,Pagado,2024-06-24
+784,796,La Araucana,2024-12-06,1,Maternidad,22801561-9,O'Higgins,16919,Pagado,2024-12-15
+785,797,Gabriela Mistral,2024-10-22,10,Enfermedad común,83745508-4,Coquimbo,242280,Pagado,2024-11-04
+786,797,Gabriela Mistral,2023-03-29,1,Salud Mental,89107711-9,Atacama,21189,Rechazado,
+787,798,La Araucana,2025-01-14,1,Salud Mental,80812135-2,Ñuble,52657,Pendiente,
+788,799,18 de Septiembre,2024-06-09,5,COVID-19,78712552-1,Metropolitana,243035,Pagado,2024-07-12
+789,801,18 de Septiembre,2024-11-17,1,Enfermedad grave hijo <1,60375482-1,Maule,17654,Pagado,2024-12-05
+790,802,18 de Septiembre,2025-03-11,13,Maternidad,65328632-6,Los Lagos,329368,Pagado,2025-03-31
+791,806,La Araucana,2023-11-16,21,Enfermedad grave hijo <1,78507208-1,Antofagasta,499758,Pendiente,
+792,808,18 de Septiembre,2023-07-19,2,Maternidad,56260602-9,Tarapacá,52170,Pendiente,
+793,809,Los Andes,2025-06-16,10,COVID-19,84668455-0,Maule,370990,Pagado,2025-08-07
+794,810,Gabriela Mistral,2024-07-06,11,Cuidados paliativos,92673899-K,Aysén,520355,Pagado,2024-08-19
+795,810,Gabriela Mistral,2024-03-15,5,COVID-19,56341085-6,Coquimbo,136955,Pendiente,
+796,812,La Araucana,2024-08-23,16,Cuidados paliativos,84318848-5,Valparaíso,564512,Pagado,2024-09-12
+797,812,La Araucana,2024-05-19,14,Enfermedad común,08943468-1,Tarapacá,391174,Pagado,2024-06-15
+798,812,La Araucana,2024-09-29,1,Salud Mental,54851017-4,Arica y Parinacota,35323,Pagado,2024-10-09
+799,813,Los Andes,2023-02-09,12,Enfermedad grave hijo <1,53998935-4,Ñuble,274848,Pagado,2023-02-28
+800,813,Los Andes,2023-08-16,3,COVID-19,92683158-9,Metropolitana,117753,Pagado,2023-10-05
+801,814,Los Andes,2024-03-14,18,Salud Mental,57126611-0,Los Lagos,777096,Pagado,2024-04-07
+802,816,Los Héroes,2025-05-15,2,Accidente,73715869-8,Los Ríos,81530,Pagado,2025-05-23
+803,818,Los Andes,2025-05-04,1,Salud Mental,49767762-2,Coquimbo,38930,Pagado,2025-06-30
+804,819,Gabriela Mistral,2025-01-28,18,Enfermedad grave hijo <1,72881377-0,Valparaíso,632394,Pagado,2025-02-24
+805,819,Gabriela Mistral,2024-08-02,1,Cuidados paliativos,51961159-4,Tarapacá,51700,Pagado,2024-09-16
+806,820,Los Héroes,2024-01-27,19,Cuidados paliativos,21545447-0,Coquimbo,1012681,Pagado,2024-02-09
+807,820,Los Héroes,2023-08-05,6,Accidente,96044327-0,Atacama,260490,Pagado,2023-09-09
+808,821,Los Andes,2025-03-28,32,Cuidados paliativos,51067949-7,Biobío,783616,Pagado,2025-04-30
+809,824,18 de Septiembre,2025-04-23,25,Salud Mental,67922877-K,Aysén,1129375,Pendiente,
+810,825,Los Andes,2024-06-29,1,Accidente,51996636-5,Tarapacá,46688,Pagado,2024-07-26
+811,825,Los Andes,2023-06-10,1,COVID-19,74120948-K,Atacama,37072,Pagado,2023-06-15
+812,829,La Araucana,2024-02-11,1,COVID-19,81398909-8,Metropolitana,37578,Pagado,2024-03-14
+813,830,Los Andes,2023-02-11,10,Salud Mental,78018204-3,O'Higgins,167010,Pagado,2023-04-04
+814,831,Los Héroes,2023-01-26,26,Salud Mental,97189569-0,Magallanes,560378,Pagado,2023-02-08
+815,833,La Araucana,2023-09-03,17,Salud Mental,05626085-6,Maule,333489,Rechazado,
+816,835,Gabriela Mistral,2023-06-21,20,Enfermedad común,11824224-1,Coquimbo,831240,Pagado,2023-07-16
+817,836,Los Héroes,2023-05-18,1,Maternidad,62095200-4,Los Ríos,40037,Rechazado,
+818,836,Los Héroes,2024-10-16,4,Enfermedad común,52654610-3,O'Higgins,93088,Pagado,2024-11-21
+819,840,18 de Septiembre,2023-01-16,16,Salud Mental,99378861-4,Tarapacá,782912,Pendiente,
+820,840,18 de Septiembre,2025-02-15,3,Maternidad,78617063-0,Maule,150315,Pagado,2025-03-20
+821,840,18 de Septiembre,2024-11-07,14,Cuidados paliativos,91382496-7,Antofagasta,477330,Pagado,2024-12-29
+822,841,Gabriela Mistral,2023-12-19,1,Salud Mental,83258238-6,Aysén,40976,Pagado,2024-01-30
+823,842,Gabriela Mistral,2024-12-05,34,Enfermedad común,07942007-4,Maule,1657160,Pendiente,
+824,843,Los Andes,2024-10-25,3,Salud Mental,65398402-8,Antofagasta,108357,Pagado,2024-11-19
+825,844,Los Andes,2024-09-14,8,Maternidad,16128463-9,Biobío,308864,Pagado,2024-10-11
+826,845,Gabriela Mistral,2023-12-17,1,COVID-19,54743553-7,Biobío,29434,Pagado,2024-01-13
+827,845,Gabriela Mistral,2025-04-17,18,Enfermedad común,20970026-8,Magallanes,368010,Pagado,2025-06-05
+828,847,Los Héroes,2024-09-15,7,Salud Mental,68118071-5,Los Ríos,350952,Pagado,2024-10-13
+829,847,Los Héroes,2023-03-03,35,Salud Mental,95620175-3,Aysén,654185,Pagado,2023-04-06
+830,848,18 de Septiembre,2023-06-15,1,Enfermedad común,30453194-3,O'Higgins,19300,Pagado,2023-08-06
+831,848,18 de Septiembre,2024-03-18,15,Enfermedad grave hijo <1,50479303-K,Los Ríos,394200,Pagado,2024-04-14
+832,849,Los Andes,2024-02-16,12,Enfermedad común,49872839-K,Valparaíso,525216,Pagado,2024-04-15
+833,851,18 de Septiembre,2023-03-01,45,Enfermedad común,92124938-4,Metropolitana,1594125,Pagado,2023-03-29
+834,852,Gabriela Mistral,2024-03-21,22,Salud Mental,08948706-K,Tarapacá,490424,Pendiente,
+835,853,Los Héroes,2023-06-11,9,Salud Mental,56641877-5,Tarapacá,366948,Pagado,2023-07-27
+836,857,18 de Septiembre,2024-04-06,1,COVID-19,30468750-6,Metropolitana,35754,Pagado,2024-04-27
+837,858,Los Héroes,2023-03-06,4,Maternidad,19036133-2,Biobío,215572,Pendiente,
+838,858,Los Héroes,2024-06-23,1,Maternidad,11076095-4,O'Higgins,33922,Pagado,2024-07-17
+839,858,Los Héroes,2023-01-03,43,Enfermedad común,73505831-9,Aysén,1632237,Pagado,2023-02-24
+840,863,18 de Septiembre,2023-04-30,27,Salud Mental,17911006-5,Antofagasta,532494,Pagado,2023-06-14
+841,864,La Araucana,2024-11-22,8,Salud Mental,20704961-1,Tarapacá,411928,Pagado,2025-01-13
+842,864,La Araucana,2025-04-14,28,Cuidados paliativos,04661963-9,Arica y Parinacota,553868,Pagado,2025-05-19
+843,864,La Araucana,2023-05-23,41,Enfermedad grave hijo <1,67699150-7,Biobío,1438239,Pagado,2023-07-15
+844,866,Gabriela Mistral,2025-02-25,1,Cuidados paliativos,31109193-9,Coquimbo,48717,Pendiente,
+845,867,Los Héroes,2023-12-21,28,COVID-19,84567972-3,Coquimbo,1193388,Pagado,2024-01-13
+846,869,La Araucana,2023-07-15,35,Salud Mental,00249685-4,Coquimbo,908460,Pagado,2023-09-11
+847,869,La Araucana,2024-10-20,63,Accidente,74954508-9,Coquimbo,1670697,Pagado,2024-12-04
+848,872,Los Héroes,2024-12-07,13,Enfermedad común,38806533-K,Metropolitana,486733,Pagado,2025-01-20
+849,875,Los Andes,2025-01-21,1,Salud Mental,15377959-9,Biobío,47926,Pagado,2025-03-12
+850,877,Los Andes,2023-10-06,10,Cuidados paliativos,46521707-3,Arica y Parinacota,175260,Pendiente,
+851,877,Los Andes,2024-03-06,19,COVID-19,33793375-6,Metropolitana,587271,Pagado,2024-04-04
+852,880,18 de Septiembre,2025-02-16,20,Enfermedad grave hijo <1,20501508-1,Coquimbo,811020,Pagado,2025-03-11
+853,886,La Araucana,2024-03-14,10,Maternidad,73950033-4,Valparaíso,337040,Pagado,2024-03-24
+854,887,La Araucana,2023-02-17,11,Accidente,42583230-2,Maule,379115,Pendiente,
+855,887,La Araucana,2024-02-17,27,Enfermedad común,02615347-3,La Araucanía,1047762,Pagado,2024-04-06
+856,887,La Araucana,2024-02-01,16,Salud Mental,52896112-2,Metropolitana,391520,Pagado,2024-02-26
+857,888,Gabriela Mistral,2023-03-10,13,Accidente,86559630-9,Metropolitana,624923,Pagado,2023-04-16
+858,890,Los Héroes,2023-04-11,14,Salud Mental,84253042-8,Magallanes,385966,Pagado,2023-05-07
+859,890,Los Héroes,2024-06-12,1,Accidente,17912868-5,Magallanes,34748,Pagado,2024-06-27
+860,891,La Araucana,2023-08-23,1,Cuidados paliativos,72558777-4,Los Ríos,20950,Pagado,2023-10-11
+861,891,La Araucana,2024-06-22,19,COVID-19,90333736-3,Ñuble,445797,Pagado,2024-07-14
+862,892,Gabriela Mistral,2024-08-04,1,Enfermedad grave hijo <1,69254812-1,Ñuble,35594,Pagado,2024-08-22
+863,893,La Araucana,2023-10-30,4,Enfermedad grave hijo <1,85390789-5,Los Lagos,173148,Pagado,2023-11-08
+864,894,Los Héroes,2023-03-11,32,Enfermedad grave hijo <1,76657546-0,Valparaíso,1622816,Pagado,2023-04-27
+865,895,Los Andes,2024-08-23,1,Enfermedad grave hijo <1,34151488-8,Antofagasta,49986,Pagado,2024-09-28
+866,896,Gabriela Mistral,2023-08-06,1,Salud Mental,43111508-3,Biobío,15615,Pendiente,
+867,896,Gabriela Mistral,2023-09-14,25,Accidente,54443928-4,Arica y Parinacota,549600,Pendiente,
+868,896,Gabriela Mistral,2025-05-25,1,Salud Mental,44566907-K,Coquimbo,42399,Pagado,2025-07-10
+869,897,Los Andes,2024-10-25,18,Salud Mental,63337389-8,Aysén,611928,Pagado,2024-11-30
+870,897,Los Andes,2024-11-18,17,COVID-19,75153663-7,Aysén,664734,Pagado,2025-01-08
+871,899,Los Andes,2023-04-20,2,Salud Mental,80529240-7,La Araucanía,78140,Pendiente,
+872,899,Los Andes,2023-03-08,11,Maternidad,36668459-0,Tarapacá,406956,Pagado,2023-03-19
+873,901,18 de Septiembre,2023-09-05,9,Accidente,25999966-3,Los Ríos,439911,Pagado,2023-09-28
+874,901,18 de Septiembre,2024-03-01,6,Enfermedad común,86371597-K,Ñuble,315804,Pagado,2024-03-22
+875,907,Gabriela Mistral,2023-11-06,27,Enfermedad común,21820970-2,Metropolitana,1020492,Pagado,2023-11-26
+876,909,Los Andes,2023-11-08,21,Enfermedad común,64334817-0,La Araucanía,626157,Pagado,2023-12-31
+877,910,La Araucana,2023-11-12,21,Cuidados paliativos,02566212-8,Los Lagos,1041957,Pagado,2023-11-21
+878,911,Los Héroes,2023-02-26,2,Enfermedad grave hijo <1,16323467-2,Ñuble,43680,Pagado,2023-03-19
+879,913,18 de Septiembre,2025-03-26,1,Cuidados paliativos,38743027-1,Los Ríos,36423,Pagado,2025-04-19
+880,913,18 de Septiembre,2023-01-13,1,Cuidados paliativos,38597779-0,Antofagasta,47360,Pagado,2023-03-08
+881,916,Gabriela Mistral,2023-05-30,1,Maternidad,75469263-2,Los Lagos,43924,Pagado,2023-06-28
+882,917,18 de Septiembre,2023-10-16,1,Enfermedad grave hijo <1,62916032-4,Ñuble,43190,Pagado,2023-11-15
+883,919,Gabriela Mistral,2023-05-12,23,COVID-19,13768151-1,Biobío,705180,Pendiente,
+884,920,Los Héroes,2024-06-17,1,Enfermedad grave hijo <1,72438070-1,Aysén,16607,Pagado,2024-07-24
+885,922,Gabriela Mistral,2023-10-28,26,Enfermedad grave hijo <1,56360041-2,Biobío,636506,Pagado,2023-12-19
+886,922,Gabriela Mistral,2023-06-12,28,COVID-19,77711837-2,Magallanes,974344,Pagado,2023-08-01
+887,922,Gabriela Mistral,2023-07-18,12,Salud Mental,42209124-1,Los Ríos,603912,Pagado,2023-09-07
+888,922,Gabriela Mistral,2024-08-03,1,Accidente,10427523-0,Metropolitana,36804,Pagado,2024-08-12
+889,923,Gabriela Mistral,2024-09-10,35,Enfermedad grave hijo <1,08164709-0,Tarapacá,1339765,Rechazado,
+890,924,Gabriela Mistral,2023-03-19,11,Salud Mental,63353310-6,Arica y Parinacota,428835,Pagado,2023-03-26
+891,924,Gabriela Mistral,2025-05-18,3,Enfermedad común,53131220-6,Atacama,148536,Pagado,2025-06-02
+892,926,18 de Septiembre,2024-05-16,1,Salud Mental,55839386-6,Atacama,19876,Pagado,2024-06-28
+893,927,La Araucana,2024-12-30,24,Accidente,31552065-0,Los Ríos,379776,Pendiente,
+894,929,Los Andes,2023-02-04,8,Accidente,73149501-3,Los Lagos,186128,Pagado,2023-03-31
+895,930,Gabriela Mistral,2023-10-31,1,Maternidad,97189241-9,Biobío,24695,Pagado,2023-12-02
+896,930,Gabriela Mistral,2024-11-14,15,COVID-19,62525715-0,Aysén,243210,Pagado,2025-01-12
+897,932,Los Andes,2024-04-19,21,Enfermedad grave hijo <1,83890309-1,Ñuble,897540,Pagado,2024-05-13
+898,932,Los Andes,2023-04-04,30,Accidente,63910257-4,Metropolitana,806430,Pagado,2023-04-29
+899,933,La Araucana,2025-05-11,1,Accidente,63039752-4,Biobío,21553,Pendiente,
+900,933,La Araucana,2024-11-10,1,COVID-19,08640355-3,Metropolitana,18770,Pagado,2024-11-15
+901,933,La Araucana,2024-06-06,3,Cuidados paliativos,03396852-7,Arica y Parinacota,147189,Pagado,2024-07-22
+902,934,18 de Septiembre,2023-07-05,2,Enfermedad común,71302321-2,Metropolitana,33240,Pagado,2023-07-12
+903,934,18 de Septiembre,2025-03-19,1,Accidente,81674233-6,Valparaíso,17837,Pagado,2025-05-07
+904,935,Gabriela Mistral,2024-01-03,8,Cuidados paliativos,34497347-1,La Araucanía,356160,Pagado,2024-01-30
+905,936,Los Andes,2025-04-09,10,Enfermedad grave hijo <1,62776896-2,Magallanes,475350,Pagado,2025-05-17
+906,937,Los Andes,2025-04-26,23,Enfermedad común,66149828-2,Maule,505103,Pagado,2025-06-21
+907,939,Los Andes,2025-03-06,16,Enfermedad grave hijo <1,74746897-1,Biobío,369552,Pendiente,
+908,939,Los Andes,2023-03-03,9,Accidente,73230085-7,Los Ríos,361872,Pendiente,
+909,940,Los Andes,2023-04-25,31,Enfermedad grave hijo <1,65674916-0,Atacama,954025,Pagado,2023-05-13
+910,941,La Araucana,2023-11-20,1,Enfermedad grave hijo <1,92364587-K,La Araucanía,27460,Rechazado,
+911,942,Gabriela Mistral,2024-07-10,1,COVID-19,06633705-K,Arica y Parinacota,16740,Pagado,2024-08-23
+912,942,Gabriela Mistral,2023-06-27,1,COVID-19,24972439-9,Valparaíso,49722,Pagado,2023-07-18
+913,943,18 de Septiembre,2025-02-12,5,Enfermedad común,11669183-6,Valparaíso,177570,Pagado,2025-02-23
+914,945,18 de Septiembre,2023-03-17,1,Salud Mental,64488694-6,Antofagasta,45383,Pagado,2023-05-13
+915,946,18 de Septiembre,2025-02-02,1,Enfermedad común,95243640-2,Magallanes,32443,Pagado,2025-03-19
+916,947,La Araucana,2024-03-01,1,Enfermedad común,11686462-2,La Araucanía,23108,Pagado,2024-04-07
+917,948,Los Héroes,2024-08-17,1,Accidente,23728179-3,Valparaíso,23212,Pagado,2024-08-23
+918,948,Los Héroes,2024-11-17,4,Accidente,02346791-K,Valparaíso,218124,Pagado,2024-11-28
+919,949,Gabriela Mistral,2024-02-01,13,Enfermedad común,41614150-9,O'Higgins,513981,Pagado,2024-03-08
+920,951,Los Héroes,2023-08-29,29,Enfermedad grave hijo <1,71004090-1,Metropolitana,470322,Pagado,2023-10-22
+921,952,18 de Septiembre,2024-11-21,21,Cuidados paliativos,06984775-9,Los Lagos,846762,Pagado,2025-01-11
+922,953,Los Héroes,2023-02-21,1,Maternidad,55535669-0,La Araucanía,22543,Pendiente,
+923,957,Gabriela Mistral,2024-07-26,4,Salud Mental,51076209-1,Maule,124404,Pagado,2024-08-12
+924,958,Gabriela Mistral,2023-11-03,2,COVID-19,35797863-0,Biobío,59324,Pagado,2023-11-18
+925,959,18 de Septiembre,2023-11-26,24,Enfermedad común,50573976-9,Antofagasta,399480,Pagado,2023-12-24
+926,960,Los Andes,2023-05-24,23,Maternidad,67164932-8,Tarapacá,840949,Pagado,2023-06-08
+927,961,Los Héroes,2025-01-10,19,Accidente,71487271-7,O'Higgins,667622,Pagado,2025-01-17
+928,962,La Araucana,2023-11-20,31,Accidente,32116025-6,Maule,883965,Pendiente,
+929,963,La Araucana,2023-10-25,29,Accidente,47128715-3,Antofagasta,564862,Pagado,2023-11-05
+930,964,Gabriela Mistral,2024-09-25,1,COVID-19,56686334-1,Ñuble,35011,Pagado,2024-11-06
+931,964,Gabriela Mistral,2023-07-23,6,Enfermedad común,11593195-2,Biobío,259056,Pagado,2023-09-18
+932,965,18 de Septiembre,2024-10-13,7,Enfermedad grave hijo <1,90409836-6,Biobío,299362,Pendiente,
+933,966,La Araucana,2024-11-25,7,Salud Mental,52899316-0,Aysén,238392,Pagado,2025-01-21
+934,967,Los Andes,2024-02-19,1,Maternidad,24377294-2,Tarapacá,22463,Pagado,2024-04-16
+935,968,Gabriela Mistral,2024-03-03,8,Cuidados paliativos,54814973-7,Ñuble,139160,Pagado,2024-04-17
+936,971,Los Héroes,2024-10-10,1,COVID-19,60523302-7,Los Ríos,41924,Pagado,2024-11-15
+937,973,Gabriela Mistral,2023-01-01,7,Maternidad,20865675-6,Los Ríos,331933,Pagado,2023-01-14
+938,976,Los Héroes,2024-10-08,17,Enfermedad común,84438612-5,Tarapacá,309604,Rechazado,
+939,976,Los Héroes,2024-07-08,22,Salud Mental,47292774-2,Metropolitana,706310,Pagado,2024-08-08
+940,978,La Araucana,2023-03-31,1,Accidente,30591266-K,Valparaíso,49019,Pagado,2023-05-03
+941,978,La Araucana,2025-04-21,8,Enfermedad común,15720185-9,Los Lagos,267312,Pagado,2025-06-16
+942,979,18 de Septiembre,2025-01-21,26,Accidente,63013674-9,Valparaíso,1425034,Pagado,2025-03-05
+943,979,18 de Septiembre,2023-10-11,5,COVID-19,61764750-1,Atacama,269985,Pagado,2023-10-31
+944,980,18 de Septiembre,2024-05-15,16,Enfermedad común,17830999-7,Maule,298336,Pagado,2024-05-20
+945,980,18 de Septiembre,2024-01-08,4,COVID-19,19267649-2,Atacama,67112,Pagado,2024-02-09
+946,981,18 de Septiembre,2023-03-12,25,Maternidad,18260688-8,Magallanes,376125,Pendiente,
+947,981,18 de Septiembre,2024-02-26,9,Enfermedad común,89813129-2,Arica y Parinacota,223686,Pagado,2024-03-07
+948,982,Los Héroes,2025-02-12,26,Cuidados paliativos,75102932-1,Maule,556062,Rechazado,
+949,983,Los Héroes,2025-01-12,12,Salud Mental,01184582-6,Arica y Parinacota,535260,Pagado,2025-01-18
+950,983,Los Héroes,2024-04-05,1,Accidente,40848729-7,Biobío,20400,Pagado,2024-04-20
+951,984,La Araucana,2023-02-03,17,Cuidados paliativos,59883103-0,Metropolitana,529839,Pagado,2023-02-20
+952,984,La Araucana,2024-04-18,11,Accidente,43298395-4,Coquimbo,401874,Pendiente,
+953,987,Gabriela Mistral,2025-02-24,19,COVID-19,96184462-6,Aysén,979089,Pagado,2025-03-29
+954,988,Los Héroes,2023-06-13,21,Enfermedad común,46283143-5,Valparaíso,465696,Pagado,2023-08-07
+955,988,Los Héroes,2024-08-10,22,Enfermedad grave hijo <1,25660931-4,Atacama,351934,Rechazado,
+956,989,18 de Septiembre,2023-02-25,11,Cuidados paliativos,18615155-4,Coquimbo,246840,Pagado,2023-03-09
+957,989,18 de Septiembre,2024-10-31,20,Salud Mental,34016361-1,Valparaíso,843140,Pendiente,
+958,991,La Araucana,2023-07-24,8,Cuidados paliativos,49718594-8,Maule,201568,Pagado,2023-08-30
+959,992,18 de Septiembre,2023-08-15,37,Cuidados paliativos,10256258-8,Los Ríos,1977280,Pagado,2023-09-24
+960,993,Los Héroes,2023-05-08,24,Enfermedad grave hijo <1,92408222-6,Maule,1272912,Rechazado,
+961,994,La Araucana,2024-04-17,21,Enfermedad común,53967275-7,Ñuble,1015497,Pendiente,
+962,997,Los Andes,2023-12-01,15,Maternidad,68341465-1,Antofagasta,241140,Pagado,2024-01-08
+963,998,Los Andes,2023-04-21,10,Enfermedad común,31290148-7,Arica y Parinacota,384010,Pagado,2023-05-15
+964,1000,18 de Septiembre,2024-10-07,21,Enfermedad grave hijo <1,82778816-0,Metropolitana,526197,Pagado,2024-11-18
+965,1000,18 de Septiembre,2024-06-23,35,Salud Mental,06853890-9,Aysén,1886010,Pagado,2024-08-12
+966,1000,18 de Septiembre,2025-04-16,17,Accidente,83215285-0,Los Lagos,300441,Pagado,2025-06-02
+967,1000,18 de Septiembre,2023-02-28,1,Enfermedad grave hijo <1,62515381-4,Ñuble,51898,Pagado,2023-03-26
+968,1001,Los Héroes,2025-05-01,6,Enfermedad grave hijo <1,44309634-K,Tarapacá,147828,Pagado,2025-06-13
+969,1001,Los Héroes,2023-05-27,1,Enfermedad grave hijo <1,97050975-4,La Araucanía,53381,Pagado,2023-07-16
+970,1003,Los Héroes,2025-06-10,17,Enfermedad común,05265016-7,Metropolitana,372776,Pendiente,
+971,1003,Los Héroes,2025-03-28,1,Enfermedad común,88261702-K,Maule,27582,Pagado,2025-05-07
+972,1005,Gabriela Mistral,2024-09-05,3,Accidente,76545628-4,Atacama,148920,Pagado,2024-09-13
+973,1005,Gabriela Mistral,2024-07-13,21,Enfermedad grave hijo <1,72256053-1,Metropolitana,772170,Pagado,2024-09-09
+974,1005,Gabriela Mistral,2024-07-21,25,Maternidad,02665023-7,Maule,381100,Pagado,2024-08-24
+975,1006,Gabriela Mistral,2025-06-05,1,Enfermedad común,67872568-6,Coquimbo,23076,Pendiente,
+976,1006,Gabriela Mistral,2023-08-07,17,Enfermedad común,10225803-0,Biobío,742390,Pagado,2023-09-29
+977,1006,Gabriela Mistral,2025-04-11,19,Enfermedad grave hijo <1,90674471-6,O'Higgins,481574,Pagado,2025-05-05
+978,1007,La Araucana,2023-07-08,12,Cuidados paliativos,28234143-K,Los Lagos,230112,Pagado,2023-07-15
+979,1009,Los Héroes,2023-10-29,7,Accidente,71892392-3,Atacama,238532,Pagado,2023-11-22
+980,1010,La Araucana,2024-09-12,30,Accidente,60432609-3,Antofagasta,797190,Pagado,2024-10-03
+981,1011,Los Andes,2023-11-02,1,Salud Mental,06684335-6,Magallanes,41252,Pagado,2023-11-26
+982,1011,Los Andes,2023-09-26,3,Enfermedad común,86041454-5,Los Lagos,97281,Pagado,2023-11-16
+983,1012,18 de Septiembre,2024-06-01,1,Accidente,50200053-4,Magallanes,15794,Pagado,2024-07-22
+984,1012,18 de Septiembre,2023-08-13,1,Maternidad,91624755-4,Atacama,53121,Pagado,2023-09-01
+985,1013,Gabriela Mistral,2025-06-20,1,Enfermedad común,08255598-9,La Araucanía,23050,Pagado,2025-07-10
+986,1013,Gabriela Mistral,2023-10-23,34,Accidente,43961129-1,Tarapacá,1033532,Pagado,2023-12-10
+987,1014,Los Andes,2023-03-15,1,Cuidados paliativos,33711895-4,Magallanes,34280,Pagado,2023-04-11
+988,1014,Los Andes,2023-04-08,1,Salud Mental,38202368-4,La Araucanía,18980,Pagado,2023-06-05
+989,1015,18 de Septiembre,2023-01-23,1,Maternidad,71617688-0,Valparaíso,31160,Pagado,2023-03-13
+990,1017,Gabriela Mistral,2023-03-19,11,Cuidados paliativos,42409036-7,Antofagasta,405075,Pagado,2023-04-10
+991,1018,Gabriela Mistral,2024-05-28,16,Accidente,78686694-3,Valparaíso,245792,Pagado,2024-06-14
+992,1018,Gabriela Mistral,2024-01-17,5,Enfermedad común,29390878-8,Maule,255115,Pendiente,
+993,1018,Gabriela Mistral,2023-02-25,34,Maternidad,34481230-8,O'Higgins,773500,Pagado,2023-04-11
+994,1019,La Araucana,2023-09-17,23,Maternidad,02424033-8,Atacama,684848,Pagado,2023-10-11
+995,1020,Los Héroes,2024-06-02,9,Enfermedad común,59551842-6,Ñuble,182718,Pendiente,
+996,1021,Los Andes,2024-11-20,2,Maternidad,00534240-8,Atacama,100708,Pendiente,
+997,1022,Los Andes,2023-02-22,8,COVID-19,64983735-4,Metropolitana,251640,Pagado,2023-03-14
+998,1022,Los Andes,2025-02-02,9,Cuidados paliativos,62736527-1,Magallanes,493407,Pagado,2025-02-15
+999,1023,18 de Septiembre,2024-10-13,18,Accidente,72239724-0,Ñuble,633870,Pagado,2024-12-08
+1000,1023,18 de Septiembre,2023-03-20,1,Accidente,26931216-3,Aysén,28696,Pagado,2023-04-01
+1001,1024,Gabriela Mistral,2025-01-24,7,COVID-19,61820916-6,Arica y Parinacota,213171,Pagado,2025-03-22
+1002,1025,Los Andes,2025-03-16,1,Enfermedad común,00231429-0,Arica y Parinacota,51519,Pagado,2025-05-07
+1003,1025,Los Andes,2023-02-08,1,Salud Mental,18513279-7,Valparaíso,27661,Pagado,2023-02-16
+1004,1029,Los Héroes,2024-01-03,13,Maternidad,57230848-1,Arica y Parinacota,195832,Pagado,2024-01-15
+1005,1031,Gabriela Mistral,2024-05-15,1,Salud Mental,01841862-0,O'Higgins,25866,Pagado,2024-07-01
+1006,1037,La Araucana,2023-09-10,19,Enfermedad común,36625436-K,Atacama,790020,Pagado,2023-11-02
+1007,1040,La Araucana,2025-01-10,17,Enfermedad grave hijo <1,21314519-5,Atacama,664462,Pagado,2025-02-20
+1008,1040,La Araucana,2024-11-15,1,Maternidad,10922685-9,Valparaíso,51693,Pagado,2024-11-21
+1009,1040,La Araucana,2023-08-21,25,COVID-19,62494514-7,La Araucanía,1291800,Pagado,2023-10-16
+1010,1041,18 de Septiembre,2023-06-24,34,Maternidad,10225267-7,Antofagasta,1280100,Pagado,2023-08-12
+1011,1044,Los Andes,2024-01-26,1,Enfermedad común,96421522-6,La Araucanía,21955,Pagado,2024-02-18
+1012,1046,18 de Septiembre,2023-06-04,13,Maternidad,76769523-6,Los Lagos,394836,Pendiente,
+1013,1047,Los Héroes,2025-03-02,8,Cuidados paliativos,78878836-1,Los Lagos,347800,Pagado,2025-04-30
+1014,1048,18 de Septiembre,2024-12-15,2,Cuidados paliativos,93135030-5,Magallanes,47900,Pagado,2025-01-24
+1015,1050,Los Andes,2024-10-12,1,Accidente,10552472-8,Los Lagos,15395,Pagado,2024-11-13
+1016,1051,Los Héroes,2025-05-22,1,Accidente,33021260-6,La Araucanía,36146,Pagado,2025-06-22
+1017,1051,Los Héroes,2024-09-19,11,Enfermedad común,19179202-5,Coquimbo,258929,Pagado,2024-10-08
+1018,1052,Gabriela Mistral,2024-02-13,1,Enfermedad común,31096227-2,Ñuble,42724,Rechazado,
+1019,1053,Los Andes,2025-01-25,1,Enfermedad grave hijo <1,65704120-K,Tarapacá,31650,Pagado,2025-02-09
+1020,1055,Gabriela Mistral,2024-09-02,15,Cuidados paliativos,28206678-4,Ñuble,486645,Pagado,2024-10-04
+1021,1057,La Araucana,2024-03-29,13,COVID-19,36241862-3,Los Ríos,584896,Pendiente,
+1022,1057,La Araucana,2024-03-03,3,Cuidados paliativos,03628917-7,Biobío,81363,Pagado,2024-03-25
+1023,1057,La Araucana,2023-01-09,19,COVID-19,66205634-1,Atacama,474107,Pagado,2023-03-07
+1024,1058,Los Héroes,2024-07-19,7,Enfermedad común,59503428-1,Antofagasta,361620,Pagado,2024-08-06
+1025,1059,La Araucana,2024-03-19,2,Accidente,90438303-4,Antofagasta,57454,Pagado,2024-05-14
+1026,1060,Gabriela Mistral,2024-02-12,1,Cuidados paliativos,90970051-4,Arica y Parinacota,45593,Pagado,2024-03-31
+1027,1060,Gabriela Mistral,2025-05-28,1,Maternidad,46835652-K,Atacama,29245,Pagado,2025-07-12
+1028,1062,Los Andes,2023-12-10,24,Maternidad,68182096-7,Tarapacá,1123704,Pendiente,
+1029,1062,Los Andes,2023-09-27,58,Maternidad,22711332-2,Biobío,1415664,Pagado,2023-10-15
+1030,1063,Los Héroes,2024-10-04,1,Enfermedad grave hijo <1,25459606-3,Metropolitana,42460,Pagado,2024-11-03
+1031,1064,Los Andes,2025-02-13,2,Cuidados paliativos,91297102-4,Antofagasta,40826,Pendiente,
+1032,1066,Los Héroes,2024-09-11,26,Enfermedad grave hijo <1,17524214-9,La Araucanía,493220,Pagado,2024-10-20
+1033,1066,Los Héroes,2024-06-09,16,Maternidad,11274747-K,Coquimbo,620240,Pendiente,
+1034,1067,Los Héroes,2024-09-29,23,Enfermedad común,97054669-K,Coquimbo,976948,Rechazado,
+1035,1068,Gabriela Mistral,2024-08-06,1,Enfermedad grave hijo <1,58955168-7,Maule,24191,Pagado,2024-09-11
+1036,1068,Gabriela Mistral,2024-05-18,1,COVID-19,09038021-4,Los Ríos,39288,Rechazado,
+1037,1068,Gabriela Mistral,2024-11-27,4,Accidente,96136715-7,Aysén,71908,Pagado,2024-12-19
+1038,1068,Gabriela Mistral,2023-01-23,3,COVID-19,87112166-3,Los Ríos,49977,Pagado,2023-02-14
+1039,1070,Los Andes,2025-04-15,2,Maternidad,15597371-4,Aysén,76492,Pagado,2025-04-25
+1040,1070,Los Andes,2023-12-25,13,Enfermedad común,82723590-9,Los Ríos,446706,Pagado,2024-01-28
+1041,1070,Los Andes,2025-03-31,18,Enfermedad común,56730306-4,Maule,352710,Pagado,2025-05-13
+1042,1072,18 de Septiembre,2024-11-15,16,COVID-19,21214614-7,Los Lagos,638576,Pagado,2024-11-30
+1043,1073,18 de Septiembre,2024-06-21,1,Cuidados paliativos,34201654-2,Metropolitana,16935,Pendiente,
+1044,1073,18 de Septiembre,2023-02-28,1,Maternidad,67782659-6,Arica y Parinacota,25335,Pagado,2023-03-12
+1045,1073,18 de Septiembre,2025-05-11,1,Cuidados paliativos,93199255-0,Coquimbo,30991,Pendiente,
+1046,1076,Los Andes,2024-02-27,33,Enfermedad grave hijo <1,27516480-7,Coquimbo,1621488,Pagado,2024-03-12
+1047,1077,Gabriela Mistral,2024-02-17,1,COVID-19,79103368-2,Los Ríos,45668,Pagado,2024-03-29
+1048,1078,Gabriela Mistral,2024-03-14,14,Accidente,53390550-4,Ñuble,439250,Pagado,2024-04-20
+1049,1078,Gabriela Mistral,2025-05-13,11,Cuidados paliativos,17766558-6,Biobío,261283,Pagado,2025-07-02
+1050,1079,18 de Septiembre,2025-03-29,31,Enfermedad común,27652892-8,Los Lagos,1649107,Pagado,2025-04-19
+1051,1081,Los Andes,2024-04-25,25,Enfermedad grave hijo <1,46491111-K,Arica y Parinacota,1236850,Pagado,2024-06-17
+1052,1081,Los Andes,2025-05-24,21,Cuidados paliativos,61798178-9,Tarapacá,398139,Pagado,2025-07-09
+1053,1082,18 de Septiembre,2023-02-20,14,COVID-19,46337861-3,Magallanes,632814,Pagado,2023-04-10
+1054,1082,18 de Septiembre,2023-05-30,1,Enfermedad común,57660538-4,Maule,45183,Pagado,2023-07-22
+1055,1085,Los Héroes,2023-11-25,1,COVID-19,44630600-0,Coquimbo,32974,Pagado,2024-01-23
+1056,1086,Los Andes,2024-03-04,1,Salud Mental,58955296-3,Los Ríos,22240,Pagado,2024-04-10
+1057,1087,La Araucana,2023-08-24,4,Accidente,96096262-6,Biobío,137932,Pagado,2023-09-03
+1058,1088,18 de Septiembre,2023-03-26,17,Cuidados paliativos,26312819-6,Maule,924409,Pendiente,
+1059,1089,Los Héroes,2023-01-30,11,Salud Mental,82531106-0,Coquimbo,244068,Pagado,2023-03-26
+1060,1090,Los Andes,2024-09-16,1,Enfermedad común,98196027-K,La Araucanía,37995,Pagado,2024-09-23
+1061,1090,Los Andes,2023-09-12,1,Accidente,33438364-K,Tarapacá,37333,Pagado,2023-10-13
+1062,1090,Los Andes,2024-02-27,2,Maternidad,12091179-1,Atacama,98294,Pagado,2024-03-29
+1063,1090,Los Andes,2025-03-12,10,Accidente,44211753-6,Atacama,259290,Pagado,2025-04-20
+1064,1092,18 de Septiembre,2024-12-03,4,Enfermedad grave hijo <1,06171366-5,Aysén,134040,Pagado,2024-12-29
+1065,1092,18 de Septiembre,2025-02-22,1,Salud Mental,22402990-1,Biobío,21437,Pagado,2025-04-03
+1066,1092,18 de Septiembre,2025-02-27,1,Maternidad,79980284-1,Metropolitana,50629,Pagado,2025-03-31
+1067,1093,La Araucana,2023-03-25,3,Cuidados paliativos,08088235-1,Metropolitana,101853,Pagado,2023-04-15
+1068,1094,La Araucana,2025-03-22,1,Enfermedad común,52312447-3,Antofagasta,45580,Pendiente,
+1069,1095,18 de Septiembre,2023-09-19,40,Maternidad,84776863-4,Valparaíso,1989760,Pagado,2023-10-06
+1070,1096,La Araucana,2023-09-15,30,Accidente,46199423-7,Los Lagos,835710,Pagado,2023-11-03
+1071,1096,La Araucana,2024-05-04,19,Enfermedad grave hijo <1,69459196-6,Metropolitana,388588,Pagado,2024-06-09
+1072,1098,Los Andes,2024-02-17,1,Cuidados paliativos,55172084-9,Los Lagos,28230,Pagado,2024-03-19
+1073,1098,Los Andes,2025-06-23,1,Maternidad,98560125-6,Valparaíso,33227,Pagado,2025-07-25
+1074,1098,Los Andes,2024-07-01,1,Maternidad,31355251-0,Biobío,32215,Pendiente,
+1075,1099,Los Héroes,2023-03-31,22,COVID-19,05379538-1,Los Ríos,358292,Pagado,2023-04-26
+1076,1100,La Araucana,2024-12-22,13,Maternidad,93831849-K,Antofagasta,547118,Pagado,2024-12-31
+1077,1101,Gabriela Mistral,2024-02-24,17,Cuidados paliativos,66553307-7,Tarapacá,293556,Pagado,2024-03-15
+1078,1101,Gabriela Mistral,2025-06-08,1,Maternidad,61172959-6,O'Higgins,37357,Pagado,2025-07-23
+1079,1101,Gabriela Mistral,2025-04-23,16,Cuidados paliativos,04090742-6,Tarapacá,298512,Pendiente,
+1080,1101,Gabriela Mistral,2025-02-13,12,Cuidados paliativos,80501716-4,Maule,410340,Pagado,2025-04-10
+1081,1103,Los Andes,2024-01-16,1,Maternidad,56185790-6,Ñuble,54433,Pagado,2024-02-03
+1082,1104,18 de Septiembre,2024-08-05,48,COVID-19,77159103-0,Arica y Parinacota,802128,Pagado,2024-10-02
+1083,1105,18 de Septiembre,2023-08-28,23,Accidente,15632135-8,Arica y Parinacota,653016,Pagado,2023-10-14
+1084,1106,Gabriela Mistral,2023-03-25,1,COVID-19,04010414-5,Los Ríos,24669,Pagado,2023-04-11
+1085,1108,Gabriela Mistral,2023-12-08,1,Maternidad,22971252-9,Los Lagos,29039,Pagado,2024-02-04
+1086,1112,Los Héroes,2025-01-05,1,COVID-19,71883977-4,Biobío,17779,Pagado,2025-02-24
+1087,1112,Los Héroes,2023-08-05,7,Salud Mental,73144158-3,Metropolitana,371343,Pagado,2023-08-25
+1088,1114,18 de Septiembre,2023-08-18,1,COVID-19,11703037-6,Metropolitana,41993,Pagado,2023-09-17
+1089,1117,Los Héroes,2023-03-23,1,Enfermedad grave hijo <1,15398854-7,Coquimbo,18260,Rechazado,
+1090,1117,Los Héroes,2023-01-10,20,Salud Mental,81235679-8,Metropolitana,456040,Pendiente,
+1091,1119,Gabriela Mistral,2023-05-24,16,Salud Mental,63146249-K,Atacama,859168,Pagado,2023-07-18
+1092,1119,Gabriela Mistral,2025-02-19,18,Accidente,71130724-0,Magallanes,507726,Pagado,2025-04-15
+1093,1119,Gabriela Mistral,2024-06-12,3,COVID-19,87541815-6,Metropolitana,52161,Pagado,2024-07-18
+1094,1120,La Araucana,2023-12-05,3,Accidente,68685074-5,Atacama,88905,Pendiente,
+1095,1122,Los Andes,2023-02-11,27,Enfermedad común,66343629-4,Magallanes,970461,Pagado,2023-03-17
+1096,1125,Gabriela Mistral,2024-03-05,41,Cuidados paliativos,61031310-0,Maule,1997356,Rechazado,
+1097,1126,18 de Septiembre,2024-01-15,27,Accidente,18143966-6,Atacama,719280,Pendiente,
+1098,1128,Gabriela Mistral,2024-09-02,36,Accidente,47323549-4,Arica y Parinacota,1400436,Pagado,2024-09-21
+1099,1128,Gabriela Mistral,2023-05-23,3,Enfermedad común,28974325-K,Antofagasta,104265,Pagado,2023-06-27
+1100,1128,Gabriela Mistral,2023-03-05,16,Accidente,25720765-0,Valparaíso,607040,Pendiente,
+1101,1129,Los Héroes,2024-11-16,15,Maternidad,12095790-7,O'Higgins,330915,Pagado,2024-11-29
+1102,1129,Los Héroes,2024-07-26,6,Enfermedad grave hijo <1,10094388-2,Coquimbo,290682,Pagado,2024-09-21
+1103,1131,La Araucana,2023-11-12,5,Salud Mental,11457758-4,Magallanes,192565,Pagado,2023-12-18
+1104,1133,Gabriela Mistral,2024-06-07,13,Maternidad,57054589-7,Atacama,372411,Pagado,2024-06-13
+1105,1133,Gabriela Mistral,2023-11-04,28,Maternidad,80263257-0,O'Higgins,610904,Pendiente,
+1106,1134,Los Héroes,2025-01-18,20,Cuidados paliativos,65313614-K,Aysén,670960,Pagado,2025-02-11
+1107,1134,Los Héroes,2024-09-09,1,Cuidados paliativos,24556964-4,Metropolitana,23131,Pagado,2024-09-22
+1108,1135,18 de Septiembre,2024-03-27,9,Enfermedad común,98591679-5,Ñuble,282978,Pagado,2024-05-08
+1109,1136,La Araucana,2024-02-09,31,Enfermedad común,07272849-8,Valparaíso,949344,Pagado,2024-02-27
+1110,1137,La Araucana,2025-04-19,13,Maternidad,74140703-4,Atacama,672997,Pagado,2025-05-25
+1111,1138,18 de Septiembre,2023-08-10,27,Enfermedad común,74065004-2,La Araucanía,1325538,Pagado,2023-10-03
+1112,1139,Los Héroes,2023-09-18,27,Maternidad,88214236-9,Antofagasta,1004886,Pagado,2023-11-15
+1113,1139,Los Héroes,2025-05-13,53,Maternidad,30753666-1,Maule,863953,Pendiente,
+1114,1142,Gabriela Mistral,2023-07-29,18,Maternidad,94296592-K,Metropolitana,573876,Pagado,2023-09-03
+1115,1143,Los Andes,2023-02-27,1,Maternidad,26834414-9,Aysén,16067,Pagado,2023-03-17
+1116,1144,La Araucana,2024-08-27,22,Cuidados paliativos,26612875-8,La Araucanía,1140348,Pagado,2024-09-16
+1117,1146,Los Héroes,2025-01-06,3,Enfermedad grave hijo <1,56766708-0,Los Lagos,102537,Pagado,2025-02-28
+1118,1146,Los Héroes,2023-11-26,25,Enfermedad común,29439852-9,Ñuble,420250,Rechazado,
+1119,1147,18 de Septiembre,2023-06-29,26,Enfermedad común,62607870-1,Tarapacá,1321944,Pagado,2023-07-26
+1120,1147,18 de Septiembre,2023-12-26,34,Maternidad,15914975-0,Atacama,939896,Pagado,2024-02-23
+1121,1149,La Araucana,2024-05-25,20,COVID-19,98038287-2,O'Higgins,366140,Pagado,2024-06-05
+1122,1151,Los Andes,2024-05-28,1,COVID-19,24407931-1,Arica y Parinacota,42293,Pagado,2024-07-02
+1123,1153,18 de Septiembre,2024-06-30,1,Accidente,91813317-0,Aysén,36971,Pagado,2024-07-12
+1124,1154,Los Andes,2023-04-03,1,Enfermedad grave hijo <1,01467238-4,Aysén,32665,Pendiente,
+1125,1158,Los Andes,2024-01-05,2,Salud Mental,91620223-2,Metropolitana,97826,Pagado,2024-01-20
+1126,1158,Los Andes,2024-06-26,25,Enfermedad grave hijo <1,74419754-6,Los Ríos,487675,Pagado,2024-07-20
+1127,1160,Gabriela Mistral,2024-07-07,27,COVID-19,17662047-1,Los Ríos,1304019,Pagado,2024-07-16
+1128,1160,Gabriela Mistral,2023-10-03,12,Enfermedad común,94097052-7,Aysén,630024,Pendiente,
+1129,1161,Los Andes,2024-11-20,37,Maternidad,02588358-6,Antofagasta,1931141,Pagado,2024-12-11
+1130,1162,Los Andes,2024-02-24,23,Accidente,25957244-6,Antofagasta,994865,Pagado,2024-04-14
+1131,1163,18 de Septiembre,2023-11-30,36,Salud Mental,76792988-4,Coquimbo,1821744,Pendiente,
+1132,1169,La Araucana,2023-09-22,19,COVID-19,59959961-0,Arica y Parinacota,611154,Pagado,2023-11-06
+1133,1169,La Araucana,2025-02-13,19,Salud Mental,23117753-3,Atacama,513874,Pagado,2025-03-28
+1134,1169,La Araucana,2024-10-07,6,Accidente,66109410-1,Aysén,114540,Pagado,2024-11-08
+1135,1170,Gabriela Mistral,2023-07-10,23,Salud Mental,59025176-2,Metropolitana,353878,Rechazado,
+1136,1173,Gabriela Mistral,2024-05-01,14,Accidente,47743326-8,Metropolitana,665294,Pendiente,
+1137,1174,La Araucana,2024-05-26,17,Enfermedad común,90130205-6,Antofagasta,899929,Pagado,2024-06-03
+1138,1175,Los Héroes,2023-05-10,8,Maternidad,28733978-5,La Araucanía,282328,Pagado,2023-06-16
+1139,1175,Los Héroes,2023-07-17,8,Cuidados paliativos,82176619-1,Coquimbo,132800,Pagado,2023-09-04
+1140,1176,Los Andes,2023-11-29,38,Salud Mental,84117309-8,Biobío,1134186,Pagado,2024-01-16
+1141,1177,La Araucana,2025-04-10,1,Enfermedad común,34465124-1,O'Higgins,21820,Pagado,2025-04-29
+1142,1177,La Araucana,2023-06-09,4,Salud Mental,89846908-1,Magallanes,219104,Pagado,2023-07-12
+1143,1178,Los Andes,2025-04-21,1,Maternidad,00564350-2,Metropolitana,31388,Pagado,2025-05-12
+1144,1178,Los Andes,2023-12-17,1,Cuidados paliativos,50371990-5,Antofagasta,21608,Pagado,2024-01-12
+1145,1180,Los Andes,2023-02-22,11,Enfermedad grave hijo <1,99187240-1,Tarapacá,179300,Pendiente,
+1146,1181,La Araucana,2025-02-20,1,Enfermedad grave hijo <1,83567430-0,Arica y Parinacota,52153,Pagado,2025-03-05
+1147,1182,Los Héroes,2024-02-23,1,Salud Mental,38960870-6,Los Ríos,22925,Pagado,2024-04-07
+1148,1183,Gabriela Mistral,2023-01-23,1,COVID-19,26682171-9,La Araucanía,37631,Pagado,2023-02-03
+1149,1184,La Araucana,2025-03-24,12,Maternidad,35603319-0,O'Higgins,425268,Pagado,2025-04-05
+1150,1187,Los Andes,2024-02-12,1,Enfermedad grave hijo <1,89003010-2,Aysén,40093,Pagado,2024-03-18
+1151,1188,18 de Septiembre,2024-08-01,6,Accidente,40559342-9,Los Ríos,98256,Pagado,2024-08-15
+1152,1189,La Araucana,2023-10-27,10,Enfermedad grave hijo <1,11148375-3,Aysén,283240,Pendiente,
+1153,1189,La Araucana,2025-04-04,34,COVID-19,45843845-8,Atacama,909432,Pagado,2025-04-29
+1154,1191,Gabriela Mistral,2023-01-21,12,Enfermedad común,56974132-8,O'Higgins,356604,Pagado,2023-02-03
+1155,1192,Los Andes,2024-01-25,25,Maternidad,83152037-K,Aysén,818450,Pagado,2024-02-04
+1156,1193,Gabriela Mistral,2023-09-15,6,Enfermedad común,07044964-1,Tarapacá,180390,Pendiente,
+1157,1194,La Araucana,2023-05-08,13,Maternidad,96706670-3,Metropolitana,475904,Pagado,2023-06-03
+1158,1194,La Araucana,2023-10-14,1,Enfermedad grave hijo <1,26804085-0,Biobío,33822,Pendiente,
+1159,1194,La Araucana,2023-09-29,1,Salud Mental,49305966-0,Atacama,20906,Pendiente,
+1160,1194,La Araucana,2023-07-26,29,Cuidados paliativos,64876998-4,Valparaíso,685676,Pendiente,
+1161,1196,Los Andes,2025-02-21,1,Enfermedad grave hijo <1,73204413-8,Ñuble,33366,Pagado,2025-04-17
+1162,1196,Los Andes,2023-04-22,9,Maternidad,96094544-K,Arica y Parinacota,222102,Pagado,2023-05-11
+1163,1197,La Araucana,2025-04-23,15,Enfermedad común,49542770-7,Arica y Parinacota,750885,Pagado,2025-05-08
+1164,1198,Gabriela Mistral,2024-02-19,12,Enfermedad grave hijo <1,05783609-1,Maule,295824,Pagado,2024-03-20
+1165,1198,Gabriela Mistral,2023-01-08,1,Cuidados paliativos,85172444-7,Coquimbo,51509,Pendiente,
+1166,1199,Los Héroes,2023-05-12,1,Accidente,22903102-K,Aysén,22588,Pagado,2023-06-13
+1167,1199,Los Héroes,2023-07-17,34,Cuidados paliativos,50830440-K,La Araucanía,1667768,Pagado,2023-09-06
+1168,1199,Los Héroes,2025-02-24,16,Cuidados paliativos,09351187-1,Antofagasta,704176,Pagado,2025-03-05
+1169,1200,La Araucana,2023-12-15,8,Accidente,35956164-2,Arica y Parinacota,406112,Pagado,2024-01-06
+1170,1200,La Araucana,2024-11-04,5,Maternidad,95565749-0,Valparaíso,242355,Pendiente,
+1171,1200,La Araucana,2023-04-23,38,Maternidad,04290193-5,La Araucanía,1539418,Pendiente,
+1172,1200,La Araucana,2023-09-16,1,Accidente,69026113-9,Los Lagos,28500,Pagado,2023-10-16
+1173,1201,La Araucana,2023-02-24,35,Cuidados paliativos,18097887-5,Maule,1685950,Pagado,2023-03-23
+1174,1202,Los Héroes,2023-06-26,1,Accidente,94353537-5,Atacama,19544,Pagado,2023-08-14
+1175,1204,Los Andes,2023-09-24,39,COVID-19,37651588-1,La Araucanía,714987,Pagado,2023-10-03
+1176,1205,18 de Septiembre,2024-12-17,17,COVID-19,79376392-8,O'Higgins,537812,Pagado,2025-02-12
+1177,1208,18 de Septiembre,2023-09-02,12,Salud Mental,69294455-1,Antofagasta,412308,Pendiente,
+1178,1208,18 de Septiembre,2025-06-22,23,Enfermedad grave hijo <1,68297327-0,Valparaíso,1253316,Pagado,2025-07-04
+1179,1210,Gabriela Mistral,2025-04-26,1,Enfermedad común,64871206-0,Valparaíso,30797,Pendiente,
+1180,1211,Gabriela Mistral,2024-03-30,16,Enfermedad común,28866526-8,O'Higgins,802928,Pagado,2024-04-30
+1181,1211,Gabriela Mistral,2023-02-14,1,COVID-19,41559991-0,Antofagasta,29306,Pagado,2023-04-09
+1182,1214,Los Héroes,2023-12-26,8,COVID-19,57676472-2,Antofagasta,155064,Pagado,2024-02-07
+1183,1215,Los Andes,2024-07-17,20,Accidente,09957657-2,Maule,918640,Pagado,2024-09-12
+1184,1216,18 de Septiembre,2023-11-16,34,Salud Mental,13475098-8,Los Lagos,1127916,Pagado,2024-01-08
+1185,1218,La Araucana,2023-11-30,13,Maternidad,56522036-8,Maule,477035,Pagado,2023-12-29
+1186,1219,Gabriela Mistral,2023-07-10,1,Cuidados paliativos,95154214-4,Magallanes,16965,Pagado,2023-08-15
+1187,1220,Los Andes,2025-03-18,17,Enfermedad grave hijo <1,32449134-2,Atacama,566406,Pagado,2025-04-18
+1188,1221,La Araucana,2025-04-08,30,Accidente,88209088-3,Arica y Parinacota,1213320,Pagado,2025-05-16
+1189,1221,La Araucana,2023-02-03,1,Enfermedad grave hijo <1,05349678-2,Aysén,51368,Pendiente,
+1190,1223,Los Héroes,2024-02-17,15,Maternidad,11767412-4,Atacama,598380,Pagado,2024-03-20
+1191,1224,18 de Septiembre,2025-04-06,32,Maternidad,13152854-7,Antofagasta,1127648,Pagado,2025-05-20
+1192,1225,18 de Septiembre,2023-03-16,18,COVID-19,50618538-K,Tarapacá,273798,Pagado,2023-04-16
+1193,1226,Los Héroes,2023-11-05,33,COVID-19,03296334-7,Coquimbo,1498167,Pagado,2023-12-06
+1194,1227,18 de Septiembre,2023-03-20,20,Enfermedad grave hijo <1,27423183-0,Los Lagos,821480,Pendiente,
+1195,1228,Los Andes,2024-08-16,11,Enfermedad común,78932064-9,Los Ríos,406472,Pagado,2024-09-15
+1196,1228,Los Andes,2024-10-09,1,COVID-19,93578243-4,Magallanes,33383,Pagado,2024-11-24
+1197,1229,18 de Septiembre,2024-04-12,34,Enfermedad grave hijo <1,69587413-1,Ñuble,902632,Pagado,2024-05-04
+1198,1231,18 de Septiembre,2025-02-24,4,Enfermedad grave hijo <1,75361275-K,Atacama,210612,Pagado,2025-04-22
+1199,1234,La Araucana,2023-10-14,8,Maternidad,62779630-4,Maule,398104,Pagado,2023-12-02
+1200,1235,La Araucana,2024-02-03,9,Cuidados paliativos,36085456-6,Aysén,415161,Pagado,2024-02-27
+1201,1235,La Araucana,2024-01-16,1,Enfermedad grave hijo <1,64047350-4,Aysén,32527,Pagado,2024-03-01
+1202,1236,Gabriela Mistral,2023-02-06,12,Enfermedad grave hijo <1,39283199-5,Coquimbo,643020,Pagado,2023-02-19
+1203,1237,Los Andes,2024-03-21,7,Cuidados paliativos,80061558-1,Tarapacá,337176,Pagado,2024-04-21
+1204,1238,Los Andes,2024-01-13,11,Cuidados paliativos,35832863-4,Valparaíso,207361,Pagado,2024-02-01
+1205,1239,Los Andes,2024-07-24,29,Maternidad,56383000-8,Atacama,1048611,Pagado,2024-08-01
+1206,1240,Los Andes,2024-12-02,11,Cuidados paliativos,67024403-K,O'Higgins,500753,Pagado,2025-01-16
+1207,1241,Los Andes,2025-04-26,1,Enfermedad común,41662411-1,Los Lagos,29372,Pagado,2025-05-22
+1208,1241,Los Andes,2024-01-24,1,Enfermedad común,08921963-9,Ñuble,36537,Rechazado,
+1209,1241,Los Andes,2023-07-28,29,Salud Mental,56804473-1,Maule,653428,Pagado,2023-08-04
+1210,1242,Gabriela Mistral,2025-04-21,9,COVID-19,97646136-8,Maule,310878,Pagado,2025-06-01
+1211,1243,18 de Septiembre,2023-07-11,1,Enfermedad grave hijo <1,48836076-5,Atacama,19830,Pagado,2023-08-23
+1212,1245,Los Andes,2023-09-07,1,Enfermedad grave hijo <1,39063757-9,Atacama,15016,Pagado,2023-09-24
+1213,1246,18 de Septiembre,2024-03-07,27,COVID-19,45211823-7,O'Higgins,538434,Pagado,2024-04-22
+1214,1248,La Araucana,2024-05-22,4,Enfermedad común,26978930-7,Maule,160160,Pagado,2024-06-23
+1215,1248,La Araucana,2023-01-15,40,Enfermedad grave hijo <1,45205996-0,Maule,1965680,Pendiente,
+1216,1249,Gabriela Mistral,2023-08-10,33,COVID-19,38787535-7,Magallanes,804804,Pendiente,
+1217,1250,Los Héroes,2023-08-21,1,Cuidados paliativos,81161620-2,Atacama,32809,Pagado,2023-09-15
+1218,1250,Los Héroes,2025-06-15,11,Accidente,37106728-7,Coquimbo,395736,Pendiente,
+1219,1250,Los Héroes,2025-06-10,25,COVID-19,86604164-K,Maule,964575,Pagado,2025-08-07
+1220,1250,Los Héroes,2024-11-03,10,Cuidados paliativos,59592248-K,Metropolitana,449450,Pagado,2024-12-16
+1221,1251,Los Héroes,2023-07-13,4,Salud Mental,95894773-5,Coquimbo,171028,Pagado,2023-08-25
+1222,1252,18 de Septiembre,2024-04-15,25,Accidente,87056227-1,Arica y Parinacota,900175,Pagado,2024-05-23
+1223,1252,18 de Septiembre,2025-03-28,32,Maternidad,33187510-9,Aysén,624704,Pendiente,
+1224,1252,18 de Septiembre,2024-06-10,16,Cuidados paliativos,21583503-4,Ñuble,664688,Pagado,2024-07-28
+1225,1255,18 de Septiembre,2024-11-21,48,Salud Mental,69459648-8,Metropolitana,1172688,Pagado,2024-12-20
+1226,1257,Los Héroes,2024-03-09,12,Enfermedad común,92134249-1,Coquimbo,571968,Pagado,2024-04-01
+1227,1257,Los Héroes,2023-07-15,19,Salud Mental,89659994-9,Magallanes,900125,Pagado,2023-07-28
+1228,1258,18 de Septiembre,2024-06-10,10,Accidente,20331922-2,Magallanes,191320,Pendiente,
+1229,1258,18 de Septiembre,2024-09-20,1,Salud Mental,05102876-K,Magallanes,24364,Pagado,2024-10-13
+1230,1264,Los Andes,2023-02-16,8,Maternidad,48138666-7,La Araucanía,199208,Pagado,2023-02-27
+1231,1265,Los Andes,2023-09-09,2,Maternidad,85819324-2,Los Lagos,62624,Pendiente,
+1232,1266,Los Héroes,2023-06-05,16,Cuidados paliativos,77418652-0,La Araucanía,388880,Pendiente,
+1233,1267,18 de Septiembre,2023-02-21,22,Salud Mental,75639836-5,Valparaíso,940236,Pagado,2023-03-26
+1234,1267,18 de Septiembre,2025-03-31,4,COVID-19,03758309-4,Biobío,134324,Pagado,2025-05-23
+1235,1268,Gabriela Mistral,2025-03-20,5,Enfermedad común,54809404-K,Magallanes,257670,Pendiente,
+1236,1268,Gabriela Mistral,2023-04-21,3,Enfermedad grave hijo <1,04409079-K,Aysén,66045,Pagado,2023-05-29
+1237,1269,Los Andes,2025-03-08,22,Enfermedad grave hijo <1,27810509-2,Valparaíso,654522,Pendiente,
+1238,1269,Los Andes,2024-12-02,6,Salud Mental,21610705-1,Maule,158880,Pagado,2024-12-28
+1239,1269,Los Andes,2023-08-04,6,Salud Mental,39055295-8,Arica y Parinacota,108036,Pendiente,
+1240,1269,Los Andes,2024-02-19,16,COVID-19,66013824-1,Valparaíso,642784,Pagado,2024-03-19
+1241,1274,Los Héroes,2024-02-04,1,Enfermedad grave hijo <1,04938620-4,Maule,34919,Pagado,2024-02-19
+1242,1274,Los Héroes,2024-12-10,19,Cuidados paliativos,51579197-1,Atacama,849224,Pagado,2024-12-26
+1243,1275,18 de Septiembre,2025-06-22,6,Enfermedad común,21259020-3,La Araucanía,223518,Pagado,2025-08-12
+1244,1275,18 de Septiembre,2023-04-13,29,Enfermedad grave hijo <1,13432406-4,Valparaíso,570749,Pagado,2023-06-06
+1245,1275,18 de Septiembre,2024-01-14,1,Maternidad,29563343-2,Ñuble,48964,Pagado,2024-01-20
+1246,1276,La Araucana,2023-10-12,1,Maternidad,74175955-K,Aysén,25832,Rechazado,
+1247,1277,Los Andes,2023-08-24,24,Salud Mental,20962893-6,La Araucanía,1227672,Pagado,2023-10-12
+1248,1280,La Araucana,2025-02-20,11,COVID-19,43588418-3,Maule,411928,Pendiente,
+1249,1280,La Araucana,2024-12-31,14,Accidente,74018272-7,Biobío,496286,Pagado,2025-02-28
+1250,1282,La Araucana,2024-09-28,7,Maternidad,96905150-2,Los Lagos,373135,Pagado,2024-10-11
+1251,1283,Gabriela Mistral,2025-03-03,14,Enfermedad grave hijo <1,55125427-8,Valparaíso,502208,Pagado,2025-04-20
+1252,1284,La Araucana,2025-03-15,2,Salud Mental,07979966-7,O'Higgins,78430,Pendiente,
+1253,1287,18 de Septiembre,2025-03-22,15,Maternidad,59576403-8,Atacama,249330,Pagado,2025-04-29
+1254,1287,18 de Septiembre,2025-06-27,9,Enfermedad grave hijo <1,64969028-2,Ñuble,213291,Pagado,2025-07-24
+1255,1287,18 de Septiembre,2024-08-31,25,Cuidados paliativos,83922501-4,Coquimbo,967675,Pagado,2024-10-22
+1256,1288,La Araucana,2024-01-12,14,Salud Mental,57627023-2,Ñuble,332612,Pagado,2024-03-09
+1257,1292,Los Héroes,2025-02-24,13,Maternidad,12336132-K,La Araucanía,576056,Pagado,2025-04-03
+1258,1292,Los Héroes,2024-05-01,29,Enfermedad común,72517863-7,Los Ríos,1087007,Pagado,2024-05-26
+1259,1293,18 de Septiembre,2023-09-17,19,Salud Mental,73162526-5,Ñuble,450832,Pagado,2023-10-18
+1260,1294,La Araucana,2023-09-14,4,Salud Mental,69681579-0,O'Higgins,195836,Pagado,2023-10-10
+1261,1294,La Araucana,2023-01-15,11,Cuidados paliativos,23555809-9,Los Ríos,579436,Pagado,2023-03-13
+1262,1296,La Araucana,2024-10-19,1,Enfermedad común,32730346-1,Biobío,40909,Pendiente,
+1263,1297,Los Andes,2025-01-27,13,Enfermedad grave hijo <1,26244670-4,Los Lagos,478803,Pagado,2025-02-16
+1264,1297,Los Andes,2023-05-25,13,Accidente,26817151-K,Los Ríos,384917,Pagado,2023-06-13
+1265,1298,18 de Septiembre,2024-04-11,11,Salud Mental,02529867-0,Magallanes,237083,Pagado,2024-05-08
+1266,1298,18 de Septiembre,2023-11-14,1,COVID-19,66046419-7,La Araucanía,21668,Pagado,2023-12-08
+1267,1298,18 de Septiembre,2024-08-26,2,Salud Mental,75851268-6,Antofagasta,60272,Pagado,2024-10-17
+1268,1298,18 de Septiembre,2023-11-16,14,Accidente,05943897-6,Tarapacá,300608,Pendiente,
+1269,1300,Los Héroes,2023-07-14,33,Enfermedad grave hijo <1,40177509-K,La Araucanía,1762530,Pagado,2023-08-13
+1270,1301,Gabriela Mistral,2024-02-28,5,Maternidad,65408424-5,Los Lagos,189990,Pagado,2024-04-01
+1271,1301,Gabriela Mistral,2023-09-17,23,Enfermedad común,75409150-8,Los Ríos,634156,Pagado,2023-10-26
+1272,1303,18 de Septiembre,2024-11-22,47,Accidente,21812276-4,La Araucanía,1074514,Pagado,2025-01-05
+1273,1303,18 de Septiembre,2025-01-30,20,Enfermedad grave hijo <1,93897015-5,Tarapacá,337040,Pendiente,
+1274,1304,Gabriela Mistral,2023-03-28,1,Accidente,91681546-6,Arica y Parinacota,15164,Pagado,2023-05-11
+1275,1305,18 de Septiembre,2024-11-09,18,Accidente,41613944-9,O'Higgins,317970,Rechazado,
+1276,1306,La Araucana,2023-02-15,1,COVID-19,05973642-4,Tarapacá,38057,Pagado,2023-03-31
+1277,1306,La Araucana,2025-02-14,1,Cuidados paliativos,62440630-6,Coquimbo,29670,Pagado,2025-04-07
+1278,1306,La Araucana,2024-07-28,40,Maternidad,47951330-5,O'Higgins,1746320,Pendiente,
+1279,1307,Los Héroes,2023-11-15,7,Enfermedad común,94979695-8,Los Ríos,107562,Pendiente,
+1280,1308,Los Andes,2023-06-17,18,Enfermedad grave hijo <1,80555572-7,Magallanes,901530,Pagado,2023-06-27
+1281,1308,Los Andes,2023-11-14,14,Accidente,82646091-K,Magallanes,566566,Pagado,2023-12-21
+1282,1309,Los Héroes,2023-09-17,12,Cuidados paliativos,51385445-7,Aysén,373044,Pagado,2023-10-25
+1283,1310,Gabriela Mistral,2025-05-18,2,Enfermedad común,29929596-6,Arica y Parinacota,89948,Pendiente,
+1284,1310,Gabriela Mistral,2025-06-15,9,Salud Mental,48736826-9,Atacama,170424,Pagado,2025-07-06
+1285,1313,La Araucana,2024-10-08,40,Enfermedad común,63319422-6,Los Lagos,1151440,Pagado,2024-10-27
+1286,1314,Los Andes,2024-10-10,1,Maternidad,36945515-8,Los Ríos,36264,Pagado,2024-10-27
+1287,1316,La Araucana,2024-06-19,15,Accidente,67747226-4,Arica y Parinacota,772140,Pagado,2024-08-01
+1288,1316,La Araucana,2024-03-10,41,Cuidados paliativos,57216966-6,Metropolitana,1255994,Pagado,2024-04-05
+1289,1319,18 de Septiembre,2023-03-16,19,COVID-19,09329981-9,Los Lagos,379335,Pagado,2023-04-14
+1290,1322,18 de Septiembre,2025-04-25,2,Enfermedad común,59329715-0,Los Ríos,74814,Pagado,2025-05-17
+1291,1323,Gabriela Mistral,2024-06-02,1,Cuidados paliativos,83275327-3,Biobío,20475,Pagado,2024-07-21
+1292,1323,Gabriela Mistral,2024-11-01,1,Accidente,41039773-K,Aysén,26465,Pagado,2024-11-27
+1293,1327,18 de Septiembre,2023-12-27,1,Accidente,27819523-7,Antofagasta,45635,Pagado,2024-01-22
+1294,1328,Los Héroes,2024-10-17,1,Enfermedad común,06876164-8,Atacama,35130,Pendiente,
+1295,1329,Gabriela Mistral,2024-10-11,10,COVID-19,98077046-0,La Araucanía,523230,Rechazado,
+1296,1330,Los Andes,2023-03-09,19,Enfermedad grave hijo <1,87611249-1,Valparaíso,327446,Pagado,2023-04-06
+1297,1331,Gabriela Mistral,2023-08-04,22,Maternidad,65237341-5,Antofagasta,394416,Pagado,2023-09-08
+1298,1332,Gabriela Mistral,2024-01-30,1,Enfermedad grave hijo <1,73454757-4,Maule,40744,Pendiente,
+1299,1333,Los Héroes,2024-04-01,1,Cuidados paliativos,02284035-9,La Araucanía,43894,Pagado,2024-04-13
+1300,1333,Los Héroes,2023-09-03,16,COVID-19,44294774-2,Coquimbo,523968,Pagado,2023-09-30
+1301,1336,Los Andes,2023-05-05,17,Accidente,94643039-4,Coquimbo,544221,Rechazado,
+1302,1336,Los Andes,2023-12-26,22,Cuidados paliativos,04588679-2,La Araucanía,1080442,Pagado,2024-01-29
+1303,1338,Los Andes,2024-12-05,12,COVID-19,29858567-K,Valparaíso,479424,Pagado,2025-01-20
+1304,1338,Los Andes,2024-04-26,33,Salud Mental,87276015-3,Ñuble,671979,Pagado,2024-06-20
+1305,1340,Gabriela Mistral,2023-02-17,18,Accidente,32491357-7,Arica y Parinacota,634014,Pagado,2023-04-07
+1306,1340,Gabriela Mistral,2024-05-20,1,Salud Mental,83350615-8,Antofagasta,30489,Pagado,2024-07-03
+1307,1341,Los Andes,2023-05-14,1,Maternidad,88810798-3,O'Higgins,31066,Pagado,2023-06-20
+1308,1341,Los Andes,2023-09-11,41,Maternidad,23372094-8,Maule,2037208,Rechazado,
+1309,1341,Los Andes,2024-07-02,11,Enfermedad común,31284033-3,Magallanes,278366,Pagado,2024-07-29
+1310,1343,18 de Septiembre,2025-05-13,25,Enfermedad grave hijo <1,18051371-7,Antofagasta,1217650,Pagado,2025-05-20
+1311,1344,Gabriela Mistral,2023-03-15,2,Enfermedad grave hijo <1,31893974-9,Arica y Parinacota,72628,Pagado,2023-03-29
+1312,1344,Gabriela Mistral,2024-04-01,1,Cuidados paliativos,61739970-4,Los Lagos,46533,Pagado,2024-04-16
+1313,1344,Gabriela Mistral,2024-03-19,1,Cuidados paliativos,47258784-K,Ñuble,32061,Pagado,2024-04-14
+1314,1345,La Araucana,2023-02-20,7,Maternidad,83548847-1,Valparaíso,258104,Pagado,2023-03-08
+1315,1345,La Araucana,2024-05-29,3,Enfermedad grave hijo <1,05877221-6,Ñuble,155202,Pagado,2024-07-11
+1316,1346,Los Héroes,2024-08-22,1,Enfermedad común,75823133-4,Ñuble,49621,Pagado,2024-09-04
+1317,1346,Los Héroes,2025-04-24,16,Maternidad,87149392-5,Valparaíso,555648,Pagado,2025-06-17
+1318,1348,Gabriela Mistral,2023-06-10,32,Accidente,62292587-K,Los Lagos,1664384,Pagado,2023-08-06
+1319,1349,Los Andes,2025-02-12,1,Salud Mental,43474524-5,La Araucanía,53737,Pendiente,
+1320,1352,Los Andes,2025-05-13,26,Salud Mental,57469660-6,Tarapacá,809848,Pagado,2025-06-04
+1321,1353,Los Andes,2024-03-19,21,Enfermedad grave hijo <1,52740334-4,La Araucanía,1110354,Pagado,2024-03-24
+1322,1353,Los Andes,2024-12-24,3,Enfermedad común,56658833-9,Aysén,129639,Pagado,2025-02-05
+1323,1354,Los Andes,2023-11-26,31,Salud Mental,41132579-7,Tarapacá,648923,Pagado,2024-01-23
+1324,1354,Los Andes,2024-08-09,8,Salud Mental,67349960-1,Tarapacá,209232,Pagado,2024-08-31
+1325,1355,Los Héroes,2023-03-24,3,COVID-19,54857417-2,Antofagasta,75435,Pagado,2023-04-07
+1326,1357,18 de Septiembre,2023-06-05,40,Maternidad,62294938-1,Aysén,1053200,Pagado,2023-07-21
+1327,1357,18 de Septiembre,2024-01-29,32,Accidente,59848840-2,Antofagasta,1705344,Pagado,2024-02-07
+1328,1359,Gabriela Mistral,2023-05-15,6,Salud Mental,55732573-7,La Araucanía,243444,Pendiente,
+1329,1359,Gabriela Mistral,2024-06-03,7,Maternidad,34490216-6,Los Ríos,323687,Pagado,2024-07-10
+1330,1359,Gabriela Mistral,2025-06-21,1,Salud Mental,70808509-6,Tarapacá,16293,Pagado,2025-07-31
+1331,1359,Gabriela Mistral,2024-06-08,1,Cuidados paliativos,58749511-9,Antofagasta,45129,Pagado,2024-07-30
+1332,1360,Gabriela Mistral,2024-05-13,3,Cuidados paliativos,18281979-K,Metropolitana,91731,Pagado,2024-07-11
+1333,1361,Gabriela Mistral,2024-03-12,1,Salud Mental,16477251-2,Biobío,17076,Pagado,2024-05-10
+1334,1361,Gabriela Mistral,2024-11-22,7,Enfermedad grave hijo <1,86069409-6,Arica y Parinacota,331842,Pendiente,
+1335,1361,Gabriela Mistral,2023-07-04,1,Enfermedad común,35624395-8,Aysén,29333,Pendiente,
+1336,1362,18 de Septiembre,2024-11-10,21,COVID-19,39592323-4,Valparaíso,851928,Pagado,2024-11-19
+1337,1362,18 de Septiembre,2024-10-29,13,Enfermedad común,08902851-5,Biobío,388414,Pagado,2024-11-05
+1338,1362,18 de Septiembre,2025-03-29,14,Accidente,33426433-5,Arica y Parinacota,249228,Pendiente,
+1339,1363,Los Héroes,2023-05-02,1,Accidente,71607360-7,Aysén,17749,Pagado,2023-05-12
+1340,1365,Gabriela Mistral,2025-06-22,14,Enfermedad grave hijo <1,33691128-9,Atacama,630154,Pagado,2025-07-13
+1341,1365,Gabriela Mistral,2023-12-11,21,Accidente,31795563-3,Antofagasta,446103,Pagado,2024-01-09
+1342,1366,La Araucana,2023-10-21,1,Salud Mental,85748170-0,Los Ríos,21076,Pagado,2023-11-02
+1343,1366,La Araucana,2023-10-19,26,Salud Mental,66155416-K,Ñuble,512460,Pagado,2023-11-22
+1344,1367,Los Andes,2024-01-01,20,Accidente,16704502-3,Valparaíso,433180,Pagado,2024-02-18
+1345,1367,Los Andes,2024-12-29,9,Cuidados paliativos,02822700-9,Metropolitana,472041,Pagado,2025-02-23
+1346,1368,Los Héroes,2023-11-17,14,Salud Mental,45962622-8,Coquimbo,769230,Pagado,2023-11-23
+1347,1369,Los Héroes,2024-01-28,12,COVID-19,25120734-6,La Araucanía,193560,Pagado,2024-02-15
+1348,1369,Los Héroes,2024-11-03,15,Salud Mental,49500507-0,Coquimbo,256770,Pagado,2024-11-18
+1349,1370,18 de Septiembre,2024-02-23,4,Enfermedad grave hijo <1,08698221-0,La Araucanía,151148,Pagado,2024-03-04
+1350,1370,18 de Septiembre,2023-07-04,1,Accidente,16117768-7,Coquimbo,54069,Pagado,2023-08-12
+1351,1371,Los Héroes,2024-05-23,9,Salud Mental,90477425-K,La Araucanía,318087,Pendiente,
+1352,1372,Gabriela Mistral,2024-10-20,14,Cuidados paliativos,17793238-2,Coquimbo,429674,Pagado,2024-11-17
+1353,1376,La Araucana,2025-05-13,18,Accidente,11649133-4,Valparaíso,966186,Pagado,2025-06-08
+1354,1376,La Araucana,2025-03-24,1,COVID-19,45798894-2,Biobío,41141,Pagado,2025-04-13
+1355,1376,La Araucana,2023-03-20,9,Enfermedad grave hijo <1,52906032-0,Coquimbo,449001,Pagado,2023-04-08
+1356,1377,18 de Septiembre,2025-05-04,8,COVID-19,03265097-7,La Araucanía,138168,Pagado,2025-06-07
+1357,1377,18 de Septiembre,2023-01-19,16,Accidente,96737948-7,Atacama,748720,Pagado,2023-03-18
+1358,1377,18 de Septiembre,2023-12-19,1,COVID-19,48552457-8,Aysén,51230,Pagado,2023-12-24
+1359,1379,Los Andes,2024-09-24,24,COVID-19,15841560-8,Coquimbo,1194048,Pagado,2024-11-17
+1360,1379,Los Andes,2024-05-18,3,Enfermedad común,37118425-4,Aysén,149160,Pagado,2024-06-19
+1361,1382,Los Andes,2023-02-26,16,Enfermedad grave hijo <1,81826832-K,O'Higgins,780688,Pendiente,
+1362,1382,Los Andes,2023-10-15,1,Salud Mental,03589298-8,Tarapacá,53025,Pagado,2023-10-27
+1363,1383,La Araucana,2024-02-08,2,Salud Mental,85838252-1,Valparaíso,33470,Pagado,2024-03-17
+1364,1384,18 de Septiembre,2024-05-07,12,COVID-19,93289634-0,Los Ríos,331272,Pendiente,
+1365,1386,Gabriela Mistral,2024-01-04,24,Maternidad,68677524-0,Antofagasta,680400,Pagado,2024-01-23
+1366,1387,Los Andes,2024-07-14,32,Maternidad,84399106-2,Coquimbo,910080,Pendiente,
+1367,1388,Los Andes,2024-07-16,12,Enfermedad grave hijo <1,23626693-3,La Araucanía,369408,Pendiente,
+1368,1388,Los Andes,2023-07-08,16,Enfermedad común,34261923-7,Coquimbo,567856,Pagado,2023-07-29
+1369,1391,La Araucana,2023-04-29,1,COVID-19,45018481-K,Magallanes,26844,Pagado,2023-06-11
+1370,1392,Los Andes,2023-03-04,1,Accidente,74189721-5,Maule,44515,Pagado,2023-04-28
+1371,1392,Los Andes,2023-10-26,16,Enfermedad común,64176927-4,O'Higgins,381584,Pagado,2023-11-28
+1372,1392,Los Andes,2023-04-19,21,Cuidados paliativos,11995376-6,Tarapacá,691404,Pagado,2023-05-22
+1373,1394,18 de Septiembre,2024-04-25,27,COVID-19,14448564-5,Antofagasta,1062261,Rechazado,
+1374,1396,18 de Septiembre,2025-01-21,10,Enfermedad común,17397396-K,Maule,220540,Pagado,2025-03-06
+1375,1396,18 de Septiembre,2023-08-30,1,Enfermedad común,78996986-0,Atacama,22115,Pagado,2023-09-26
+1376,1398,La Araucana,2023-08-08,1,Cuidados paliativos,19113599-6,Los Ríos,31128,Pendiente,
+1377,1400,18 de Septiembre,2023-02-05,1,COVID-19,05779806-K,Los Lagos,15019,Pagado,2023-03-14
+1378,1401,18 de Septiembre,2023-05-11,23,COVID-19,03920514-6,Arica y Parinacota,570860,Pagado,2023-05-20
+1379,1402,Gabriela Mistral,2023-10-09,3,COVID-19,74555347-0,Biobío,153513,Pagado,2023-11-07
+1380,1402,Gabriela Mistral,2025-05-11,4,Enfermedad grave hijo <1,42388565-2,Magallanes,181576,Pagado,2025-06-15
+1381,1402,Gabriela Mistral,2025-02-24,17,Salud Mental,15598354-1,Antofagasta,782272,Pagado,2025-04-23
+1382,1405,Los Andes,2023-10-19,39,COVID-19,65972634-7,La Araucanía,1935414,Pagado,2023-12-17
+1383,1405,Los Andes,2024-07-31,18,Maternidad,75225013-9,Ñuble,872838,Pagado,2024-09-07
+1384,1408,La Araucana,2024-03-19,18,Cuidados paliativos,84882691-3,Antofagasta,619830,Pagado,2024-05-01
+1385,1408,La Araucana,2023-07-23,17,Enfermedad común,96425856-2,Los Ríos,278341,Pagado,2023-09-03
+1386,1410,Los Andes,2024-10-31,1,Enfermedad común,49915370-3,Coquimbo,26172,Pagado,2024-12-27
+1387,1412,18 de Septiembre,2023-03-26,38,COVID-19,40733337-K,Metropolitana,1345390,Pagado,2023-04-13
+1388,1412,18 de Septiembre,2025-04-30,1,Accidente,04309776-8,Metropolitana,23954,Pagado,2025-06-04
+1389,1413,Los Héroes,2024-06-25,2,Enfermedad grave hijo <1,28969645-4,Los Lagos,68232,Pagado,2024-07-15
+1390,1413,Los Héroes,2024-10-31,2,Maternidad,53585125-3,Coquimbo,52168,Pagado,2024-12-19
+1391,1413,Los Héroes,2023-09-02,27,Enfermedad común,87851935-K,O'Higgins,493641,Pagado,2023-10-31
+1392,1414,Gabriela Mistral,2025-02-12,11,Enfermedad grave hijo <1,49079779-6,Antofagasta,359436,Pagado,2025-03-13
+1393,1414,Gabriela Mistral,2024-10-14,24,Accidente,08780572-1,La Araucanía,994536,Pagado,2024-11-08
+1394,1416,18 de Septiembre,2024-01-30,15,Enfermedad común,49409762-6,Metropolitana,270720,Pagado,2024-03-01
+1395,1416,18 de Septiembre,2025-05-11,1,COVID-19,74845398-6,Coquimbo,39500,Pagado,2025-05-18
+1396,1417,Los Andes,2024-11-28,30,Salud Mental,89509059-1,Antofagasta,808710,Pagado,2024-12-17
+1397,1419,Los Héroes,2024-06-03,1,Cuidados paliativos,18623392-2,Arica y Parinacota,53700,Pagado,2024-06-26
+1398,1423,Gabriela Mistral,2023-07-01,25,COVID-19,71511696-6,Los Ríos,944250,Pagado,2023-07-13
+1399,1424,18 de Septiembre,2023-09-26,19,COVID-19,72521452-6,Maule,832770,Pagado,2023-10-26
+1400,1425,18 de Septiembre,2024-06-02,15,Enfermedad grave hijo <1,12463351-5,Aysén,654675,Pagado,2024-07-31
+1401,1426,La Araucana,2023-01-03,1,Salud Mental,18409080-K,La Araucanía,17056,Pagado,2023-01-24
+1402,1426,La Araucana,2024-08-31,1,Enfermedad común,20800564-0,La Araucanía,46885,Pagado,2024-10-01
+1403,1431,La Araucana,2023-01-21,15,Salud Mental,12397283-5,Atacama,316845,Pagado,2023-02-03
+1404,1431,La Araucana,2024-10-21,1,Salud Mental,29592728-2,Aysén,54095,Pagado,2024-12-06
+1405,1434,Gabriela Mistral,2025-03-15,8,Enfermedad común,90814415-K,Valparaíso,241680,Pagado,2025-04-08
+1406,1435,Los Héroes,2023-08-11,35,Cuidados paliativos,82173929-5,Aysén,926765,Pagado,2023-09-25
+1407,1435,Los Héroes,2023-11-25,35,COVID-19,86718153-5,Coquimbo,1237565,Pagado,2023-12-13
+1408,1437,Gabriela Mistral,2024-04-10,1,Accidente,73605079-1,Antofagasta,36951,Pendiente,
+1409,1438,Los Andes,2024-09-22,4,COVID-19,58998868-K,Metropolitana,75736,Pendiente,
+1410,1439,La Araucana,2024-06-29,1,Maternidad,52734666-6,Antofagasta,50186,Pagado,2024-08-11
+1411,1439,La Araucana,2024-01-27,29,Enfermedad grave hijo <1,07158796-4,Magallanes,1062937,Pagado,2024-03-14
+1412,1439,La Araucana,2023-01-29,1,Salud Mental,40803149-9,Valparaíso,37135,Pagado,2023-03-27
+1413,1440,Gabriela Mistral,2024-03-16,7,COVID-19,50800463-5,Tarapacá,289163,Pagado,2024-03-28
+1414,1441,Gabriela Mistral,2025-04-08,3,Salud Mental,68828503-1,Aysén,88494,Pagado,2025-04-19
+1415,1442,18 de Septiembre,2024-04-09,13,Accidente,35137399-0,Tarapacá,329537,Pagado,2024-05-27
+1416,1443,La Araucana,2023-09-06,19,Enfermedad grave hijo <1,31403526-3,La Araucanía,800736,Pagado,2023-09-19
+1417,1443,La Araucana,2024-02-03,13,Salud Mental,60229394-6,Ñuble,628381,Pagado,2024-02-26
+1418,1444,18 de Septiembre,2023-05-16,6,Accidente,46066643-7,Maule,212304,Pagado,2023-06-07
+1419,1445,La Araucana,2024-12-31,1,Cuidados paliativos,06072311-1,Valparaíso,39133,Pagado,2025-01-11
+1420,1445,La Araucana,2023-07-21,2,Salud Mental,71285246-4,Ñuble,30828,Pagado,2023-09-17
+1421,1448,Gabriela Mistral,2023-01-25,1,Maternidad,94116318-7,Metropolitana,34947,Pendiente,
+1422,1448,Gabriela Mistral,2024-03-16,15,Accidente,80771130-6,Valparaíso,604230,Pagado,2024-04-06
+1423,1449,Los Andes,2024-12-15,27,Enfermedad común,13695727-9,Tarapacá,431514,Pagado,2025-01-07
+1424,1450,18 de Septiembre,2025-05-05,1,COVID-19,83350902-5,Maule,30365,Pagado,2025-06-11
+1425,1450,18 de Septiembre,2024-07-23,20,Accidente,57306624-8,Antofagasta,1064740,Pagado,2024-09-11
+1426,1450,18 de Septiembre,2025-06-15,1,Accidente,23570713-9,Ñuble,28646,Pagado,2025-08-05
+1427,1450,18 de Septiembre,2023-12-19,24,Cuidados paliativos,22850116-8,Arica y Parinacota,1301256,Pagado,2024-01-21
+1428,1454,18 de Septiembre,2025-03-31,16,Cuidados paliativos,25502130-6,Arica y Parinacota,653168,Pagado,2025-04-28
+1429,1455,Los Andes,2023-05-15,1,Cuidados paliativos,06913098-1,Arica y Parinacota,41694,Pagado,2023-05-22
+1430,1457,18 de Septiembre,2024-05-12,1,COVID-19,79649673-K,Magallanes,42381,Pagado,2024-06-15
+1431,1458,Gabriela Mistral,2024-12-30,14,Cuidados paliativos,45772785-3,Coquimbo,621306,Pagado,2025-01-04
+1432,1459,Los Andes,2023-09-27,1,Maternidad,26425064-2,Tarapacá,30162,Pagado,2023-11-04
+1433,1462,Los Héroes,2025-06-04,8,Enfermedad grave hijo <1,68362536-6,Los Lagos,184528,Pagado,2025-07-11
+1434,1462,Los Héroes,2024-06-12,29,Enfermedad grave hijo <1,77675556-2,Metropolitana,1048756,Pagado,2024-08-09
+1435,1463,18 de Septiembre,2023-04-12,8,Accidente,33939578-6,La Araucanía,194656,Pagado,2023-06-05
+1436,1465,Gabriela Mistral,2023-07-14,1,COVID-19,43627187-4,Los Lagos,17339,Pagado,2023-09-02
+1437,1466,18 de Septiembre,2025-06-04,1,Enfermedad común,33582686-2,Aysén,50539,Pendiente,
+1438,1466,18 de Septiembre,2024-02-03,17,Enfermedad común,36924926-9,Metropolitana,588659,Pagado,2024-02-29
+1439,1468,La Araucana,2023-05-31,1,Accidente,65732759-9,Tarapacá,39642,Pagado,2023-06-18
+1440,1469,Los Andes,2024-07-25,38,COVID-19,11100051-5,La Araucanía,2048542,Pendiente,
+1441,1470,18 de Septiembre,2025-06-29,13,Accidente,23415959-7,Magallanes,313144,Pagado,2025-08-03
+1442,1472,La Araucana,2024-06-02,31,Maternidad,24418222-6,Atacama,690029,Pagado,2024-07-19
+1443,1475,La Araucana,2024-05-17,32,Cuidados paliativos,96288743-1,Coquimbo,857472,Pagado,2024-07-15
+1444,1475,La Araucana,2024-02-15,1,Enfermedad grave hijo <1,10267672-0,La Araucanía,32504,Pagado,2024-03-18
+1445,1476,Los Héroes,2023-03-17,1,Enfermedad grave hijo <1,99270795-5,Antofagasta,18587,Pagado,2023-05-06
+1446,1476,Los Héroes,2024-12-29,23,Maternidad,12294621-K,Metropolitana,920874,Pagado,2025-01-04
+1447,1480,Los Héroes,2024-08-15,13,COVID-19,54159709-9,Los Lagos,704886,Pagado,2024-10-06
+1448,1481,La Araucana,2024-11-20,41,Accidente,54384807-5,Valparaíso,1394328,Pendiente,
+1449,1482,Gabriela Mistral,2025-03-15,15,Enfermedad común,34476504-K,Aysén,811695,Pendiente,
+1450,1483,18 de Septiembre,2024-09-24,5,COVID-19,15802909-0,Ñuble,118965,Pagado,2024-10-20
+1451,1483,18 de Septiembre,2023-06-29,17,Enfermedad grave hijo <1,37660465-5,Los Lagos,788273,Pagado,2023-07-12
+1452,1484,Los Andes,2024-10-20,10,Enfermedad grave hijo <1,52548374-4,Antofagasta,340500,Pagado,2024-11-08
+1453,1484,Los Andes,2023-08-09,5,Enfermedad grave hijo <1,15810213-1,Valparaíso,187900,Pendiente,
+1454,1485,Los Andes,2024-10-20,16,Maternidad,12931100-5,Antofagasta,433952,Pagado,2024-11-10
+1455,1486,Los Andes,2023-06-27,7,Accidente,97519102-3,Antofagasta,241598,Pagado,2023-08-14
+1456,1486,Los Andes,2024-03-01,4,Accidente,11063301-6,Biobío,131152,Pendiente,
+1457,1487,La Araucana,2025-01-17,14,COVID-19,83737927-4,Tarapacá,424760,Pendiente,
+1458,1487,La Araucana,2024-09-26,1,Enfermedad grave hijo <1,28012342-8,Metropolitana,17787,Pagado,2024-11-01
+1459,1487,La Araucana,2024-06-16,1,COVID-19,11325326-K,Ñuble,35614,Pagado,2024-08-08
+1460,1488,Los Héroes,2023-12-27,1,Cuidados paliativos,68436453-8,Arica y Parinacota,28919,Pagado,2024-01-20
+1461,1491,18 de Septiembre,2024-05-01,10,COVID-19,44210175-0,Los Lagos,390850,Pendiente,
+1462,1493,Los Andes,2025-02-27,1,Enfermedad común,70159591-9,Maule,34192,Pagado,2025-04-21
+1463,1493,Los Andes,2025-03-08,8,COVID-19,57575747-5,Metropolitana,180392,Pagado,2025-04-19
+1464,1495,Los Héroes,2023-06-29,1,Accidente,92056775-6,Aysén,52538,Pendiente,
+1465,1496,Los Héroes,2023-04-09,9,Salud Mental,77226602-5,Los Ríos,449568,Rechazado,
+1466,1498,Gabriela Mistral,2023-09-07,14,Salud Mental,26506229-2,Metropolitana,416934,Pagado,2023-10-29
+1467,1499,Los Héroes,2024-08-01,1,Enfermedad común,06724530-7,Los Ríos,47020,Pagado,2024-09-20
+1468,1499,Los Héroes,2023-10-02,18,Accidente,48433797-6,Los Lagos,357084,Pagado,2023-10-26
+1469,1499,Los Héroes,2023-07-11,29,Salud Mental,27051157-9,Ñuble,1018277,Rechazado,
+1470,1499,Los Héroes,2024-09-13,14,Accidente,38736704-K,Valparaíso,435134,Pagado,2024-10-31
+1471,1501,Los Héroes,2024-07-20,1,Maternidad,49691928-4,Biobío,38461,Pagado,2024-08-02
+1472,1503,Los Héroes,2025-03-30,1,COVID-19,52597107-5,Los Lagos,49961,Pagado,2025-05-06
+1473,1504,18 de Septiembre,2023-09-22,38,Accidente,35357485-9,Biobío,1864356,Pendiente,
+1474,1506,Los Héroes,2024-07-26,1,COVID-19,32593993-3,Magallanes,21654,Pagado,2024-08-02
+1475,1507,Los Andes,2023-12-30,1,Cuidados paliativos,70581629-5,Antofagasta,54727,Pagado,2024-01-16
+1476,1509,Los Andes,2024-10-19,22,Cuidados paliativos,77941763-4,Coquimbo,426052,Pagado,2024-12-05
+1477,1510,La Araucana,2024-02-09,25,Maternidad,07330559-7,Coquimbo,601175,Pendiente,
+1478,1513,La Araucana,2023-07-14,5,Salud Mental,45759833-9,Atacama,78025,Pagado,2023-07-25
+1479,1516,Los Héroes,2023-06-25,2,Maternidad,03884366-0,Ñuble,74130,Rechazado,
+1480,1517,18 de Septiembre,2025-01-01,26,Maternidad,32400615-7,Coquimbo,1397058,Pagado,2025-01-18
+1481,1518,18 de Septiembre,2023-01-02,3,Enfermedad grave hijo <1,68297514-7,Maule,77457,Pagado,2023-01-26
+1482,1518,18 de Septiembre,2024-03-12,1,Accidente,97429250-1,Tarapacá,46792,Pagado,2024-04-27
+1483,1519,Los Héroes,2025-03-29,12,Salud Mental,58752568-0,Los Lagos,335160,Pagado,2025-04-03
+1484,1520,Gabriela Mistral,2023-07-20,1,COVID-19,56259045-9,Tarapacá,38693,Pagado,2023-09-02
+1485,1521,Los Héroes,2023-12-21,11,Cuidados paliativos,02711221-8,Valparaíso,377080,Pagado,2024-02-15
+1486,1521,Los Héroes,2024-10-19,1,COVID-19,31555165-1,Magallanes,36655,Pagado,2024-11-15
+1487,1522,Gabriela Mistral,2023-03-13,1,Enfermedad grave hijo <1,80866281-3,Aysén,41526,Pagado,2023-03-21
+1488,1523,18 de Septiembre,2024-01-19,36,Accidente,14330800-K,O'Higgins,1815696,Pagado,2024-02-05
+1489,1525,18 de Septiembre,2023-03-20,22,Enfermedad grave hijo <1,00332285-5,Los Ríos,349536,Pagado,2023-05-11
+1490,1526,18 de Septiembre,2025-04-15,55,Salud Mental,60847068-1,Tarapacá,2073445,Pagado,2025-05-20
+1491,1529,La Araucana,2025-06-20,45,Accidente,90339705-1,La Araucanía,1043910,Pagado,2025-08-12
+1492,1532,Los Héroes,2024-08-26,24,Cuidados paliativos,26328094-4,La Araucanía,682968,Pagado,2024-09-10
+1493,1533,Los Andes,2025-04-01,2,Cuidados paliativos,62394535-4,Los Ríos,83334,Pagado,2025-04-27
+1494,1533,Los Andes,2024-08-07,32,Enfermedad común,47079863-2,Atacama,536832,Pendiente,
+1495,1533,Los Andes,2023-08-25,27,Enfermedad común,61339439-4,La Araucanía,504063,Pagado,2023-09-26
+1496,1534,18 de Septiembre,2024-03-23,10,Enfermedad grave hijo <1,03943804-0,Metropolitana,218270,Pendiente,
+1497,1534,18 de Septiembre,2023-03-06,1,Salud Mental,25376576-9,Valparaíso,31676,Pagado,2023-04-28
+1498,1534,18 de Septiembre,2025-01-25,11,Enfermedad grave hijo <1,78943191-0,Arica y Parinacota,504735,Pagado,2025-02-05
+1499,1535,Gabriela Mistral,2024-10-31,20,Cuidados paliativos,00404769-2,Atacama,1064540,Pagado,2024-11-29
+1500,1535,Gabriela Mistral,2025-06-23,14,Enfermedad común,53365146-K,Arica y Parinacota,525952,Pagado,2025-07-07
+1501,1537,Gabriela Mistral,2024-06-01,3,Maternidad,01424731-K,Arica y Parinacota,134553,Pagado,2024-06-15
+1502,1538,Gabriela Mistral,2025-02-25,25,Enfermedad grave hijo <1,20113798-4,Maule,661175,Pagado,2025-03-13
+1503,1538,Gabriela Mistral,2024-10-24,14,Enfermedad común,97123166-0,Tarapacá,622734,Pendiente,
+1504,1540,Los Héroes,2024-02-17,26,Enfermedad grave hijo <1,67620901-4,Ñuble,863850,Pagado,2024-04-10
+1505,1540,Los Héroes,2024-04-01,5,COVID-19,73404337-0,Tarapacá,258665,Pagado,2024-05-15
+1506,1542,Los Héroes,2025-02-22,10,Salud Mental,96873045-1,La Araucanía,224130,Pagado,2025-04-19
+1507,1544,18 de Septiembre,2024-06-10,5,Enfermedad grave hijo <1,78255882-5,La Araucanía,164430,Pagado,2024-06-22
+1508,1544,18 de Septiembre,2023-04-20,1,Enfermedad grave hijo <1,29657542-K,Magallanes,50122,Pagado,2023-04-28
+1509,1544,18 de Septiembre,2023-01-31,22,COVID-19,86561942-5,La Araucanía,820600,Pagado,2023-03-22
+1510,1545,18 de Septiembre,2024-12-28,1,COVID-19,77820582-9,Biobío,35270,Pagado,2025-01-27
+1511,1546,Los Andes,2025-06-12,16,Cuidados paliativos,29236161-8,Tarapacá,545024,Pagado,2025-06-21
+1512,1546,Los Andes,2024-10-21,18,Cuidados paliativos,19048235-7,Atacama,879642,Pendiente,
+1513,1546,Los Andes,2023-05-16,6,Maternidad,58686395-6,Atacama,95886,Pagado,2023-07-10
+1514,1548,Los Héroes,2025-04-05,24,Accidente,72308172-1,Ñuble,617472,Pagado,2025-05-28
+1515,1549,Gabriela Mistral,2023-02-11,10,Accidente,64381300-0,Ñuble,491030,Pagado,2023-04-05
+1516,1550,Gabriela Mistral,2024-05-30,1,Enfermedad común,32114716-5,Los Ríos,52597,Pendiente,
+1517,1550,Gabriela Mistral,2023-06-20,27,Enfermedad común,94565346-9,Magallanes,1374948,Pagado,2023-07-20
+1518,1553,Los Héroes,2024-07-07,22,COVID-19,99070755-0,Maule,1158784,Pagado,2024-08-06
+1519,1553,Los Héroes,2023-08-16,21,COVID-19,76816995-K,Magallanes,599802,Pagado,2023-10-09
+1520,1554,18 de Septiembre,2024-10-20,1,Enfermedad común,60717481-1,O'Higgins,35967,Pagado,2024-10-25
+1521,1554,18 de Septiembre,2024-04-21,19,COVID-19,17653970-5,Ñuble,573724,Pendiente,
+1522,1557,18 de Septiembre,2025-02-15,16,Cuidados paliativos,73961029-K,Arica y Parinacota,851952,Pagado,2025-03-10
+1523,1561,Los Héroes,2025-05-08,15,Cuidados paliativos,71827496-8,Tarapacá,281130,Pagado,2025-06-01
+1524,1563,Gabriela Mistral,2025-05-18,23,Maternidad,91872742-0,Ñuble,905487,Pagado,2025-05-26
+1525,1563,Gabriela Mistral,2024-10-01,1,Cuidados paliativos,56121377-3,Arica y Parinacota,30077,Pagado,2024-11-22
+1526,1564,18 de Septiembre,2025-06-13,15,Enfermedad grave hijo <1,26042359-7,O'Higgins,783360,Pagado,2025-06-25
+1527,1564,18 de Septiembre,2023-07-05,23,COVID-19,71122299-0,Aysén,408319,Pendiente,
+1528,1565,Los Andes,2023-10-17,12,Enfermedad grave hijo <1,56085816-7,Tarapacá,377364,Pagado,2023-11-28
+1529,1566,Los Andes,2023-05-21,1,Maternidad,68611145-7,Los Ríos,53362,Pagado,2023-05-27
+1530,1570,18 de Septiembre,2024-06-14,16,Cuidados paliativos,32102192-K,Metropolitana,470160,Pagado,2024-07-29
+1531,1572,Los Andes,2025-06-05,44,Enfermedad grave hijo <1,85847129-6,Atacama,1565388,Pagado,2025-07-18
+1532,1572,Los Andes,2023-02-07,1,Cuidados paliativos,03324260-5,Tarapacá,24515,Pagado,2023-03-04
+1533,1573,Los Andes,2023-11-05,8,Cuidados paliativos,01849804-2,Biobío,302224,Rechazado,
+1534,1573,Los Andes,2024-11-11,22,Accidente,73377731-2,Los Ríos,1197064,Pendiente,
+1535,1575,Gabriela Mistral,2025-06-16,19,Cuidados paliativos,81228217-8,Antofagasta,666995,Pagado,2025-07-15
+1536,1575,Gabriela Mistral,2024-08-11,1,Cuidados paliativos,23653460-6,Tarapacá,33055,Pagado,2024-09-06
+1537,1575,Gabriela Mistral,2023-04-20,8,Salud Mental,56035679-3,Coquimbo,282984,Pendiente,
+1538,1575,Gabriela Mistral,2023-03-14,14,Enfermedad grave hijo <1,98623984-7,Antofagasta,363454,Pagado,2023-04-14
+1539,1576,18 de Septiembre,2024-10-09,6,Enfermedad grave hijo <1,90618120-5,Maule,139314,Pagado,2024-11-25
+1540,1578,Los Héroes,2024-09-22,23,Enfermedad grave hijo <1,47548954-7,Magallanes,619022,Pagado,2024-10-16
+1541,1580,Gabriela Mistral,2025-06-12,29,Enfermedad grave hijo <1,98999275-1,Magallanes,749998,Pagado,2025-07-04
+1542,1581,Los Héroes,2024-08-26,1,Maternidad,88914444-9,O'Higgins,53911,Pagado,2024-09-12
+1543,1581,Los Héroes,2024-02-19,1,Maternidad,53935435-8,Los Lagos,43668,Pagado,2024-03-22
+1544,1582,Gabriela Mistral,2023-03-08,1,Maternidad,49639243-K,La Araucanía,16607,Pagado,2023-03-31
+1545,1583,Los Héroes,2023-06-25,6,COVID-19,88537982-1,Ñuble,114948,Pagado,2023-08-22
+1546,1584,La Araucana,2023-03-04,5,COVID-19,33952753-6,Magallanes,242695,Pagado,2023-03-20
+1547,1584,La Araucana,2024-10-07,6,COVID-19,49785249-1,Maule,96906,Pagado,2024-12-05
+1548,1585,18 de Septiembre,2023-06-09,1,Enfermedad común,68601347-7,Maule,34053,Pendiente,
+1549,1586,Los Héroes,2024-07-09,16,Cuidados paliativos,96340679-1,Magallanes,293952,Pagado,2024-08-05
+1550,1586,Los Héroes,2025-01-03,4,Enfermedad grave hijo <1,65122150-0,Antofagasta,163264,Pagado,2025-02-10
+1551,1587,Los Andes,2023-03-21,2,Maternidad,18842163-0,Tarapacá,100674,Pagado,2023-05-03
+1552,1587,Los Andes,2023-04-10,4,Enfermedad común,15944633-3,Maule,124996,Pendiente,
+1553,1587,Los Andes,2024-07-29,1,Cuidados paliativos,53208953-2,Los Ríos,44784,Pagado,2024-09-13
+1554,1588,Los Andes,2023-03-22,11,Accidente,89021994-7,Atacama,394691,Pagado,2023-04-16
+1555,1589,Los Héroes,2023-05-01,13,Enfermedad común,36337922-3,Maule,503503,Pagado,2023-05-28
+1556,1590,Los Héroes,2025-01-10,18,Enfermedad común,03469967-3,O'Higgins,843030,Pendiente,
+1557,1590,Los Héroes,2023-03-20,14,Enfermedad común,16772696-0,Maule,582092,Pagado,2023-04-03
+1558,1593,Los Andes,2025-04-22,1,Accidente,76855078-9,Los Ríos,20830,Rechazado,
+1559,1596,Gabriela Mistral,2024-05-17,10,Salud Mental,79352196-2,Los Ríos,259390,Pagado,2024-06-30
+1560,1596,Gabriela Mistral,2025-04-14,21,Accidente,35564343-6,Magallanes,1113357,Rechazado,
+1561,1597,La Araucana,2024-05-09,31,Enfermedad común,93170695-5,Los Ríos,1451451,Pagado,2024-05-14
+1562,1598,18 de Septiembre,2025-01-21,3,Enfermedad común,76761645-3,Maule,124710,Pagado,2025-03-04
+1563,1600,Los Andes,2024-11-11,14,Maternidad,47223989-8,Metropolitana,646828,Pagado,2024-11-25
+1564,1600,Los Andes,2024-07-16,1,Salud Mental,06503121-9,Tarapacá,48061,Pagado,2024-07-28
+1565,1601,Gabriela Mistral,2024-12-03,17,Maternidad,18472426-4,Valparaíso,781932,Pagado,2024-12-09
+1566,1603,La Araucana,2025-01-24,14,Accidente,64281319-0,Valparaíso,536956,Rechazado,
+1567,1604,18 de Septiembre,2024-07-17,9,Maternidad,87623039-1,Antofagasta,463059,Pagado,2024-07-28
+1568,1604,18 de Septiembre,2024-10-08,2,Salud Mental,14281785-2,Coquimbo,89278,Pagado,2024-11-05
+1569,1604,18 de Septiembre,2025-03-02,32,Cuidados paliativos,23052480-8,Tarapacá,1512832,Pendiente,
+1570,1604,18 de Septiembre,2023-07-15,1,Enfermedad grave hijo <1,22072239-5,Maule,51563,Pagado,2023-08-04
+1571,1605,Gabriela Mistral,2023-05-13,1,Enfermedad grave hijo <1,37213290-1,Los Ríos,41693,Pagado,2023-06-29
+1572,1606,Los Andes,2024-03-21,14,Accidente,04787688-6,Aysén,453726,Pagado,2024-04-13
+1573,1607,Los Andes,2023-01-28,20,COVID-19,85996486-2,Magallanes,563100,Pagado,2023-03-02
+1574,1608,Los Héroes,2024-04-23,1,Accidente,03195419-6,Los Ríos,48770,Pagado,2024-06-20
+1575,1609,Los Andes,2023-07-06,1,Enfermedad grave hijo <1,45057303-6,Coquimbo,51680,Pendiente,
+1576,1609,Los Andes,2024-06-03,13,Enfermedad grave hijo <1,92463203-7,Maule,639457,Rechazado,
+1577,1610,18 de Septiembre,2023-06-05,8,Enfermedad grave hijo <1,67753726-0,O'Higgins,371080,Pagado,2023-06-26
+1578,1610,18 de Septiembre,2024-01-19,24,Accidente,14505766-1,Ñuble,1153488,Pagado,2024-01-28
+1579,1610,18 de Septiembre,2024-07-15,14,Maternidad,88707155-3,Ñuble,509656,Pagado,2024-07-27
+1580,1610,18 de Septiembre,2023-06-03,1,Cuidados paliativos,20128400-8,Metropolitana,24678,Pagado,2023-07-05
+1581,1612,Los Andes,2024-11-01,8,COVID-19,85076597-5,Biobío,429488,Pagado,2024-11-20
+1582,1612,Los Andes,2025-03-30,13,Maternidad,50891776-8,Tarapacá,247962,Pagado,2025-05-06
+1583,1613,Los Andes,2023-10-23,12,COVID-19,89812657-K,Maule,563484,Rechazado,
+1584,1614,Los Héroes,2023-08-26,1,Accidente,23196463-0,Tarapacá,47627,Pagado,2023-09-08
+1585,1617,Los Héroes,2023-12-18,34,Maternidad,02369362-6,Maule,1375062,Pendiente,
+1586,1617,Los Héroes,2025-03-24,6,Accidente,01204713-7,Valparaíso,153924,Pagado,2025-05-13
+1587,1622,Los Andes,2024-12-08,6,COVID-19,71175957-4,Biobío,97302,Pagado,2025-01-04
+1588,1622,Los Andes,2023-11-13,1,COVID-19,58298493-3,Arica y Parinacota,49270,Pagado,2023-12-20
+1589,1622,Los Andes,2024-12-11,5,Enfermedad grave hijo <1,74584760-9,Ñuble,104055,Pagado,2024-12-28
+1590,1623,La Araucana,2023-04-08,1,Salud Mental,41283337-2,Atacama,16903,Pagado,2023-05-20
+1591,1626,Los Andes,2024-01-20,9,COVID-19,88566695-4,Antofagasta,182196,Pagado,2024-03-17
+1592,1628,Los Andes,2023-10-23,1,Accidente,29715066-6,Coquimbo,48181,Pagado,2023-11-03
+1593,1628,Los Andes,2024-06-08,24,Enfermedad grave hijo <1,70551437-7,Los Ríos,1250928,Pendiente,
+1594,1628,Los Andes,2025-03-05,11,Cuidados paliativos,36634392-5,Valparaíso,585750,Pendiente,
+1595,1629,Gabriela Mistral,2024-03-10,1,Cuidados paliativos,59611110-2,Los Lagos,48937,Pagado,2024-05-01
+1596,1630,Los Héroes,2023-03-30,1,Enfermedad grave hijo <1,12007202-4,La Araucanía,20530,Pagado,2023-05-22
+1597,1633,La Araucana,2024-09-17,23,COVID-19,59102451-0,Antofagasta,995279,Pendiente,
+1598,1633,La Araucana,2025-05-18,1,Enfermedad común,90326714-9,Ñuble,28679,Rechazado,
+1599,1633,La Araucana,2024-04-07,1,Cuidados paliativos,81942179-4,Valparaíso,26038,Pagado,2024-06-03
+1600,1634,La Araucana,2025-06-10,31,COVID-19,81793406-5,Valparaíso,1558401,Pendiente,
+1601,1635,La Araucana,2024-09-08,1,COVID-19,77584466-3,Ñuble,32923,Pagado,2024-10-27
+1602,1636,La Araucana,2024-02-24,18,COVID-19,53372201-0,Atacama,934056,Pendiente,
+1603,1636,La Araucana,2024-10-22,1,Accidente,17221455-9,O'Higgins,30034,Pagado,2024-12-19
+1604,1637,La Araucana,2024-06-26,18,COVID-19,76618943-7,Tarapacá,964080,Pagado,2024-08-10
+1605,1638,Los Héroes,2025-05-29,13,Maternidad,26351004-6,Valparaíso,289744,Pagado,2025-06-14
+1606,1638,Los Héroes,2023-08-15,3,Salud Mental,77657256-K,Biobío,142200,Pagado,2023-08-26
+1607,1639,Los Andes,2023-02-27,1,Salud Mental,92024617-5,Coquimbo,44816,Pagado,2023-04-13
+1608,1640,18 de Septiembre,2024-06-29,18,Enfermedad común,23897432-6,Tarapacá,985338,Pagado,2024-07-22
+1609,1644,Los Andes,2023-02-27,20,Salud Mental,05595501-7,Metropolitana,631760,Pagado,2023-04-10
+1610,1644,Los Andes,2023-12-29,1,Accidente,25848689-9,Metropolitana,24524,Pagado,2024-01-13
+1611,1644,Los Andes,2025-04-05,1,Enfermedad grave hijo <1,07984870-4,Biobío,33402,Pagado,2025-05-23
+1612,1645,Los Andes,2023-01-08,1,Enfermedad común,69176799-3,Biobío,30029,Pagado,2023-01-29
+1613,1648,Los Héroes,2024-02-24,37,Salud Mental,93744039-4,Los Ríos,1952749,Pagado,2024-04-12
+1614,1648,Los Héroes,2025-01-02,17,Maternidad,08303736-0,Los Lagos,525657,Pagado,2025-02-04
+1615,1648,Los Héroes,2025-01-02,1,Enfermedad común,14886084-9,Tarapacá,19353,Pagado,2025-01-25
+1616,1649,La Araucana,2023-07-09,14,Enfermedad grave hijo <1,93884136-8,Biobío,318780,Pagado,2023-09-06
+1617,1652,18 de Septiembre,2023-08-01,5,Accidente,83061537-0,Atacama,268845,Pagado,2023-09-12
+1618,1652,18 de Septiembre,2024-03-12,1,Accidente,42446263-2,La Araucanía,51655,Pagado,2024-04-29
+1619,1653,18 de Septiembre,2023-09-29,20,Enfermedad común,44881121-0,O'Higgins,691160,Pendiente,
+1620,1653,18 de Septiembre,2023-02-09,1,Enfermedad común,42175188-7,Atacama,45954,Pagado,2023-03-21
+1621,1654,Los Héroes,2024-08-25,7,Enfermedad grave hijo <1,94151526-3,Maule,256900,Pagado,2024-09-11
+1622,1654,Los Héroes,2025-03-10,16,COVID-19,09112252-8,Metropolitana,321008,Pagado,2025-05-05
+1623,1655,Los Héroes,2023-02-10,1,Enfermedad grave hijo <1,50566186-3,Valparaíso,51440,Pagado,2023-03-09
+1624,1655,Los Héroes,2024-04-03,28,Accidente,97913787-6,Biobío,1223712,Pagado,2024-05-03
+1625,1655,Los Héroes,2024-09-07,1,COVID-19,53007309-5,Arica y Parinacota,42022,Pendiente,
+1626,1655,Los Héroes,2023-04-01,42,COVID-19,55605712-1,Atacama,2030616,Pagado,2023-05-10
+1627,1655,Los Héroes,2024-01-14,28,Cuidados paliativos,27788519-0,Biobío,1458688,Pagado,2024-02-29
+1628,1655,Los Héroes,2024-12-26,1,Accidente,48640104-K,Coquimbo,19462,Pagado,2025-02-11
+1629,1656,La Araucana,2023-08-04,37,COVID-19,46245618-5,Antofagasta,1050578,Pendiente,
+1630,1658,18 de Septiembre,2024-02-03,17,Enfermedad grave hijo <1,44600452-1,Coquimbo,709291,Pagado,2024-02-10
+1631,1658,18 de Septiembre,2023-07-11,10,Cuidados paliativos,99151145-5,Atacama,252490,Pagado,2023-09-07
+1632,1659,Los Andes,2024-07-15,3,Accidente,93913044-8,Antofagasta,73866,Pagado,2024-08-21
+1633,1660,Los Héroes,2023-03-18,15,Salud Mental,89848416-0,Ñuble,439740,Pendiente,
+1634,1662,18 de Septiembre,2024-10-10,10,Enfermedad grave hijo <1,15402119-0,Atacama,465100,Pendiente,
+1635,1664,Los Héroes,2024-03-05,1,Enfermedad grave hijo <1,07568142-9,O'Higgins,49514,Pagado,2024-04-06
+1636,1665,Los Héroes,2024-03-05,14,Enfermedad común,52291073-2,Valparaíso,634480,Pagado,2024-04-06
+1637,1667,Los Andes,2023-06-19,1,COVID-19,83608493-7,O'Higgins,36248,Pagado,2023-06-28
+1638,1668,Gabriela Mistral,2023-04-11,1,Enfermedad común,63963845-2,Los Ríos,28408,Pagado,2023-05-14
+1639,1669,18 de Septiembre,2024-05-30,1,Cuidados paliativos,69443916-4,Magallanes,20728,Pagado,2024-06-25
+1640,1669,18 de Septiembre,2023-05-13,33,Enfermedad común,16934292-K,Atacama,1568556,Pendiente,
+1641,1669,18 de Septiembre,2023-01-17,12,COVID-19,32033016-2,Metropolitana,583020,Pendiente,
+1642,1670,La Araucana,2024-11-15,7,Maternidad,19031061-5,Metropolitana,151487,Rechazado,
+1643,1672,Los Héroes,2024-11-10,20,Enfermedad grave hijo <1,22155668-K,Maule,958320,Pagado,2024-12-01
+1644,1673,Gabriela Mistral,2023-07-30,3,Enfermedad grave hijo <1,32365337-7,Maule,154305,Pagado,2023-08-04
+1645,1673,Gabriela Mistral,2023-01-24,1,Enfermedad grave hijo <1,04067200-7,Ñuble,28029,Pagado,2023-02-01
+1646,1677,Los Héroes,2024-05-06,22,Accidente,61424426-0,Magallanes,950510,Pagado,2024-05-22
+1647,1677,Los Héroes,2024-02-01,14,Salud Mental,81975437-3,Maule,715106,Pendiente,
+1648,1680,18 de Septiembre,2025-01-23,19,Salud Mental,76427372-0,O'Higgins,973294,Pagado,2025-02-15
+1649,1682,Los Andes,2023-07-01,7,COVID-19,76388214-5,Maule,286286,Pagado,2023-08-09
+1650,1682,Los Andes,2024-07-02,11,COVID-19,14846019-1,O'Higgins,226754,Pagado,2024-08-11
+1651,1683,18 de Septiembre,2025-01-18,1,Maternidad,43899827-8,Arica y Parinacota,49401,Pagado,2025-02-21
+1652,1683,18 de Septiembre,2023-12-02,1,Accidente,05869507-3,Valparaíso,52469,Pagado,2024-01-29
+1653,1685,Los Héroes,2024-09-04,27,Enfermedad común,46449369-9,La Araucanía,651780,Rechazado,
+1654,1685,Los Héroes,2024-07-21,1,Enfermedad común,67933505-5,Magallanes,26624,Pendiente,
+1655,1689,Gabriela Mistral,2023-03-14,13,Salud Mental,38573680-1,Atacama,394914,Pagado,2023-05-09
+1656,1691,Los Andes,2023-03-22,24,Cuidados paliativos,23603768-1,Atacama,1203288,Pagado,2023-05-08
+1657,1696,Gabriela Mistral,2024-10-17,22,COVID-19,87233351-0,Maule,1060554,Pagado,2024-12-15
+1658,1696,Gabriela Mistral,2023-11-04,1,Enfermedad común,96149731-5,O'Higgins,22466,Rechazado,
+1659,1696,Gabriela Mistral,2024-01-12,21,Cuidados paliativos,11498307-4,Valparaíso,379638,Pagado,2024-02-09
+1660,1696,Gabriela Mistral,2024-02-24,1,COVID-19,07365118-9,O'Higgins,43947,Pagado,2024-04-07
+1661,1698,Gabriela Mistral,2023-12-21,28,Cuidados paliativos,40655782-0,Atacama,1325856,Pagado,2024-02-08
+1662,1698,Gabriela Mistral,2024-08-22,33,COVID-19,90432230-2,Metropolitana,1188264,Pagado,2024-09-17
+1663,1699,Los Héroes,2024-01-01,34,Salud Mental,33247073-9,Coquimbo,718794,Pagado,2024-02-17
+1664,1699,Los Héroes,2025-05-19,1,Enfermedad común,13546212-7,Los Ríos,24131,Pendiente,
+1665,1699,Los Héroes,2023-04-21,2,Enfermedad común,25082611-2,Metropolitana,100648,Pagado,2023-06-13
+1666,1700,Los Héroes,2024-06-29,1,Enfermedad común,26163248-8,Biobío,19089,Pagado,2024-07-25
+1667,1700,Los Héroes,2023-08-18,21,Enfermedad grave hijo <1,29893762-9,Aysén,686574,Pagado,2023-08-24
+1668,1700,Los Héroes,2023-07-01,1,Maternidad,54930364-6,Aysén,24454,Pagado,2023-08-16
+1669,1701,Los Héroes,2023-02-09,8,Enfermedad común,91203818-7,Los Ríos,256304,Pendiente,
+1670,1702,Los Héroes,2023-07-19,25,COVID-19,92082832-3,Tarapacá,1163625,Pagado,2023-07-30
+1671,1703,Los Héroes,2023-08-15,9,Cuidados paliativos,98138815-8,Antofagasta,202887,Rechazado,
+1672,1706,18 de Septiembre,2024-01-11,27,Maternidad,45822067-3,Coquimbo,443664,Pagado,2024-02-07
+1673,1707,Los Andes,2023-04-25,10,Salud Mental,31829716-K,Antofagasta,315330,Pagado,2023-05-11
+1674,1707,Los Andes,2025-04-18,1,COVID-19,57245000-0,Arica y Parinacota,53912,Pagado,2025-06-16
+1675,1708,Los Héroes,2023-10-26,14,Salud Mental,01529113-7,Atacama,381178,Pendiente,
+1676,1711,La Araucana,2023-12-01,30,Enfermedad grave hijo <1,85090255-6,Atacama,894000,Rechazado,
+1677,1711,La Araucana,2023-05-17,21,Salud Mental,84442182-9,Magallanes,1066065,Pagado,2023-06-13
+1678,1713,La Araucana,2024-03-08,1,Maternidad,78122489-0,Biobío,30409,Pagado,2024-04-08
+1679,1713,La Araucana,2023-04-25,1,Enfermedad grave hijo <1,70867009-0,Arica y Parinacota,39335,Pagado,2023-05-12
+1680,1713,La Araucana,2023-03-21,13,COVID-19,43655158-4,Coquimbo,312169,Pagado,2023-04-27
+1681,1714,La Araucana,2023-01-18,32,Enfermedad grave hijo <1,69136248-3,Biobío,1706656,Pagado,2023-02-27
+1682,1714,La Araucana,2023-04-26,5,Maternidad,05429608-0,Magallanes,177765,Pagado,2023-06-21
+1683,1716,La Araucana,2023-08-10,6,Enfermedad común,63369987-9,La Araucanía,188250,Pagado,2023-10-08
+1684,1723,Gabriela Mistral,2023-08-06,24,Salud Mental,09822104-0,Atacama,1188240,Pagado,2023-08-30
+1685,1723,Gabriela Mistral,2024-07-20,6,Salud Mental,64818804-K,Maule,306468,Pendiente,
+1686,1723,Gabriela Mistral,2024-10-17,1,Salud Mental,28773836-3,Antofagasta,45030,Pagado,2024-12-07
+1687,1727,18 de Septiembre,2025-05-02,15,Enfermedad grave hijo <1,43212694-2,Ñuble,795225,Pendiente,
+1688,1727,18 de Septiembre,2025-04-01,27,Enfermedad grave hijo <1,42036258-6,Metropolitana,876258,Pagado,2025-05-07
+1689,1728,La Araucana,2024-11-02,15,Enfermedad común,44170646-2,La Araucanía,480225,Pagado,2024-12-14
+1690,1728,La Araucana,2024-11-28,20,Salud Mental,54026355-8,Valparaíso,617040,Pendiente,
+1691,1729,Los Héroes,2023-07-20,18,Maternidad,30176464-4,Arica y Parinacota,448110,Pagado,2023-09-09
+1692,1731,Los Héroes,2023-01-03,1,Salud Mental,31538882-4,Biobío,51053,Pagado,2023-01-27
+1693,1731,Los Héroes,2024-06-27,6,COVID-19,27905040-4,O'Higgins,175362,Pagado,2024-08-05
+1694,1731,Los Héroes,2023-04-18,10,Accidente,33538495-1,Los Ríos,184790,Pagado,2023-06-13
+1695,1732,La Araucana,2025-04-23,19,COVID-19,32111978-7,Atacama,705831,Pagado,2025-05-08
+1696,1735,Gabriela Mistral,2025-02-05,5,Cuidados paliativos,09339137-3,Coquimbo,118455,Pagado,2025-03-02
+1697,1735,Gabriela Mistral,2024-08-14,11,Enfermedad grave hijo <1,53060119-8,Magallanes,482900,Rechazado,
+1698,1737,Los Héroes,2023-06-23,1,Salud Mental,56178688-0,Arica y Parinacota,42860,Pagado,2023-08-10
+1699,1737,Los Héroes,2025-01-01,6,Accidente,30091561-8,Coquimbo,103578,Pagado,2025-02-22
+1700,1739,Los Andes,2023-07-25,1,Salud Mental,98036577-4,Ñuble,34560,Pagado,2023-09-15
+1701,1740,Los Héroes,2024-05-05,1,Salud Mental,91609365-9,La Araucanía,49301,Pagado,2024-07-02
+1702,1741,La Araucana,2023-08-20,1,Accidente,01491189-4,Atacama,40271,Pagado,2023-10-09
+1703,1743,18 de Septiembre,2023-01-27,8,Cuidados paliativos,43368750-9,Coquimbo,337760,Pagado,2023-02-05
+1704,1745,Los Andes,2023-05-05,14,Salud Mental,63223998-2,Antofagasta,643006,Rechazado,
+1705,1745,Los Andes,2024-12-25,15,Accidente,74556114-0,Ñuble,744900,Pagado,2025-01-20
+1706,1745,Los Andes,2024-08-17,25,Accidente,88605053-7,Los Ríos,1359575,Pagado,2024-08-27
+1707,1745,Los Andes,2024-11-30,17,Enfermedad grave hijo <1,60811260-0,Metropolitana,677977,Pendiente,
+1708,1747,La Araucana,2025-01-05,1,Salud Mental,08356691-0,Los Ríos,52873,Pagado,2025-02-01
+1709,1747,La Araucana,2025-05-16,1,Accidente,71531234-5,La Araucanía,17599,Pagado,2025-07-07
+1710,1750,Gabriela Mistral,2024-02-14,14,Enfermedad común,68826917-K,Magallanes,474810,Pagado,2024-03-05
+1711,1751,Los Andes,2024-02-09,10,Enfermedad grave hijo <1,82938440-1,O'Higgins,402800,Pendiente,
+1712,1753,Los Héroes,2023-04-24,1,Maternidad,80873543-7,Coquimbo,38233,Pendiente,
+1713,1753,Los Héroes,2025-05-09,1,Enfermedad grave hijo <1,03359101-K,La Araucanía,41372,Pendiente,
+1714,1753,Los Héroes,2024-10-23,1,Enfermedad grave hijo <1,09085991-4,Ñuble,29965,Pendiente,
+1715,1753,Los Héroes,2025-02-17,1,Cuidados paliativos,20749269-9,Los Lagos,26340,Pagado,2025-02-24
+1716,1755,18 de Septiembre,2025-06-21,1,Salud Mental,99648997-1,Ñuble,45480,Pagado,2025-07-28
+1717,1755,18 de Septiembre,2023-11-27,15,Accidente,85969325-9,Atacama,779100,Pagado,2023-12-31
+1718,1758,La Araucana,2024-07-13,1,Maternidad,08499323-1,Valparaíso,51094,Pagado,2024-08-02
+1719,1759,Gabriela Mistral,2024-03-18,38,Salud Mental,34266980-6,Arica y Parinacota,1737360,Rechazado,
+1720,1760,La Araucana,2024-05-24,22,Cuidados paliativos,72617607-2,Metropolitana,485914,Pagado,2024-06-21
+1721,1760,La Araucana,2024-09-24,27,Maternidad,83893595-K,O'Higgins,568971,Pendiente,
+1722,1760,La Araucana,2023-08-10,7,Cuidados paliativos,28040561-2,Los Lagos,333865,Pagado,2023-08-26
+1723,1761,Los Héroes,2024-08-23,1,Maternidad,08269582-6,Maule,36179,Pendiente,
+1724,1762,Los Andes,2023-09-13,4,Enfermedad común,86965613-0,Magallanes,179380,Pagado,2023-10-19
+1725,1768,Los Andes,2023-09-27,15,Salud Mental,61238595-1,Maule,748935,Pendiente,
+1726,1768,Los Andes,2024-10-12,1,Salud Mental,34682394-8,Maule,26628,Pendiente,
+1727,1768,Los Andes,2024-01-10,1,COVID-19,00273008-6,Los Ríos,49311,Pagado,2024-02-04
+1728,1769,Los Andes,2025-05-21,52,Enfermedad grave hijo <1,10168311-K,Metropolitana,1750112,Pagado,2025-06-10
+1729,1772,Los Andes,2023-10-06,13,Salud Mental,95001680-9,Maule,226395,Pagado,2023-11-25
+1730,1773,18 de Septiembre,2023-11-04,44,Enfermedad común,49150762-K,Metropolitana,1717936,Pagado,2023-11-20
+1731,1773,18 de Septiembre,2025-06-27,9,Salud Mental,97620534-4,Arica y Parinacota,447444,Pagado,2025-07-30
+1732,1774,Gabriela Mistral,2023-11-13,32,Enfermedad grave hijo <1,77946207-2,Los Ríos,1526752,Pagado,2023-12-27
+1733,1775,Gabriela Mistral,2025-03-16,1,Salud Mental,62925081-7,Magallanes,34084,Pagado,2025-04-01
+1734,1778,Los Andes,2023-05-22,18,Enfermedad grave hijo <1,02991406-8,Maule,475344,Pagado,2023-06-29
+1735,1779,Los Andes,2025-06-04,21,Enfermedad común,33373125-5,Valparaíso,886515,Pagado,2025-06-13
+1736,1781,Los Héroes,2024-03-03,4,Accidente,56178170-3,Valparaíso,188144,Pagado,2024-04-19
+1737,1782,Los Héroes,2025-01-29,1,COVID-19,11920613-6,O'Higgins,38266,Pagado,2025-03-19
+1738,1783,18 de Septiembre,2025-05-29,2,Salud Mental,85277895-6,Atacama,58836,Pagado,2025-06-20
+1739,1784,Gabriela Mistral,2025-02-03,1,Accidente,37184449-0,Valparaíso,23108,Pagado,2025-02-09
+1740,1785,Los Héroes,2023-08-03,17,Salud Mental,95026480-1,Los Lagos,515457,Pagado,2023-09-18
+1741,1786,La Araucana,2023-05-22,7,Maternidad,40373416-7,Atacama,337246,Pagado,2023-07-04
+1742,1787,La Araucana,2023-11-23,16,Accidente,77822102-K,Antofagasta,857648,Pagado,2024-01-13
+1743,1788,Los Andes,2023-12-22,1,Enfermedad grave hijo <1,98213486-2,Biobío,18295,Pagado,2024-01-07
+1744,1790,Los Héroes,2024-08-03,2,COVID-19,79736383-1,Valparaíso,104112,Pagado,2024-08-27
+1745,1791,La Araucana,2023-07-14,11,Cuidados paliativos,56053970-7,Los Lagos,218614,Pagado,2023-07-28
+1746,1792,Gabriela Mistral,2024-09-15,14,Enfermedad grave hijo <1,17706736-8,Coquimbo,272048,Pendiente,
+1747,1795,Gabriela Mistral,2023-09-07,30,Salud Mental,05068212-2,O'Higgins,719640,Pagado,2023-10-06
+1748,1796,Gabriela Mistral,2023-10-12,1,COVID-19,55216505-8,Aysén,30032,Pagado,2023-12-01
+1749,1796,Gabriela Mistral,2024-08-03,4,Enfermedad común,46921821-9,Coquimbo,83472,Pagado,2024-08-17
+1750,1796,Gabriela Mistral,2025-05-23,23,Maternidad,96790898-K,Maule,724845,Pagado,2025-06-04
+1751,1796,Gabriela Mistral,2024-01-02,42,Accidente,69984802-2,Tarapacá,1919484,Pendiente,
+1752,1797,18 de Septiembre,2023-02-25,1,Salud Mental,50938694-8,Ñuble,51432,Pendiente,
+1753,1801,18 de Septiembre,2023-11-29,24,COVID-19,24959881-K,Antofagasta,1285944,Pagado,2023-12-25
+1754,1801,18 de Septiembre,2024-04-29,12,Maternidad,57887071-5,Valparaíso,187128,Pagado,2024-05-16
+1755,1802,Los Héroes,2023-02-21,32,Accidente,86767382-0,Aysén,1331360,Rechazado,
+1756,1802,Los Héroes,2024-05-19,1,Maternidad,61917798-7,Los Ríos,45209,Pagado,2024-07-14
+1757,1803,La Araucana,2025-03-11,49,Cuidados paliativos,29968722-5,Metropolitana,2032912,Pagado,2025-03-28
+1758,1803,La Araucana,2023-07-07,35,Enfermedad grave hijo <1,08580623-5,Tarapacá,1279810,Pagado,2023-08-10
+1759,1803,La Araucana,2023-06-20,1,COVID-19,40566957-9,Tarapacá,48926,Pagado,2023-07-17
+1760,1803,La Araucana,2023-01-31,13,Enfermedad común,12482554-4,Valparaíso,422864,Pagado,2023-03-27
+1761,1803,La Araucana,2025-04-06,1,Cuidados paliativos,67963259-4,Valparaíso,41916,Pagado,2025-05-02
+1762,1804,Los Héroes,2023-09-27,17,COVID-19,32894633-8,Atacama,870978,Pagado,2023-11-04
+1763,1805,Gabriela Mistral,2024-02-28,1,Maternidad,62415285-7,Valparaíso,47699,Pendiente,
+1764,1805,Gabriela Mistral,2025-03-31,14,Maternidad,62926933-5,La Araucanía,380982,Pendiente,
+1765,1807,18 de Septiembre,2023-05-30,27,Enfermedad común,38186550-K,Magallanes,1022787,Pagado,2023-07-28
+1766,1809,La Araucana,2024-02-18,17,Cuidados paliativos,46850957-K,Ñuble,502010,Pagado,2024-04-10
+1767,1810,Los Andes,2023-05-13,19,Salud Mental,43034918-9,Antofagasta,785460,Pagado,2023-07-03
+1768,1810,Los Andes,2023-02-17,19,Salud Mental,17972038-5,O'Higgins,540208,Pagado,2023-04-12
+1769,1810,Los Andes,2024-04-13,7,Maternidad,01536415-4,Aysén,286629,Pendiente,
+1770,1812,Gabriela Mistral,2025-05-10,1,Enfermedad común,55313259-3,Los Lagos,31017,Pagado,2025-05-30
+1771,1813,Los Andes,2023-01-19,1,Enfermedad grave hijo <1,81367500-9,Maule,28851,Pagado,2023-02-25
+1772,1815,La Araucana,2025-04-21,12,Salud Mental,21410527-6,Atacama,393636,Pagado,2025-05-20
+1773,1817,Los Héroes,2024-05-18,1,COVID-19,98780927-0,Maule,35147,Pendiente,
+1774,1818,Gabriela Mistral,2025-06-10,9,Maternidad,23888562-2,Biobío,383067,Pagado,2025-07-03
+1775,1821,La Araucana,2025-03-02,1,Cuidados paliativos,66059867-8,Aysén,50292,Pagado,2025-03-07
+1776,1823,La Araucana,2024-12-08,6,Maternidad,42275854-8,Biobío,237294,Pagado,2025-02-02
+1777,1823,La Araucana,2024-01-01,14,COVID-19,96559428-2,Ñuble,415268,Pendiente,
+1778,1825,Los Andes,2024-02-05,1,Cuidados paliativos,11650200-0,Coquimbo,20439,Pagado,2024-02-22
+1779,1826,Gabriela Mistral,2024-01-26,25,Salud Mental,45393132-K,Atacama,1201100,Pagado,2024-02-09
+1780,1826,Gabriela Mistral,2023-08-02,56,Salud Mental,55130557-0,Metropolitana,2932776,Pagado,2023-08-28
+1781,1827,Gabriela Mistral,2024-11-24,18,COVID-19,68214448-8,Los Ríos,372852,Pagado,2024-12-02
+1782,1827,Gabriela Mistral,2024-05-13,17,Enfermedad grave hijo <1,99727367-K,Aysén,485894,Rechazado,
+1783,1828,La Araucana,2024-08-03,1,COVID-19,46202582-5,Ñuble,21307,Pagado,2024-08-11
+1784,1828,La Araucana,2025-05-04,3,Accidente,18328123-1,Coquimbo,102786,Pagado,2025-05-14
+1785,1828,La Araucana,2024-06-19,1,Accidente,92049106-0,Antofagasta,35325,Pagado,2024-07-07
+1786,1828,La Araucana,2024-03-09,4,Cuidados paliativos,36472387-5,Arica y Parinacota,65612,Pagado,2024-03-28
+1787,1829,Los Andes,2023-09-19,1,Cuidados paliativos,27681722-5,Magallanes,44098,Pendiente,
+1788,1829,Los Andes,2025-05-01,1,Enfermedad grave hijo <1,54584726-2,Tarapacá,30040,Pendiente,
+1789,1830,La Araucana,2025-03-06,35,Maternidad,29187683-1,Los Ríos,1007860,Pagado,2025-04-04
+1790,1830,La Araucana,2023-08-27,43,Enfermedad común,82717217-K,Metropolitana,785223,Pagado,2023-09-21
+1791,1831,18 de Septiembre,2024-04-25,5,Accidente,73992052-2,Coquimbo,94230,Pagado,2024-05-24
+1792,1832,La Araucana,2023-02-15,14,Cuidados paliativos,99362165-K,Antofagasta,640080,Pagado,2023-03-18
+1793,1832,La Araucana,2024-09-05,1,COVID-19,43882325-K,La Araucanía,40499,Pendiente,
+1794,1834,La Araucana,2023-03-08,22,COVID-19,39835844-6,Atacama,754380,Pagado,2023-03-13
+1795,1834,La Araucana,2024-03-08,9,Enfermedad grave hijo <1,77326430-9,Biobío,344403,Pagado,2024-04-05
+1796,1835,Los Andes,2024-06-18,15,Maternidad,49791279-9,Aysén,773835,Pagado,2024-07-21
+1797,1837,Los Andes,2024-03-11,4,Enfermedad común,29271205-3,Aysén,144852,Pagado,2024-03-25
+1798,1839,18 de Septiembre,2023-07-15,20,Salud Mental,87137529-8,O'Higgins,649620,Pagado,2023-08-26
+1799,1839,18 de Septiembre,2023-09-21,26,Accidente,20125608-3,Valparaíso,574106,Pagado,2023-10-17
+1800,1840,Los Andes,2024-07-31,1,Enfermedad común,04879788-8,Aysén,20888,Pagado,2024-09-16
+1801,1841,Los Héroes,2024-06-16,26,Maternidad,35852386-0,Tarapacá,602992,Pagado,2024-06-27
+1802,1841,Los Héroes,2024-08-22,7,Accidente,04436199-5,Atacama,170884,Pagado,2024-09-13
+1803,1842,Los Andes,2024-04-25,10,Enfermedad grave hijo <1,15239102-K,Valparaíso,524190,Pagado,2024-06-23
+1804,1842,Los Andes,2024-10-11,1,Salud Mental,95014374-K,Metropolitana,47525,Pagado,2024-11-18
+1805,1842,Los Andes,2023-03-29,12,Enfermedad común,93096713-K,Magallanes,388980,Pagado,2023-05-20
+1806,1843,Los Andes,2025-04-15,24,Enfermedad común,91260221-3,Valparaíso,732840,Pagado,2025-04-22
+1807,1844,18 de Septiembre,2023-02-25,1,Enfermedad común,76720191-1,Atacama,44465,Pagado,2023-03-25
+1808,1845,Gabriela Mistral,2023-05-13,6,Enfermedad grave hijo <1,61220190-7,Coquimbo,191754,Pendiente,
+1809,1847,Los Andes,2024-06-18,7,COVID-19,58733930-4,Metropolitana,270648,Pagado,2024-07-30
+1810,1847,Los Andes,2025-06-04,1,Enfermedad grave hijo <1,65380274-8,Atacama,28217,Pagado,2025-07-22
+1811,1850,La Araucana,2024-01-17,4,Accidente,42114086-K,Coquimbo,118152,Pagado,2024-03-07
+1812,1850,La Araucana,2024-05-24,1,Maternidad,09522946-2,Arica y Parinacota,53655,Pagado,2024-07-19
+1813,1850,La Araucana,2024-02-22,24,Salud Mental,93556103-K,La Araucanía,633576,Pendiente,
+1814,1851,La Araucana,2024-08-05,23,Accidente,97013712-4,Metropolitana,751732,Pagado,2024-08-20
+1815,1853,Los Andes,2023-04-01,1,Enfermedad grave hijo <1,58585642-3,Arica y Parinacota,51005,Pagado,2023-05-01
+1816,1853,Los Andes,2024-07-02,20,Maternidad,12027061-5,Valparaíso,753920,Pendiente,
+1817,1853,Los Andes,2025-02-03,10,Enfermedad grave hijo <1,38740299-0,Aysén,448370,Pagado,2025-03-12
+1818,1853,Los Andes,2024-11-25,1,COVID-19,16690632-2,Ñuble,46796,Pagado,2024-12-30
+1819,1855,Los Andes,2024-07-10,1,Cuidados paliativos,15542034-0,O'Higgins,23396,Pagado,2024-08-02
+1820,1856,Gabriela Mistral,2023-06-13,2,Enfermedad común,10956797-5,Los Lagos,67510,Pagado,2023-06-24
+1821,1856,Gabriela Mistral,2024-09-25,1,Salud Mental,49157955-4,Los Lagos,46023,Pagado,2024-10-22
+1822,1860,Los Andes,2023-03-07,28,Salud Mental,23471247-6,Arica y Parinacota,751940,Pagado,2023-03-29
+1823,1860,Los Andes,2024-09-06,14,Enfermedad común,08018103-0,Los Lagos,292726,Pendiente,
+1824,1861,18 de Septiembre,2024-08-21,1,Cuidados paliativos,31764172-6,Tarapacá,30029,Pagado,2024-10-03
+1825,1861,18 de Septiembre,2024-11-01,1,Cuidados paliativos,08157129-0,Atacama,15360,Pagado,2024-11-26
+1826,1861,18 de Septiembre,2023-07-14,3,Maternidad,07138067-1,O'Higgins,99024,Pagado,2023-08-16
+1827,1862,Los Héroes,2023-08-29,10,Enfermedad común,73510458-4,Magallanes,159750,Pendiente,
+1828,1865,Los Héroes,2023-03-03,1,Maternidad,36213009-6,Valparaíso,28134,Rechazado,
+1829,1866,18 de Septiembre,2024-08-12,25,Maternidad,88576694-7,Arica y Parinacota,565850,Pagado,2024-09-28
+1830,1866,18 de Septiembre,2025-05-13,2,Accidente,18053396-2,Aysén,103452,Pendiente,
+1831,1867,La Araucana,2024-09-25,7,Maternidad,66621591-8,O'Higgins,174923,Pagado,2024-10-14
+1832,1868,La Araucana,2023-09-18,23,Salud Mental,27000466-6,Atacama,427133,Pendiente,
+1833,1869,Gabriela Mistral,2023-06-29,10,Maternidad,59011079-7,Aysén,177740,Pagado,2023-08-01
+1834,1870,Los Andes,2025-06-23,2,Enfermedad común,40049388-1,Maule,92002,Pagado,2025-08-13
+1835,1870,Los Andes,2023-01-05,14,Cuidados paliativos,05315204-9,Tarapacá,215502,Pendiente,
+1836,1870,Los Andes,2025-03-03,28,Salud Mental,94976987-K,O'Higgins,1216012,Pagado,2025-04-04
+1837,1871,18 de Septiembre,2024-06-15,1,COVID-19,13797166-9,Ñuble,44621,Pagado,2024-07-13
+1838,1872,Gabriela Mistral,2024-04-23,28,Enfermedad común,66123740-7,Magallanes,1057140,Pagado,2024-05-07
+1839,1874,Los Andes,2024-03-02,35,Cuidados paliativos,43325623-8,Ñuble,1524740,Pendiente,
+1840,1875,Los Andes,2025-02-28,1,Cuidados paliativos,91970142-6,Coquimbo,25677,Pagado,2025-04-24
+1841,1875,Los Andes,2023-07-21,26,Enfermedad común,37087821-1,Los Lagos,463944,Pagado,2023-07-30
+1842,1876,Gabriela Mistral,2024-10-26,1,Enfermedad común,20418135-K,Aysén,32251,Pagado,2024-10-31
+1843,1877,Los Andes,2023-08-28,1,Accidente,11708894-K,Arica y Parinacota,33281,Pagado,2023-10-20
+1844,1878,Los Héroes,2023-11-30,17,Salud Mental,18644822-1,Aysén,447746,Pagado,2023-12-11
+1845,1879,La Araucana,2025-03-14,6,Maternidad,88397857-0,Valparaíso,139950,Pagado,2025-04-25
+1846,1881,18 de Septiembre,2024-06-28,15,Enfermedad común,04806757-K,Antofagasta,460530,Pagado,2024-07-04
+1847,1881,18 de Septiembre,2025-01-11,1,Salud Mental,23691496-1,Antofagasta,34623,Pagado,2025-02-19
+1848,1884,Los Andes,2024-12-12,1,Accidente,87942968-8,Coquimbo,47809,Pagado,2024-12-18
+1849,1884,Los Andes,2023-07-12,13,Enfermedad grave hijo <1,69704095-3,Atacama,242957,Pendiente,
+1850,1885,Los Andes,2023-04-07,1,Maternidad,19615607-8,O'Higgins,31491,Pendiente,
+1851,1886,Los Andes,2023-09-09,40,Accidente,74883565-1,Aysén,630640,Pagado,2023-09-21
+1852,1887,Los Andes,2024-05-09,6,Cuidados paliativos,62409649-6,Los Ríos,202542,Pagado,2024-07-03
+1853,1888,18 de Septiembre,2024-04-10,1,Cuidados paliativos,34960478-4,Coquimbo,43788,Pagado,2024-05-17
+1854,1889,Los Héroes,2023-08-21,23,Enfermedad común,70285162-2,La Araucanía,696072,Pagado,2023-09-10
+1855,1889,Los Héroes,2023-01-09,12,Cuidados paliativos,36488208-9,O'Higgins,519000,Pagado,2023-02-04
+1856,1889,Los Héroes,2023-12-26,17,Maternidad,86883906-2,Maule,292791,Pendiente,
+1857,1891,18 de Septiembre,2023-07-21,1,Enfermedad grave hijo <1,72879916-0,Antofagasta,23265,Pendiente,
+1858,1892,18 de Septiembre,2023-07-02,16,Enfermedad común,41319359-K,Valparaíso,621984,Pagado,2023-07-17
+1859,1893,La Araucana,2023-07-05,1,Salud Mental,36133760-5,Valparaíso,40215,Pagado,2023-09-01
+1860,1893,La Araucana,2024-05-01,24,Accidente,04588165-0,Valparaíso,744144,Pagado,2024-05-26
+1861,1894,La Araucana,2024-04-16,1,Maternidad,44724191-6,Biobío,16571,Pagado,2024-06-01
+1862,1897,Gabriela Mistral,2024-04-05,16,COVID-19,03440966-1,Magallanes,646112,Pendiente,
+1863,1898,La Araucana,2024-12-28,19,Salud Mental,71824989-8,Tarapacá,847039,Pagado,2025-01-04
+1864,1899,La Araucana,2023-10-04,13,Cuidados paliativos,80678214-1,Aysén,592384,Pagado,2023-10-24
+1865,1900,Los Héroes,2023-03-21,10,Maternidad,68135926-K,Los Ríos,535260,Pagado,2023-05-18
+1866,1901,Gabriela Mistral,2023-06-04,1,Maternidad,86989396-9,Aysén,54177,Pagado,2023-08-01
+1867,1901,Gabriela Mistral,2025-05-14,8,Maternidad,86941559-4,Biobío,320256,Pagado,2025-06-18
+1868,1902,Gabriela Mistral,2024-12-05,1,Salud Mental,01192920-K,Magallanes,44799,Pagado,2025-01-01
+1869,1902,Gabriela Mistral,2025-03-25,29,Maternidad,36051171-6,Tarapacá,724971,Pendiente,
+1870,1904,Los Andes,2024-03-13,1,Accidente,98863653-6,Coquimbo,44552,Pagado,2024-05-08
+1871,1904,Los Andes,2023-12-14,33,Enfermedad común,89455906-7,Arica y Parinacota,513513,Pagado,2024-02-06
+1872,1905,Los Héroes,2023-04-16,1,Enfermedad común,09942489-4,Valparaíso,50006,Pendiente,
+1873,1905,Los Héroes,2023-04-30,22,Enfermedad común,46648966-7,Los Lagos,835648,Pagado,2023-06-04
+1874,1906,Gabriela Mistral,2023-04-29,11,Enfermedad común,56420456-5,Magallanes,208428,Pendiente,
+1875,1907,La Araucana,2023-11-05,24,Salud Mental,75809745-3,Metropolitana,1133712,Pagado,2023-11-28
+1876,1908,Gabriela Mistral,2023-08-20,7,Salud Mental,89062354-6,Los Ríos,230776,Pagado,2023-09-04
+1877,1908,Gabriela Mistral,2025-04-20,30,Salud Mental,22654016-K,Biobío,1625370,Pagado,2025-06-01
+1878,1909,Los Héroes,2024-03-06,1,Cuidados paliativos,95300622-1,Valparaíso,16315,Pagado,2024-04-22
+1879,1911,18 de Septiembre,2025-04-29,11,Accidente,42767746-2,Biobío,444356,Pagado,2025-05-18
+1880,1912,La Araucana,2023-02-16,11,Cuidados paliativos,16011241-1,La Araucanía,341770,Pagado,2023-03-01
+1881,1913,Los Héroes,2024-03-23,5,Salud Mental,84886008-0,Atacama,231755,Pagado,2024-05-12
+1882,1914,18 de Septiembre,2023-03-28,17,Enfermedad grave hijo <1,98677823-1,Valparaíso,459680,Pagado,2023-04-03
+1883,1914,18 de Septiembre,2023-08-20,4,Cuidados paliativos,95704726-4,Valparaíso,114856,Pendiente,
+1884,1915,18 de Septiembre,2024-07-08,1,COVID-19,61212038-4,O'Higgins,46452,Pagado,2024-08-10
+1885,1916,Gabriela Mistral,2023-09-20,1,COVID-19,75365968-0,Aysén,51397,Pagado,2023-09-27
+1886,1916,Gabriela Mistral,2024-02-13,1,Cuidados paliativos,52548242-1,O'Higgins,26324,Pagado,2024-03-11
+1887,1916,Gabriela Mistral,2023-04-21,7,Cuidados paliativos,54540064-4,La Araucanía,212604,Pagado,2023-04-26
+1888,1918,18 de Septiembre,2024-01-15,24,Maternidad,75231123-2,Aysén,474072,Pendiente,
+1889,1919,Gabriela Mistral,2023-03-30,1,Maternidad,89791776-3,O'Higgins,44739,Pagado,2023-05-08
+1890,1920,Los Héroes,2023-06-18,14,COVID-19,42720388-6,Valparaíso,591710,Pagado,2023-08-04
+1891,1922,Los Héroes,2025-01-03,7,Salud Mental,17508019-6,O'Higgins,349692,Pagado,2025-02-26
+1892,1922,Los Héroes,2025-04-03,12,Salud Mental,04530693-5,Coquimbo,652404,Pagado,2025-05-08
+1893,1923,18 de Septiembre,2024-03-14,1,Maternidad,93534001-8,Antofagasta,17216,Rechazado,
+1894,1924,18 de Septiembre,2024-03-30,23,COVID-19,67784816-5,Valparaíso,455607,Pagado,2024-05-01
+1895,1924,18 de Septiembre,2025-03-14,9,Maternidad,44544608-3,La Araucanía,263196,Pagado,2025-03-31
+1896,1925,Los Héroes,2023-11-12,21,COVID-19,17993781-0,Biobío,340368,Pagado,2023-12-05
+1897,1925,Los Héroes,2025-03-15,15,Accidente,91287884-8,Los Ríos,585885,Pagado,2025-04-26
+1898,1925,Los Héroes,2024-12-23,5,Salud Mental,99969882-9,Tarapacá,242885,Pagado,2025-02-20
+1899,1926,Gabriela Mistral,2024-02-29,4,Maternidad,57927147-K,Coquimbo,123672,Pagado,2024-03-29
+1900,1927,Gabriela Mistral,2023-10-08,1,Maternidad,63019864-2,Maule,31832,Pagado,2023-11-28
+1901,1931,Los Héroes,2025-04-03,1,Accidente,38397283-3,Atacama,49359,Pagado,2025-05-25
+1902,1931,Los Héroes,2024-09-19,5,Accidente,18706293-2,Tarapacá,83005,Pagado,2024-09-30
+1903,1933,Los Héroes,2025-04-28,1,COVID-19,98322101-0,Valparaíso,16927,Pagado,2025-05-04
+1904,1933,Los Héroes,2023-09-23,17,Accidente,20018676-6,Atacama,348364,Pagado,2023-10-13
+1905,1936,Los Héroes,2024-07-06,24,Enfermedad común,08987610-8,Antofagasta,478656,Pagado,2024-07-22
+1906,1936,Los Héroes,2024-04-16,42,Salud Mental,43561403-8,Ñuble,1127490,Pagado,2024-06-07
+1907,1936,Los Héroes,2023-10-10,1,Maternidad,31980746-8,Coquimbo,29389,Pagado,2023-11-24
+1908,1936,Los Héroes,2023-10-04,13,Accidente,54695100-3,Arica y Parinacota,666666,Pagado,2023-11-10
+1909,1937,18 de Septiembre,2023-09-19,11,Enfermedad grave hijo <1,62054596-7,Antofagasta,242374,Pendiente,
+1910,1937,18 de Septiembre,2024-08-07,1,Maternidad,00666641-1,Arica y Parinacota,24812,Pagado,2024-08-15
+1911,1937,18 de Septiembre,2023-04-30,2,COVID-19,65411340-7,Biobío,51536,Pagado,2023-05-20
+1912,1938,La Araucana,2024-01-18,10,Enfermedad común,69949708-9,Arica y Parinacota,205660,Pendiente,
+1913,1938,La Araucana,2023-03-12,36,Maternidad,83668348-2,Los Ríos,1030068,Pagado,2023-04-11
+1914,1938,La Araucana,2024-01-29,7,Cuidados paliativos,99962697-0,O'Higgins,351631,Pagado,2024-03-28
+1915,1939,Los Héroes,2023-03-20,2,Cuidados paliativos,68889178-K,Magallanes,52142,Pagado,2023-05-08
+1916,1942,Los Andes,2024-11-01,11,Salud Mental,91505962-5,Aysén,508838,Pagado,2024-11-25
+1917,1942,Los Andes,2023-08-15,29,Salud Mental,19760932-0,Antofagasta,850512,Pagado,2023-09-07
+1918,1943,Gabriela Mistral,2024-07-16,7,Accidente,65789826-0,Ñuble,302673,Pagado,2024-08-06
+1919,1943,Gabriela Mistral,2024-03-21,15,Enfermedad común,80952175-5,Biobío,230085,Pagado,2024-04-01
+1920,1943,Gabriela Mistral,2025-06-28,21,Enfermedad común,77741274-6,Valparaíso,1110858,Pagado,2025-07-07
+1921,1944,Los Héroes,2025-04-02,17,Salud Mental,11882419-9,Los Ríos,275808,Pagado,2025-05-12
+1922,1945,La Araucana,2023-10-31,13,Accidente,64222975-8,Antofagasta,493883,Pagado,2023-11-14
+1923,1946,Los Andes,2023-12-18,1,Enfermedad grave hijo <1,04542185-K,Ñuble,32399,Pagado,2024-01-26
+1924,1947,18 de Septiembre,2024-11-22,3,Maternidad,70568209-2,Coquimbo,66789,Pagado,2024-12-04
+1925,1947,18 de Septiembre,2024-03-18,15,Salud Mental,57090016-3,Biobío,751800,Pagado,2024-04-20
+1926,1948,Los Héroes,2024-05-05,21,Enfermedad grave hijo <1,40723247-2,Valparaíso,975597,Pagado,2024-07-03
+1927,1948,Los Héroes,2023-09-25,21,Cuidados paliativos,95400178-K,Valparaíso,648060,Pagado,2023-11-15
+1928,1949,La Araucana,2023-02-23,1,Accidente,47312616-8,La Araucanía,53767,Pendiente,
+1929,1949,La Araucana,2025-01-15,14,Enfermedad común,71058011-9,La Araucanía,521514,Pagado,2025-03-14
+1930,1949,La Araucana,2023-08-04,15,Enfermedad común,92711526-1,Tarapacá,386850,Pagado,2023-09-13
+1931,1950,Gabriela Mistral,2025-04-12,22,COVID-19,53709230-0,Aysén,785356,Pagado,2025-05-09
+1932,1951,Los Andes,2024-02-12,1,Enfermedad común,69500741-8,Ñuble,51476,Pagado,2024-02-19
+1933,1951,Los Andes,2024-09-29,47,Cuidados paliativos,54329876-9,Metropolitana,2508296,Pagado,2024-11-11
+1934,1951,Los Andes,2024-09-08,30,Salud Mental,65294471-6,Antofagasta,983490,Pagado,2024-10-16
+1935,1951,Los Andes,2024-12-23,4,Cuidados paliativos,82734813-1,Tarapacá,106896,Pagado,2025-01-15
+1936,1952,La Araucana,2023-12-30,1,Maternidad,50258963-K,Valparaíso,46437,Pagado,2024-02-21
+1937,1953,Gabriela Mistral,2023-11-12,1,Enfermedad común,74357483-5,Coquimbo,24439,Pagado,2023-11-30
+1938,1954,La Araucana,2023-02-23,10,Enfermedad grave hijo <1,80648606-7,Metropolitana,479030,Pagado,2023-04-20
+1939,1954,La Araucana,2023-10-09,29,Cuidados paliativos,83448838-4,Valparaíso,1198280,Pagado,2023-11-21
+1940,1957,Los Héroes,2025-05-10,1,Maternidad,36462805-5,Tarapacá,23673,Pagado,2025-06-29
+1941,1960,Gabriela Mistral,2023-08-27,1,Enfermedad grave hijo <1,74065795-5,Antofagasta,43247,Pagado,2023-10-01
+1942,1961,La Araucana,2024-08-07,19,Maternidad,62392090-8,Biobío,1002953,Rechazado,
+1943,1962,18 de Septiembre,2024-04-12,5,Salud Mental,51074091-3,Atacama,214115,Pagado,2024-04-17
+1944,1964,Gabriela Mistral,2024-11-06,6,Enfermedad común,17861902-5,Ñuble,261984,Pagado,2024-12-08
+1945,1964,Gabriela Mistral,2025-06-17,9,COVID-19,76022069-5,O'Higgins,476532,Pagado,2025-06-27
+1946,1965,Los Héroes,2025-05-19,3,Maternidad,41201227-5,La Araucanía,66252,Pagado,2025-06-29
+1947,1965,Los Héroes,2023-12-31,10,Salud Mental,00260151-5,Metropolitana,202720,Pagado,2024-02-05
+1948,1967,La Araucana,2024-10-18,9,Salud Mental,25947950-7,Ñuble,180576,Pagado,2024-11-09
+1949,1968,Los Andes,2024-09-08,25,Enfermedad común,71732798-0,La Araucanía,1116650,Pagado,2024-09-25
+1950,1974,Los Andes,2023-11-29,23,COVID-19,95031006-4,Metropolitana,931914,Pagado,2024-01-05
+1951,1974,Los Andes,2023-05-01,1,Maternidad,03910452-0,Metropolitana,48697,Pagado,2023-05-26
+1952,1975,La Araucana,2024-01-15,35,Enfermedad grave hijo <1,08941184-K,Atacama,659435,Pagado,2024-02-10
+1953,1976,18 de Septiembre,2024-06-11,8,Accidente,59928553-5,Biobío,124424,Pendiente,
+1954,1977,Gabriela Mistral,2023-02-01,3,Accidente,05610067-9,Arica y Parinacota,53559,Pagado,2023-02-28
+1955,1977,Gabriela Mistral,2024-11-19,1,COVID-19,06968018-6,Aysén,29342,Pagado,2024-11-29
+1956,1978,Los Héroes,2024-01-28,19,Enfermedad grave hijo <1,40378423-K,Metropolitana,460978,Pagado,2024-03-02
+1957,1979,La Araucana,2024-05-29,24,Cuidados paliativos,44953006-7,Aysén,1191120,Pendiente,
+1958,1979,La Araucana,2024-11-19,12,Enfermedad grave hijo <1,25503250-1,Magallanes,571716,Pagado,2024-12-07
+1959,1980,18 de Septiembre,2023-07-10,1,Accidente,65426241-7,Maule,35317,Pagado,2023-08-29
+1960,1981,Los Héroes,2023-09-03,9,Accidente,90292334-5,Atacama,140013,Pagado,2023-10-02
+1961,1982,Los Héroes,2023-02-27,7,Enfermedad común,00906053-0,Los Lagos,238847,Pagado,2023-04-10
+1962,1982,Los Héroes,2023-08-23,10,Cuidados paliativos,43021166-7,O'Higgins,381700,Pagado,2023-09-20
+1963,1982,Los Héroes,2023-02-23,25,Salud Mental,29045759-8,Aysén,1303825,Pagado,2023-03-06
+1964,1982,Los Héroes,2025-02-24,7,Maternidad,92129964-2,Los Ríos,365631,Pagado,2025-04-03
+1965,1982,Los Héroes,2025-03-29,4,Enfermedad común,33620275-5,Valparaíso,133704,Pagado,2025-04-13
+1966,1983,La Araucana,2023-02-07,24,Enfermedad común,47709207-1,Antofagasta,1191552,Pagado,2023-02-12
+1967,1983,La Araucana,2023-12-26,17,Salud Mental,52380236-2,Atacama,331092,Pagado,2024-01-26
+1968,1984,Los Andes,2025-01-22,19,COVID-19,92158189-7,Arica y Parinacota,557973,Pagado,2025-03-09
+1969,1985,La Araucana,2023-05-10,17,COVID-19,59161186-3,La Araucanía,790313,Pendiente,
+1970,1985,La Araucana,2024-09-04,1,Maternidad,88195977-2,Atacama,48573,Pagado,2024-09-29
+1971,1987,Los Héroes,2024-10-06,13,Enfermedad grave hijo <1,88005378-9,Metropolitana,567125,Pendiente,
+1972,1989,Los Andes,2025-01-01,27,Enfermedad común,86928972-8,Maule,1077678,Pagado,2025-02-01
+1973,1989,Los Andes,2024-11-29,11,Maternidad,40182272-0,Tarapacá,166122,Pagado,2024-12-18
+1974,1991,Gabriela Mistral,2024-05-25,1,Accidente,83948232-K,Coquimbo,22197,Pagado,2024-06-30
+1975,1992,Los Andes,2023-10-19,3,Enfermedad común,41447432-8,Atacama,121596,Pagado,2023-12-07
+1976,1992,Los Andes,2025-01-26,41,Enfermedad común,65993020-2,Tarapacá,717992,Pagado,2025-03-19
+1977,1992,Los Andes,2025-04-11,17,COVID-19,30423227-7,La Araucanía,876027,Pagado,2025-04-19
+1978,1993,18 de Septiembre,2023-09-14,24,Salud Mental,21353028-1,Los Lagos,408672,Pagado,2023-11-12
+1979,1994,Los Héroes,2024-01-01,15,Maternidad,06463005-9,O'Higgins,672810,Pagado,2024-01-29
+1980,1994,Los Héroes,2025-01-06,1,Salud Mental,77756919-8,O'Higgins,51365,Rechazado,
+1981,1994,Los Héroes,2024-02-05,1,Accidente,10291617-4,Los Ríos,15974,Pagado,2024-03-18
+1982,1995,La Araucana,2024-06-06,1,Salud Mental,90298310-4,O'Higgins,23917,Rechazado,
+1983,1995,La Araucana,2024-10-20,1,Salud Mental,84196622-9,Antofagasta,40650,Pagado,2024-11-06
+1984,1998,Los Andes,2025-05-13,17,Salud Mental,31670805-6,La Araucanía,525555,Pagado,2025-06-28
+1985,1999,Gabriela Mistral,2023-09-03,39,Salud Mental,66706362-1,Los Ríos,2092428,Pagado,2023-09-15
+1986,1999,Gabriela Mistral,2023-05-09,1,Maternidad,50494440-7,Los Lagos,51197,Pendiente,
+1987,2000,18 de Septiembre,2024-09-15,42,Enfermedad grave hijo <1,34933965-0,Ñuble,2070180,Pendiente,

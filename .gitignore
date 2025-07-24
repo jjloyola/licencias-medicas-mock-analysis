@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Environment variables
+config.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Files
+CONTEXT.md
